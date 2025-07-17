@@ -91,22 +91,10 @@ const Contact = () => {
 
   const officeLocations = [
     {
-      city: 'Miami',
-      address: '123 Tropical Avenue, Miami, FL 33101',
-      phone: '+1 (555) 123-4567',
+      city: 'Essen',
+      address: '266, Altendorfer str, Essen 45143, Germany',
+      phone: '0201-8009-5818',
       isHeadquarters: true
-    },
-    {
-      city: 'Los Angeles',
-      address: '456 Pacific Coast Hwy, Los Angeles, CA 90210',
-      phone: '+1 (555) 987-6543',
-      isHeadquarters: false
-    },
-    {
-      city: 'New York',
-      address: '789 Broadway Street, New York, NY 10001',
-      phone: '+1 (555) 456-7890',
-      isHeadquarters: false
     }
   ];
 
@@ -335,12 +323,12 @@ const Contact = () => {
 
                 {/* Map Placeholder */}
                 <div className="bg-white dark:bg-gray-700 rounded-2xl shadow-lg p-6">
-                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Visit Our Miami Headquarters</h3>
+                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Visit Our Germany Headquarters</h3>
                   <div className="bg-gradient-to-br from-green-100 to-green-200 dark:from-gray-600 dark:to-gray-800 rounded-xl h-64 flex items-center justify-center">
                     <div className="text-center">
                       <MapPin className="h-12 w-12 text-green-600 dark:text-green-500 mx-auto mb-2" />
                       <p className="text-gray-600 dark:text-gray-300">Interactive map coming soon</p>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">123 Tropical Avenue, Miami, FL</p>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">266, Altendorfer str, Essen 45143, Germany</p>
                     </div>
                   </div>
                 </div>
