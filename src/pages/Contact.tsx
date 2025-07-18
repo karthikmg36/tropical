@@ -7,8 +7,7 @@ import {
   Send,
   CheckCircle,
   MessageCircle,
-  User,
-  Building
+  User
 } from 'lucide-react';
 
 const Contact = () => {

@@ -1,4 +1,4 @@
-import  { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import {
   Leaf,
@@ -25,8 +25,6 @@ const Footer = () => {
   }, []);
 
   const isScrolledOrNotHome = isScrolled || location.pathname !== '/';
-
-  // Conditional classes for text and icon colors based on scroll and path
   const textColorClass = isScrolledOrNotHome ? 'text-white' : 'text-black';
   const iconColorClass = isScrolledOrNotHome ? 'text-white' : 'text-black';
 
@@ -34,7 +32,7 @@ const Footer = () => {
       <footer className={`bg-gradient-to-b from-green-900 to-green-950 ${isScrolledOrNotHome ? 'text-white' : 'text-black'} transition-colors duration-300`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {/* Brand */}
+            {/* Brand Column */}
             <div className="space-y-6">
               <div className="flex items-center space-x-2">
                 <div className="p-2 bg-gradient-to-r from-green-700 to-green-800 rounded-full">
@@ -54,6 +52,7 @@ const Footer = () => {
                         key={index}
                         href="#"
                         className="w-10 h-10 bg-green-800 rounded-full flex items-center justify-center hover:bg-gradient-to-r hover:from-green-700 hover:to-green-800 transition-all duration-300 hover:scale-110"
+                        aria-label={`Follow us on ${Icon.name}`}
                     >
                       <Icon className={`h-5 w-5 ${iconColorClass}`} />
                     </a>
@@ -61,7 +60,7 @@ const Footer = () => {
               </div>
             </div>
 
-            {/* Quick Links */}
+            {/* Quick Links Column */}
             <div>
               <h3 className="text-lg font-semibold mb-6 text-green-400">Quick Links</h3>
               <ul className="space-y-3">
@@ -84,7 +83,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* Products */}
+            {/* Products Column */}
             <div>
               <h3 className="text-lg font-semibold mb-6 text-green-400">Popular Products</h3>
               <ul className="space-y-3">
@@ -105,7 +104,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* Contact Info */}
+            {/* Contact Column */}
             <div>
               <h3 className="text-lg font-semibold mb-6 text-green-400">Get in Touch</h3>
               <div className="space-y-4">
@@ -122,23 +121,44 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className={`h-5 w-5 ${iconColorClass}`} />
-                  <span className={textColorClass}> tropicalfoods830@yahoo.com</span>
+                  <a href="mailto:tropicalfoods830@yahoo.com" className={`hover:text-green-400 ${textColorClass}`}>
+                    tropicalfoods830@yahoo.com
+                  </a>
                 </div>
               </div>
             </div>
           </div>
 
-          {/* Bottom Bar */}
-          <div className="border-t border-green-800 mt-12 pt-8 flex flex-wrap justify-between items-center gap-4">
+          {/* Legal Footer */}
+          <div className="border-t border-green-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className={`flex items-center flex-wrap gap-1 ${textColorClass}`}>
-              © 2025 Tropical Food Store. Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> for authentic food lovers.
+              © {new Date().getFullYear()} Tropical Food Store. Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> for authentic food lovers.
             </p>
-            <div className="flex space-x-6">
-              <Link to="#" className={`hover:text-green-400 transition-colors duration-300 ${textColorClass}`}>
+
+            <div className="flex flex-wrap justify-center gap-4 md:gap-6">
+              <Link
+                  to="/privacy-policy"
+                  className={`hover:text-green-400 transition-colors duration-300 ${textColorClass} text-sm`}
+              >
                 Privacy Policy
               </Link>
-              <Link to="#" className={`hover:text-green-400 transition-colors duration-300 ${textColorClass}`}>
-                Terms of Service
+              <Link
+                  to="/impressum"
+                  className={`hover:text-green-400 transition-colors duration-300 ${textColorClass} text-sm`}
+              >
+                Legal Notice (Impressum)
+              </Link>
+              <Link
+                  to="/terms"
+                  className={`hover:text-green-400 transition-colors duration-300 ${textColorClass} text-sm`}
+              >
+                Terms & Conditions
+              </Link>
+              <Link
+                  to="/cookies"
+                  className={`hover:text-green-400 transition-colors duration-300 ${textColorClass} text-sm`}
+              >
+                Cookie Policy
               </Link>
             </div>
           </div>
