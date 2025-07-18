@@ -151,7 +151,7 @@ const Contact = () => {
                     <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
                       {info.title}
                     </h3>
-                    <p className="text-lg text-gray-700 dark:text-gray-200 font-medium mb-1">
+                    <p className="text-lg text-gray-700 dark:text-gray-200 font-medium mb-1 break-words">
                       {info.details}
                     </p>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
