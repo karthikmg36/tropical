@@ -1,4 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect,useRef } from 'react';
+import emailjs from '@emailjs/browser'
+
 import {
   Mail,
   Phone,
@@ -19,6 +21,7 @@ const Contact = () => {
     message: ''
   });
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const form = useRef<HTMLFormElement>();
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -40,18 +43,21 @@ const Contact = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Simulate form submission
-    setIsSubmitted(true);
-    setTimeout(() => {
-      setIsSubmitted(false);
-      setFormData({
-        name: '',
-        email: '',
-        phone: '',
-        subject: '',
-        message: ''
-      });
-    }, 3000);
+    
+    emailjs.sendForm('service_vxvs2rs','template_kz7ih7a',form.current,{publicKey:'RO6ZY6656X9IwwGEP'})
+    .then(()=>{setIsSubmitted(true)})
+    .catch(()=>setIsSubmitted(false))
+   
+    // setTimeout(() => {
+    //   setIsSubmitted(false);
+    //   setFormData({
+    //     name: '',
+    //     email: '',
+    //     phone: '',
+    //     subject: '',
+    //     message: ''
+    //   });
+    // }, 3000);
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
@@ -180,7 +186,7 @@ const Contact = () => {
                         </p>
                       </div>
                   ) : (
-                      <form onSubmit={handleSubmit} className="space-y-6">
+                      <form onSubmit={handleSubmit} className="space-y-6" ref={form}>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                           <div>
                             <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
