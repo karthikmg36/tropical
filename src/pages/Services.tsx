@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link, useNavigate } from 'react-router-dom';
 import {
   Truck,
   Clock,
@@ -12,6 +13,8 @@ import {
   Leaf,
   Heart
 } from 'lucide-react';
+
+
 
 const Services = () => {
   useEffect(() => {
@@ -136,14 +139,15 @@ const Services = () => {
     }
   ];
 
+ 
   return (
       <div className="pt-16 bg-gray-100 dark:bg-gray-900">
         {/* Hero Section */}
-        <section className="py-20 bg-gradient-to-br from-green-800 via-green-700 to-green-900 text-white">
+        {/* <section className="py-20 bg-gradient-to-br from-green-800 via-green-700 to-green-900 text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center fade-in">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-                Premium
+              Ready to get started?
                 <span className="block text-yellow-300">Services</span>
               </h1>
               <p className="text-xl md:text-2xl text-green-100 max-w-3xl mx-auto leading-relaxed">
@@ -152,9 +156,9 @@ const Services = () => {
               </p>
             </div>
           </div>
-        </section>
+        </section> */}
 
-        {/* Services Grid */}
+        {/* Services Grid
         <section className="py-20 bg-white dark:bg-gray-800">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
@@ -198,7 +202,7 @@ const Services = () => {
         </section>
 
         {/* Subscription Plans */}
-        <section className="py-20 bg-gray-50 dark:bg-gray-900">
+        {/* <section className="py-20 bg-gray-50 dark:bg-gray-900">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
               <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Subscription Plans</h2>
@@ -262,10 +266,10 @@ const Services = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* Process Section */}
-        <section className="py-20 bg-white dark:bg-gray-800">
+        {/* <section className="py-20 bg-white dark:bg-gray-800">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
               <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">How It Works</h2>
@@ -300,10 +304,10 @@ const Services = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* Benefits Section */}
-        <section className="py-20 bg-gradient-to-br from-green-50 to-green-100 dark:from-gray-900 dark:to-gray-800">
+        {/* <section className="py-20 bg-gradient-to-br from-green-50 to-green-100 dark:from-gray-900 dark:to-gray-800">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
               <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Why Choose Our Services?</h2>
@@ -363,7 +367,7 @@ const Services = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section>  */}
 
         {/* CTA Section */}
         <section className="py-20 bg-gradient-to-r from-green-800 to-green-900 text-white">
@@ -374,12 +378,14 @@ const Services = () => {
                 Choose the service that fits your needs and start enjoying fresh tropical fruits today.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <button className="inline-flex items-center px-8 py-4 bg-white text-green-800 rounded-full font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl">
+                {/* <button className="inline-flex items-center px-8 py-4 bg-white text-green-800 rounded-full font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl">
                   Start Subscription
                   <ArrowRight className="ml-2 h-5 w-5" />
-                </button>
+                </button> */}
                 <button className="inline-flex items-center px-8 py-4 bg-transparent border-2 border-white text-white rounded-full font-semibold text-lg hover:bg-white hover:text-green-800 transition-all duration-300 hover:scale-105">
-                  Contact Us
+                 <Link
+                  to="/contact"
+                 >Contact Us</Link> 
                 </button>
               </div>
             </div>

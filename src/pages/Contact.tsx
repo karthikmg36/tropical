@@ -44,7 +44,7 @@ const Contact = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     
-    emailjs.sendForm('service_vxvs2rs','template_kz7ih7a',form.current,{publicKey:'RO6ZY6656X9IwwGEP'})
+    emailjs.sendForm('service_6dsapci','template_a68qgmn',form.current,{publicKey:'IiTqgbdraqx8uioKg'})
     .then(()=>{setIsSubmitted(true)})
     .catch(()=>setIsSubmitted(false))
    
@@ -59,6 +59,10 @@ const Contact = () => {
     //   });
     // }, 3000);
   };
+
+  const handelResend = ()=>{
+    setIsSubmitted(false);
+  }
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     setFormData({
@@ -122,6 +126,8 @@ const Contact = () => {
     }
   ];
 
+  
+
   return (
       <div className="pt-16 bg-gray-100 dark:bg-gray-900">
         {/* Hero Section */}
@@ -156,7 +162,7 @@ const Contact = () => {
                     <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
                       {info.title}
                     </h3>
-                    <p className="text-lg text-gray-700 dark:text-gray-200 font-medium mb-1 break-words">
+                    <p className="text-sm text-gray-700 dark:text-gray-200 font-medium mb-1 break-words">
                       {info.details}
                     </p>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
@@ -184,6 +190,14 @@ const Contact = () => {
                         <p className="text-gray-600 dark:text-gray-300">
                           Thank you for contacting us. We'll get back to you within 24 hours.
                         </p>
+                        <button
+                            type="submit"
+                            className="w-full bg-gradient-to-r from-green-700 to-green-800 text-white py-4 rounded-full font-semibold text-lg hover:from-green-800 hover:to-green-900 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl flex items-center justify-center gap-2"
+                        onClick={handelResend}
+                        >
+                          <Send className="h-5 w-5" />
+                          Send New Message
+                        </button>
                       </div>
                   ) : (
                       <form onSubmit={handleSubmit} className="space-y-6" ref={form}>
@@ -327,14 +341,18 @@ const Contact = () => {
                 </div>
 
                 {/* Map Placeholder */}
+                
                 <div className="bg-white dark:bg-gray-700 rounded-2xl shadow-lg p-6">
                   <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Visit Our Germany Headquarters</h3>
                   <div className="bg-gradient-to-br from-green-100 to-green-200 dark:from-gray-600 dark:to-gray-800 rounded-xl h-64 flex items-center justify-center">
-                    <div className="text-center">
+
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.88968496423!2d6.979582075653732!3d51.46018181415299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8c291f9b0989b%3A0xa87425f7b337abdc!2sAltendorfer%20Str.%20266%2C%2045143%20Essen%2C%20Germany!5e0!3m2!1sen!2sin!4v1753157890072!5m2!1sen!2sin" loading="lazy" style={{width:'100%',height:'100%',borderRadius:'10px'}}referrerPolicy="no-referrer-when-downgrade"></iframe>
+                      
+                    {/* <div className="text-center">
                       <MapPin className="h-12 w-12 text-green-600 dark:text-green-500 mx-auto mb-2" />
-                      <p className="text-gray-600 dark:text-gray-300">Interactive map coming soon</p>
+                     
                       <p className="text-sm text-gray-500 dark:text-gray-400">266, Altendorfer str, Essen 45143, Germany</p>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -343,7 +361,7 @@ const Contact = () => {
         </section>
 
         {/* FAQ Section */}
-        <section className="py-20 bg-white dark:bg-gray-800">
+        {/* <section className="py-20 bg-white dark:bg-gray-800">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
               <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Frequently Asked Questions</h2>
@@ -370,7 +388,7 @@ const Contact = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* CTA Section */}
         <section className="py-20 bg-gradient-to-r from-green-800 to-green-900 text-white">
@@ -381,12 +399,13 @@ const Contact = () => {
                 Our customer service team is standing by to help you with any questions or concerns.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                
                 <a
-                    href="tel:+15551234567"
+                    href="https://web.whatsapp.com/send/?phone=919036119000&amp;text&amp;type=phone_number&amp;app_absent=0"
                     className="inline-flex items-center px-8 py-4 bg-white text-green-800 rounded-full font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl"
                 >
                   <Phone className="mr-2 h-5 w-5" />
-                  Call Now
+                  Connect on Whatsapp
                 </a>
                 <a
                     href="mailto:hello@tropicalfresh.com"

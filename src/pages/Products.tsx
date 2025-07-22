@@ -1201,7 +1201,7 @@ const Products = () => {
 
                         <div className="p-6">
                           <div className="flex items-center gap-2 mb-3">
-                            {[...Array(5)].map((_, i) => (
+                            {/* {[...Array(5)].map((_, i) => (
                                 <Star
                                     key={i}
                                     className={`h-5 w-5 ${
@@ -1210,21 +1210,21 @@ const Products = () => {
                                             : 'text-gray-300'
                                     }`}
                                 />
-                            ))}
+                            ))} */}
                             <span className="text-sm text-gray-600 dark:text-gray-300 select-none">
-                              {product.rating} ({product.reviews})
+                              {/* {product.rating} ({product.reviews}) */}
                             </span>
                           </div>
 
                           <h3 className="text-lg font-semibold mb-2 dark:text-white">{product.name}</h3>
                           <p className="text-sm text-gray-600 dark:text-gray-400 mb-5 line-clamp-3">{product.description}</p>
 
-                          <div className="flex items-center justify-between mb-5">
+                         {/* <div className="flex items-center justify-between mb-5">
                             <span className="text-2xl font-extrabold text-green-700 dark:text-green-600">€{product.price}</span>
                             {product.originalPrice && (
                                 <span className="text-sm text-gray-400 line-through">€{product.originalPrice}</span>
                             )}
-                          </div>
+                            </div> */}
 
                           <button
                               onClick={() => setSelectedProduct(product)}
