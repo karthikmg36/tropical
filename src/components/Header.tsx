@@ -24,6 +24,7 @@ const Header = () => {
     setIsMenuOpen(false);
   }, [location.pathname]);
 
+
   const navigation = [
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
@@ -31,6 +32,10 @@ const Header = () => {
     { name: 'Services', href: '/services' },
     { name: 'Contact', href: '/contact' },
   ];
+
+  function handelLanguage(){
+    setisGerman((prev)=>!prev);
+  }
 
   return (
       <>
