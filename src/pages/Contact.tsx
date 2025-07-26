@@ -11,6 +11,7 @@ import {
   MessageCircle,
   User
 } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -21,6 +22,7 @@ const Contact = () => {
     message: ''
   });
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const { i18n, t } = useTranslation();
   const form = useRef<HTMLFormElement>();
 
   useEffect(() => {
@@ -82,7 +84,7 @@ const Contact = () => {
       icon: Mail,
       title: 'Email',
       details: 'tropicalfoods830@yahoo.com',
-      subtitle: 'We reply within 24 hours'
+      subtitle: ''
     },
     {
       icon: MapPin,
@@ -93,8 +95,8 @@ const Contact = () => {
     {
       icon: Clock,
       title: 'Business Hours',
-      details: 'Mon-Fri: 8AM-8PM',
-      subtitle: 'Sat-Sun: 9AM-6PM EST'
+      details: 'Mon-Sat: 8AM-8PM CET',
+      subtitle: ''
     }
   ];
 
@@ -107,27 +109,6 @@ const Contact = () => {
     }
   ];
 
-  const faqs = [
-    {
-      question: 'What are your delivery areas?',
-      answer: 'We deliver nationwide across all 50 states. Same-day delivery is available in select metropolitan areas.'
-    },
-    {
-      question: 'How do you ensure fruit freshness?',
-      answer: 'All our fruits are harvested at peak ripeness and transported in temperature-controlled vehicles to maintain optimal freshness.'
-    },
-    {
-      question: 'Do you offer corporate discounts?',
-      answer: 'Yes! We offer special pricing for bulk orders and corporate accounts. Contact us for a custom quote.'
-    },
-    {
-      question: 'What is your return policy?',
-      answer: 'We guarantee 100% satisfaction. If you\'re not happy with your order, contact us within 24 hours for a full refund or replacement.'
-    }
-  ];
-
-  
-
   return (
       <div className="pt-16 bg-gray-100 dark:bg-gray-900">
         {/* Hero Section */}
@@ -135,12 +116,11 @@ const Contact = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center fade-in">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-                Get in
-                <span className="block text-yellow-300">Touch</span>
+                {t('contact.get')}
+                <span className="block text-yellow-300">{t('contact.touch')}</span>
               </h1>
               <p className="text-xl md:text-2xl text-green-100 max-w-3xl mx-auto leading-relaxed">
-                Have questions about our tropical fruits or services? We're here to help!
-                Reach out to our friendly team anytime.
+              {t('contact.question')}
               </p>
             </div>
           </div>
@@ -307,7 +287,7 @@ const Contact = () => {
               {/* Office Locations */}
               <div className="fade-in space-y-8">
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Our Locations</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">{t('contact.ourlocation')}</h2>
                   <div className="space-y-6">
                     {officeLocations.map((location, index) => (
                         <div
@@ -321,7 +301,7 @@ const Contact = () => {
                             </h3>
                             {location.isHeadquarters && (
                                 <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 px-3 py-1 rounded-full text-sm font-medium">
-                            Headquarters
+                            {t('headquarters')}
                           </span>
                             )}
                           </div>
@@ -343,16 +323,9 @@ const Contact = () => {
                 {/* Map Placeholder */}
                 
                 <div className="bg-white dark:bg-gray-700 rounded-2xl shadow-lg p-6">
-                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Visit Our Germany Headquarters</h3>
+                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">{t('contact.headquaters')}</h3>
                   <div className="bg-gradient-to-br from-green-100 to-green-200 dark:from-gray-600 dark:to-gray-800 rounded-xl h-64 flex items-center justify-center">
-
                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.88968496423!2d6.979582075653732!3d51.46018181415299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8c291f9b0989b%3A0xa87425f7b337abdc!2sAltendorfer%20Str.%20266%2C%2045143%20Essen%2C%20Germany!5e0!3m2!1sen!2sin!4v1753157890072!5m2!1sen!2sin" loading="lazy" style={{width:'100%',height:'100%',borderRadius:'10px'}}referrerPolicy="no-referrer-when-downgrade"></iframe>
-                      
-                    {/* <div className="text-center">
-                      <MapPin className="h-12 w-12 text-green-600 dark:text-green-500 mx-auto mb-2" />
-                     
-                      <p className="text-sm text-gray-500 dark:text-gray-400">266, Altendorfer str, Essen 45143, Germany</p>
-                    </div> */}
                   </div>
                 </div>
               </div>
@@ -360,43 +333,12 @@ const Contact = () => {
           </div>
         </section>
 
-        {/* FAQ Section */}
-        {/* <section className="py-20 bg-white dark:bg-gray-800">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-16 fade-in">
-              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Frequently Asked Questions</h2>
-              <p className="text-xl text-gray-600 dark:text-gray-300">
-                Quick answers to common questions about our products and services.
-              </p>
-            </div>
-
-            <div className="space-y-6">
-              {faqs.map((faq, index) => (
-                  <div
-                      key={index}
-                      className="fade-in bg-gray-50 dark:bg-gray-700 rounded-2xl p-6 hover:shadow-lg transition-shadow duration-300"
-                      style={{ animationDelay: `${index * 100}ms` }}
-                  >
-                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-3 flex items-center">
-                      <MessageCircle className="h-5 w-5 text-green-600 dark:text-green-500 mr-2" />
-                      {faq.question}
-                    </h3>
-                    <p className="text-gray-600 dark:text-gray-300 leading-relaxed pl-7">
-                      {faq.answer}
-                    </p>
-                  </div>
-              ))}
-            </div>
-          </div>
-        </section> */}
-
-        {/* CTA Section */}
         <section className="py-20 bg-gradient-to-r from-green-800 to-green-900 text-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div className="fade-in">
-              <h2 className="text-4xl font-bold mb-6">Still Have Questions?</h2>
+              <h2 className="text-4xl font-bold mb-6">{t('contact.question2')}</h2>
               <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">
-                Our customer service team is standing by to help you with any questions or concerns.
+                {t('contact.service')}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 
@@ -405,14 +347,14 @@ const Contact = () => {
                     className="inline-flex items-center px-8 py-4 bg-white text-green-800 rounded-full font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl"
                 >
                   <Phone className="mr-2 h-5 w-5" />
-                  Connect on Whatsapp
+                  {t('contact.whatsapp')}
                 </a>
                 <a
                     href="mailto:hello@tropicalfresh.com"
                     className="inline-flex items-center px-8 py-4 bg-transparent border-2 border-white text-white rounded-full font-semibold text-lg hover:bg-white hover:text-green-800 transition-all duration-300 hover:scale-105"
                 >
                   <Mail className="mr-2 h-5 w-5" />
-                  Email Us
+                  {t('contact.email')}
                 </a>
               </div>
             </div>

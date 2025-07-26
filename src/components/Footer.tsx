@@ -10,10 +10,12 @@ import {
   MapPin,
   Heart
 } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 
 const Footer = () => {
   const location = useLocation();
   const [isScrolled, setIsScrolled] = useState(false);
+  const { i18n, t } = useTranslation();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -39,12 +41,11 @@ const Footer = () => {
                   <Leaf className={`h-6 w-6 ${iconColorClass}`} />
                 </div>
                 <span className="text-xl font-bold bg-gradient-to-r from-green-400 to-green-500 bg-clip-text text-transparent">
-                Tropical Food Store
+                {t('footer.brand')}
               </span>
               </div>
               <p className={`leading-relaxed ${textColorClass}`}>
-                Your trusted destination for authentic South Asian groceries, spices, and specialty foods.
-                Quality, freshness, and authentic flavors in every product.
+                {t('footer.branddec')}
               </p>
               <div className="flex space-x-4">
                 {[Facebook, Twitter, Instagram].map((Icon, index) => (
@@ -65,11 +66,11 @@ const Footer = () => {
               <h3 className="text-lg font-semibold mb-6 text-green-400">Quick Links</h3>
               <ul className="space-y-3">
                 {[
-                  { name: 'Home', href: '/' },
-                  { name: 'About Us', href: '/about' },
-                  { name: 'Products', href: '/products' },
-                  { name: 'Services', href: '/services' },
-                  { name: 'Contact', href: '/contact' },
+                  { name: t('nav.home'), href: '/' },
+                  { name: t('nav.about'), href: '/about' },
+                  { name: t('nav.products'), href: '/products' },
+                  { name: t('nav.services'), href: '/services' },
+                  { name: t('nav.contact'), href: '/contact' },
                 ].map((link) => (
                     <li key={link.name}>
                       <Link
@@ -87,14 +88,7 @@ const Footer = () => {
             <div>
               <h3 className="text-lg font-semibold mb-6 text-green-400">Popular Products</h3>
               <ul className="space-y-3">
-                {[
-                  'Shan Biryani Masala',
-                  'Basmati Rice',
-                  'Red Kidney Beans',
-                  'Turmeric Powder',
-                  'Aachi Sambar Powder',
-                  'MDH Garam Masala'
-                ].map((product) => (
+                {t('footer.products', { returnObjects: true }).map((product) => (
                     <li key={product}>
                   <span className={`hover:text-green-400 transition-colors duration-300 cursor-pointer ${textColorClass}`}>
                     {product}
