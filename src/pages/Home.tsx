@@ -57,22 +57,22 @@ let productCategories = [
     {
       title: t('spices.title'),
       items: t('spices.items', { returnObjects: true }),
-      image: '/public/masala.png'
+      image: '/masala.png'
     },
     {
       title: t('rice.title'),
       items: t('rice.items', { returnObjects: true }),
-      image: '/public/rice.png'
+      image: '/rice.png'
     },
     {
       title: t('lentils.title'),
       items: t('lentils.items', { returnObjects: true }),
-      image: '/public/indianbeanspulseslentil.jpeg'
+      image: '/indianbeanspulseslentil.jpeg'
     },
     {
       title: t('frozen.title'),
       items: t('frozen.items', { returnObjects: true }),
-      image: '/public/frozen.png'
+      image: '/frozen.png'
     }
   ];
 
@@ -149,7 +149,7 @@ let productCategories = [
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="fade-in order-last lg:order-first">
               <img
-                src="public/section2.jpg"
+                src="/section2.jpg"
                 alt="Store interior"
                 className="w-full rounded-2xl shadow-xl"
                 loading="lazy"
