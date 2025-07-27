@@ -1,8 +1,11 @@
 import { useState, useEffect } from 'react';
 import { X, ChevronDown, ChevronUp, Settings, Info } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
+
 
 export const CookieBanner = () => {
+    const { i18n, t } = useTranslation();
     const [isVisible, setIsVisible] = useState(false);
     const [showDetails, setShowDetails] = useState(false);
     const [consent, setConsent] = useState({
@@ -95,13 +98,12 @@ export const CookieBanner = () => {
                     <div className="flex-1">
                         <h3 className="font-bold flex items-center gap-2 mb-2">
                             <span className="text-green-400">🍪</span>
-                            Cookies & Privacy
+                            {t('cookie.title')}
                         </h3>
                         <p className="text-sm text-gray-300 leading-relaxed">
-                            We use cookies to ensure basic website functionality and, with your consent,
-                            to analyze website usage. We respect your privacy and comply with GDPR.{' '}
+                            {t('cookie.description')}{' '}
                             <Link to="/privacy-policy" className="text-green-400 hover:text-green-300 underline">
-                                Read our Privacy Policy
+                                {t('cookie.readpolicy')}
                             </Link>
                         </p>
                     </div>
@@ -120,20 +122,20 @@ export const CookieBanner = () => {
                         onClick={handleAcceptAll}
                         className="px-4 py-2 bg-green-600 hover:bg-green-700 rounded-md text-sm font-medium transition-colors"
                     >
-                        Accept All
+                        {t('cookie.accept')}
                     </button>
                     <button
                         onClick={handleRejectAll}
                         className="px-4 py-2 bg-gray-600 hover:bg-gray-700 rounded-md text-sm font-medium transition-colors"
                     >
-                        Necessary Only
+                        {t('cookie.necessary')}
                     </button>
                     <button
                         onClick={() => setShowDetails(!showDetails)}
                         className="px-4 py-2 border border-gray-500 hover:border-gray-400 rounded-md text-sm font-medium transition-colors flex items-center gap-2"
                     >
                         <Settings size={16} />
-                        Customize
+                        {t('cookie.customize')}
                         {showDetails ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
                     </button>
                 </div>
@@ -144,22 +146,21 @@ export const CookieBanner = () => {
                         <div className="flex items-center justify-between p-4 bg-gray-800 rounded-lg">
                             <div className="flex-1">
                                 <div className="flex items-center gap-2 mb-1">
-                                    <h4 className="font-semibold text-white">Necessary Cookies</h4>
+                                    <h4 className="font-semibold text-white">{t('cookie.necessarycookie')}</h4>
                                     <Info size={16} className="text-gray-400" />
                                 </div>
                                 <p className="text-xs text-gray-400 mb-2">
-                                    Essential for website functionality, shopping cart, and security.
-                                    Cannot be disabled.
+                                    {t('cookie.essential')}
                                 </p>
                                 <p className="text-xs text-gray-500">
-                                    Legal basis: Art. 6(1)(f) GDPR (legitimate interest)
+                                    {t('cookie.legal')}
                                 </p>
                             </div>
                             <div className="ml-4">
                                 <div className="w-11 h-6 bg-green-600 rounded-full relative">
                                     <div className="absolute right-0.5 top-0.5 w-5 h-5 bg-white rounded-full"></div>
                                 </div>
-                                <p className="text-xs text-gray-400 mt-1 text-center">Always On</p>
+                                <p className="text-xs text-gray-400 mt-1 text-center">{t('cookie.always')}</p>
                             </div>
                         </div>
 
@@ -167,17 +168,17 @@ export const CookieBanner = () => {
                         <div className="flex items-center justify-between p-4 bg-gray-800 rounded-lg">
                             <div className="flex-1">
                                 <div className="flex items-center gap-2 mb-1">
-                                    <h4 className="font-semibold text-white">Analytics Cookies</h4>
+                                    <h4 className="font-semibold text-white">{t('cookie.analytics')}</h4>
                                     <Info size={16} className="text-gray-400" />
                                 </div>
                                 <p className="text-xs text-gray-400 mb-2">
-                                    Help us understand how visitors interact with our website (anonymized data only).
+                                    {t('cookie.analyticshelp')}
                                 </p>
                                 <p className="text-xs text-gray-500 mb-1">
-                                    Legal basis: Art. 6(1)(a) GDPR (consent)
+                                    {t('cookie.analyticslegal')}
                                 </p>
                                 <p className="text-xs text-orange-400">
-                                    ⚠️ Data may be transferred to USA (Google Analytics)
+                                    ⚠️ {t('cookie.analyticsdata')}
                                 </p>
                             </div>
                             <div className="ml-4">
@@ -197,35 +198,34 @@ export const CookieBanner = () => {
                         <div className="flex items-center justify-between p-4 bg-gray-800 rounded-lg opacity-60">
                             <div className="flex-1">
                                 <div className="flex items-center gap-2 mb-1">
-                                    <h4 className="font-semibold text-white">Marketing Cookies</h4>
+                                    <h4 className="font-semibold text-white">{t('cookie.marketing')}</h4>
                                     <Info size={16} className="text-gray-400" />
                                 </div>
                                 <p className="text-xs text-gray-400 mb-2">
-                                    Used for personalized advertising. Currently not implemented on our website.
+                                    {t('cookie.marketingdesc')}
                                 </p>
                                 <p className="text-xs text-gray-500">
-                                    Legal basis: Art. 6(1)(a) GDPR (consent)
+                                    {t('cookie.marketinglegal')}
                                 </p>
                             </div>
                             <div className="ml-4">
                                 <div className="w-11 h-6 bg-gray-600 rounded-full relative">
                                     <div className="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full"></div>
                                 </div>
-                                <p className="text-xs text-gray-400 mt-1 text-center">Disabled</p>
+                                <p className="text-xs text-gray-400 mt-1 text-center">{t('cookie.disable')}</p>
                             </div>
                         </div>
 
                         {/* Additional Information */}
                         <div className="bg-blue-900/30 border border-blue-700 rounded-lg p-3">
                             <p className="text-xs text-blue-200 leading-relaxed">
-                                <strong>Your Rights:</strong> You can change your preferences anytime, withdraw consent,
-                                or request data deletion. For questions, contact us at{' '}
+                                <strong>{t('cookie.rights')}</strong> {t('cookie.rightsdesc')}{' '}
                                 <a href="mailto:tropicalfoods830@yahoo.com" className="text-blue-300 hover:text-blue-200 underline">
                                     tropicalfoods830@yahoo.com
                                 </a>
-                                {' '}or see our{' '}
+                                {' '}{t('cookie.seeour')}{' '}
                                 <Link to="/cookies" className="text-blue-300 hover:text-blue-200 underline">
-                                    Cookie Policy
+                                    {t('cookie.policy')}
                                 </Link>.
                             </p>
                         </div>
@@ -236,19 +236,19 @@ export const CookieBanner = () => {
                                 onClick={() => handleSave(consent)}
                                 className="px-6 py-2 bg-green-600 hover:bg-green-700 rounded-md text-sm font-medium transition-colors"
                             >
-                                Save My Preferences
+                                {t('cookie.preference')}
                             </button>
                             <button
                                 onClick={handleAcceptAll}
                                 className="px-6 py-2 bg-blue-600 hover:bg-blue-700 rounded-md text-sm font-medium transition-colors"
                             >
-                                Accept All
+                                {t('cookie.accept')}
                             </button>
                             <button
                                 onClick={handleRejectAll}
                                 className="px-6 py-2 border border-gray-500 hover:border-gray-400 rounded-md text-sm font-medium transition-colors"
                             >
-                                Reject Non-Essential
+                                {t('cookie.nonessential')}
                             </button>
                         </div>
                     </div>
