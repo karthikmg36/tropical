@@ -149,7 +149,7 @@ let productCategories = [
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="fade-in order-last lg:order-first">
               <img
-                src="/public/section2.jpg"
+                src="public/section2.jpg"
                 alt="Store interior"
                 className="w-full rounded-2xl shadow-xl"
                 loading="lazy"
