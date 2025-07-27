@@ -83,7 +83,7 @@ let productCategories = [
         ref={heroRef}
         className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-green-800/90 via-green-700/90 to-green-900/90"
       >
-        <div className="absolute inset-0 bg-[url('./public/background.png')] bg-cover bg-center"></div>
+        <div className="absolute inset-0 bg-[url('/public/background.png')] bg-cover bg-center"></div>
         <div className="absolute inset-0 bg-black/40"></div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
