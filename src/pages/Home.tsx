@@ -57,22 +57,22 @@ let productCategories = [
     {
       title: t('spices.title'),
       items: t('spices.items', { returnObjects: true }),
-      image: './public/masala.png'
+      image: '/public/masala.png'
     },
     {
       title: t('rice.title'),
       items: t('rice.items', { returnObjects: true }),
-      image: './public/rice.png'
+      image: '/public/rice.png'
     },
     {
       title: t('lentils.title'),
       items: t('lentils.items', { returnObjects: true }),
-      image: './public/indianbeanspulseslentil.jpeg'
+      image: '/public/indianbeanspulseslentil.jpeg'
     },
     {
       title: t('frozen.title'),
       items: t('frozen.items', { returnObjects: true }),
-      image: './public/frozen.png'
+      image: '/public/frozen.png'
     }
   ];
 
@@ -83,7 +83,7 @@ let productCategories = [
         ref={heroRef}
         className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-green-800/90 via-green-700/90 to-green-900/90"
       >
-        <div className="absolute inset-0 bg-[url('./public/background.png')] bg-cover bg-center"></div>
+        <div className="absolute inset-0 bg-[url('/public/background.png')] bg-cover bg-center"></div>
         <div className="absolute inset-0 bg-black/40"></div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -127,7 +127,7 @@ let productCategories = [
             </div>
             <div className="fade-in">
               <img
-                src="./public/section1.jpeg"
+                src="/public/section1.jpeg"
                 alt="Tropical Foods Store"
                 className="w-full rounded-2xl shadow-xl"
                 loading="lazy"
@@ -149,7 +149,7 @@ let productCategories = [
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="fade-in order-last lg:order-first">
               <img
-                src="./public/section2.jpg"
+                src="/public/section2.jpg"
                 alt="Store interior"
                 className="w-full rounded-2xl shadow-xl"
                 loading="lazy"
