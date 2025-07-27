@@ -9,8 +9,12 @@ import {
   Eye,
   Star
 } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 
 const About = () => {
+
+  const { i18n, t } = useTranslation();
+
   useEffect(() => {
     const observer = new IntersectionObserver(
         (entries) => {
@@ -27,59 +31,59 @@ const About = () => {
     elements.forEach((el) => observer.observe(el));
 
     return () => observer.disconnect();
-  }, []);
+  });
 
   const values = [
     {
       icon: Heart,
-      title: 'Passion for Quality',
-      description: 'Every fruit is carefully selected and inspected to ensure the highest quality standards.'
+      title: t('about.values.heart.title'),
+      description: t('about.values.heart.description')
     },
     {
       icon: Globe,
-      title: 'Global Sourcing',
-      description: 'We partner with farmers worldwide to bring you authentic tropical flavors from their origin.'
+      title: t('about.values.globe.title'),
+      description: t('about.values.globe.description')
     },
     {
       icon: Leaf,
-      title: 'Sustainable Practices',
-      description: 'Committed to environmentally responsible sourcing and packaging methods.'
+      title: t('about.values.leaf.title'),
+      description: t('about.values.leaf.description')
     },
     {
       icon: Users,
-      title: 'Customer First',
-      description: 'Your satisfaction is our priority, with personalized service and support.'
+      title: t('about.values.user.title'),
+      description: t('about.values.user.description')
     }
   ];
 
   const team = [
     {
-      name: 'Maria Santos',
-      role: 'Founder & CEO',
-      bio: 'With 15 years in tropical agriculture, Maria founded TropicalFresh to share her passion for exotic fruits.',
+      name: t('about.teamobj.founder.name'),
+      role: t('about.teamobj.founder.role'),
+      bio: t('about.teamobj.founder.bio'),
       image: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'James Rodriguez',
-      role: 'Head of Operations',
-      bio: 'James ensures our supply chain delivers the freshest fruits with his logistics expertise.',
+      name: t('about.teamobj.operations.name'),
+      role: t('about.teamobj.operations.role'),
+      bio: t('about.teamobj.operations.bio'),
       image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'Anna Chen',
-      role: 'Quality Director',
-      bio: 'Anna maintains our quality standards with her background in food science and nutrition.',
+      name: t('about.teamobj.quality.name'),
+      role: t('about.teamobj.quality.role'),
+      bio: t('about.teamobj.quality.bio'),
       image: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=400'
     }
   ];
 
   const milestones = [
-    { year: '2020', event: 'TropicalFresh Founded', description: 'Started with a dream to bring tropical fruits to everyone' },
-    { year: '2021', event: 'First Farm Partnership', description: 'Established relationships with premium tropical fruit farms' },
-    { year: '2022', event: '10,000 Customers', description: 'Reached our first major customer milestone' },
-    { year: '2023', event: 'National Expansion', description: 'Extended delivery to all 50 states' },
-    { year: '2024', event: 'Sustainability Award', description: 'Recognized for our eco-friendly practices' },
-    { year: '2025', event: 'Global Reach', description: 'Expanding to serve customers worldwide' }
+    { year: '2020', event: t('about.milestones.2020.title'), description: t('about.milestones.2020.description') },
+    { year: '2021', event: t('about.milestones.2021.title'), description: t('about.milestones.2021.description') },
+    { year: '2022', event: t('about.milestones.2022.title'), description: t('about.milestones.2022.description') },
+    { year: '2023', event: t('about.milestones.2023.title'), description: t('about.milestones.2023.description') },
+    { year: '2024', event: t('about.milestones.2024.title'), description: t('about.milestones.2024.description') },
+    { year: '2025', event: t('about.milestones.2025.title'), description: t('about.milestones.2025.description') }
   ];
 
   return (
@@ -90,12 +94,11 @@ const About = () => {
             <div className="max-w-4xl">
               <div className="fade-in">
                 <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-                  Our Story of
+                  {t('about.story')}
                   <span className="block text-yellow-300">Tropical Passion</span>
                 </h1>
                 <p className="text-xl md:text-2xl text-green-100 leading-relaxed">
-                  From a small family dream to a nationwide mission of bringing the world's
-                  finest tropical fruits to your table with love, care, and uncompromising quality.
+                  {t('about.storydesc')}
                 </p>
               </div>
             </div>
@@ -109,22 +112,18 @@ const About = () => {
               <div className="fade-in">
                 <div className="flex items-center mb-6">
                   <Target className="h-8 w-8 text-green-700 dark:text-green-600 mr-3" />
-                  <h2 className="text-3xl font-bold text-gray-900 dark:text-white">Our Mission</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 dark:text-white">{t('about.mission')}</h2>
                 </div>
                 <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-8">
-                  To make premium tropical fruits accessible to everyone while supporting
-                  sustainable farming practices and building lasting relationships with our
-                  farming partners around the world.
+                  {t('about.missiondesc')}
                 </p>
 
                 <div className="flex items-center mb-6">
                   <Eye className="h-8 w-8 text-green-700 dark:text-green-600 mr-3" />
-                  <h2 className="text-3xl font-bold text-gray-900 dark:text-white">Our Vision</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 dark:text-white">{t('about.vision')}</h2>
                 </div>
                 <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                  To become the world's most trusted source for tropical fruits, creating
-                  a global community that celebrates the diversity and richness of tropical
-                  flavors while promoting healthy living.
+                  {t('about.visiondesc')}
                 </p>
               </div>
 
@@ -132,9 +131,9 @@ const About = () => {
                 <div className="aspect-square bg-gradient-to-br from-green-700 to-green-800 rounded-3xl p-8 text-white">
                   <div className="h-full flex flex-col justify-center items-center text-center">
                     <Award className="h-16 w-16 mb-6" />
-                    <h3 className="text-2xl font-bold mb-4">Quality Promise</h3>
+                    <h3 className="text-2xl font-bold mb-4">{t('about.promise')}</h3>
                     <p className="text-lg">
-                      Every fruit meets our strict quality standards or we'll make it right.
+                      {t('about.promisedesc')}
                     </p>
                   </div>
                 </div>
@@ -147,9 +146,9 @@ const About = () => {
         <section className="py-20 bg-gray-50 dark:bg-gray-900">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
-              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Our Core Values</h2>
+              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">{t('about.corevalue')}</h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-                The principles that guide everything we do at TropicalFresh.
+                {t('about.principal')}
               </p>
             </div>
 
@@ -179,9 +178,9 @@ const About = () => {
         <section className="py-20 bg-white dark:bg-gray-800">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
-              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Meet Our Team</h2>
+              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">{t('about.team')}</h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-                The passionate people behind TropicalFresh, dedicated to bringing you the best tropical experience.
+                {t('about.teamdesc')}
               </p>
             </div>
 
@@ -219,9 +218,9 @@ const About = () => {
         <section className="py-20 bg-gradient-to-br from-gray-50 to-white dark:from-gray-900 dark:to-gray-800">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
-              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Our Journey</h2>
+              <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">{t('about.journey')}</h2>
               <p className="text-xl text-gray-600 dark:text-gray-300">
-                Key milestones in our tropical fruit adventure.
+                {t('about.journeydesc')}
               </p>
             </div>
 
@@ -261,23 +260,22 @@ const About = () => {
         <section className="py-20 bg-gradient-to-r from-green-800 to-green-900 text-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div className="fade-in">
-              <h2 className="text-4xl font-bold mb-6">Join Our Tropical Family</h2>
+              <h2 className="text-4xl font-bold mb-6">{t('about.join')}</h2>
               <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">
-                Become part of our growing community of tropical fruit enthusiasts
-                and taste the difference quality makes.
+                {t('about.joindesc')}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
                     href="/contact"
                     className="inline-flex items-center px-8 py-4 bg-white text-green-800 rounded-full font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl"
                 >
-                  Get in Touch
+                  {t('about.touch')}
                 </a>
                 <a
                     href="/products"
                     className="inline-flex items-center px-8 py-4 bg-transparent border-2 border-white text-white rounded-full font-semibold text-lg hover:bg-white hover:text-green-800 transition-all duration-300 hover:scale-105"
                 >
-                  Shop Now
+                  {t('about.shopnow')}
                 </a>
               </div>
             </div>
