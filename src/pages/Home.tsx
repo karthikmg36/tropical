@@ -127,7 +127,7 @@ let productCategories = [
             </div>
             <div className="fade-in">
               <img
-                src="/public/section1.jpeg"
+                src="/section1.jpeg"
                 alt="Tropical Foods Store"
                 className="w-full rounded-2xl shadow-xl"
                 loading="lazy"
