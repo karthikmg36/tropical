@@ -126,7 +126,7 @@ const Products = () => {
             </div>
 
             {/* Categories */}
-            <div className="flex flex-wrap gap-2">
+            {/* <div className="flex flex-wrap gap-2">
               {categories.map(category => (
                   <button
                       key={category.id}
@@ -140,7 +140,25 @@ const Products = () => {
                     {category.name} <span className="ml-2 text-sm opacity-75">({category.count})</span>
                   </button>
               ))}
-            </div>
+            </div> */}
+             <div className="flex gap-2 w-full max-w-full flex-nowrap overflow-x-auto no-scrollbar sm:flex-wrap sm:overflow-visible snap-x">
+  {categories.map(category => (
+    <button
+      key={category.id}
+      onClick={() => setSelectedCategory(category.id)}
+      className={`px-6 py-2 rounded-full font-medium transition-all shrink-0 snap-start ${
+        selectedCategory === category.id
+          ? 'bg-green-700 dark:bg-green-800 text-white'
+          : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-green-50 dark:hover:bg-gray-600'
+      }`}
+    >
+      {category.name}{' '}
+      <span className="ml-2 text-sm opacity-75">({category.count})</span>
+    </button>
+  ))}
+</div>
+
+
           </div>
         </section>
 
@@ -163,7 +181,8 @@ const Products = () => {
                   </button>
                 </div>
             ) : (
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                // <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                   {filteredProducts.map((product, index) => (
                       <div
                           key={product.id}
@@ -200,7 +219,7 @@ const Products = () => {
                           )}
                         </div>
 
-                        <div className="p-6">
+                        {/* <div className="p-6">
                           <div className="flex items-center gap-2 mb-3">
                             {/* {[...Array(5)].map((_, i) => (
                                 <Star
@@ -212,13 +231,13 @@ const Products = () => {
                                     }`}
                                 />
                             ))} */}
-                            <span className="text-sm text-gray-600 dark:text-gray-300 select-none">
+                            {/* <span className="text-sm text-gray-600 dark:text-gray-300 select-none"> */}
                               {/* {product.rating} ({product.reviews}) */}
-                            </span>
-                          </div>
+                            {/* </span> */}
+                          {/* // </div> */}
 
-                          <h3 className="text-lg font-semibold mb-2 dark:text-white">{product.name}</h3>
-                          <p className="text-sm text-gray-600 dark:text-gray-400 mb-5 line-clamp-3">{product.description}</p>
+                          {/* // <h3 className="text-lg font-semibold mb-2 dark:text-white">{product.name}</h3>
+                          // <p className="text-sm text-gray-600 dark:text-gray-400 mb-5 line-clamp-3">{product.description}</p> */}
 
                          {/* <div className="flex items-center justify-between mb-5">
                             <span className="text-2xl font-extrabold text-green-700 dark:text-green-600">€{product.price}</span>
@@ -227,15 +246,35 @@ const Products = () => {
                             )}
                             </div> */}
 
-                          <button
-                              onClick={() => setSelectedProduct(product)}
-                              className="w-full py-3 rounded-full font-semibold bg-green-700 hover:bg-green-800 dark:bg-green-800 dark:hover:bg-green-900 text-white shadow-md transition"
-                              aria-label={`View details of ${product.name}`}
-                          >
-                            <Eye className="inline h-5 w-5 mr-2" />
-                            {t('product.view')}
-                          </button>
-                        </div>
+                        {/* //   <button */}
+                        {/* //       onClick={() => setSelectedProduct(product)}
+                        //       className="w-full py-3 rounded-full font-semibold bg-green-700 hover:bg-green-800 dark:bg-green-800 dark:hover:bg-green-900 text-white shadow-md transition"
+                        //       aria-label={`View details of ${product.name}`}
+                        //   >
+                        //     <Eye className="inline h-5 w-5 mr-2" />
+                        //     {t('product.view')}
+                        //   </button> */}
+                        {/* // </div>  */}
+
+                                            <div className="p-6">
+                      <h4 className="text-sm sm:text-base lg:text-lg font-semibold mb-2 dark:text-white line-clamp-2">
+                        {product.name}
+                      </h4>
+
+                      <p className="text-xs sm:text-sm lg:text-base text-gray-600 dark:text-gray-400 mb-5 line-clamp-2 sm:line-clamp-3">
+                        {product.description}
+                      </p>
+
+                      <button
+                        onClick={() => setSelectedProduct(product)}
+                        className="w-full py-2 sm:py-3 rounded-full font-semibold text-xs sm:text-sm lg:text-base bg-green-700 hover:bg-green-800 dark:bg-green-800 dark:hover:bg-green-900 text-white shadow-md transition"
+                        aria-label={`View details of ${product.name}`}
+                      >
+                        <Eye className="inline h-4 w-4 sm:h-5 sm:w-5 mr-2" />
+                        {t('product.view')}
+                      </button>
+                    </div>
+
                       </div>
                   ))}
                 </div>
