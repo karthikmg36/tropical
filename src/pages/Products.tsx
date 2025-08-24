@@ -256,7 +256,8 @@ const Products = () => {
                         //   </button> */}
                         {/* // </div>  */}
 
-                                            <div className="p-6">
+                      {/* <div className="p-6 flex flex-col gap-[5px] min-h-238 justify-between"> */}
+                      <div className="p-6 flex flex-col gap-[5px] lg:min-h-[238px] justify-between max-h-[50%] ">
                       <h4 className="text-sm sm:text-base lg:text-lg font-semibold mb-2 dark:text-white line-clamp-2">
                         {product.name}
                       </h4>
