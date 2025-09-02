@@ -39,37 +39,18 @@ const Products = () => {
   const [product,setProduct]=useState(products);
 
   const allCategories = [
-    { id: 'spice-mixes', name: 'Spice Mixes' },
-    { id: 'rice-grains', name: 'Rice & Grains' },
-    { id: 'lentils-beans', name: 'Lentils & Beans' },
-    { id: 'ready-meals', name: 'Ready Meals' },
-    { id: 'snacks', name: 'Snacks' },
-    { id: 'condiments', name: 'Condiments' },
-    { id: 'beverages', name: 'Beverages' },
-    { id: 'flour-semolina', name: 'Flour & Semolina' },
-    { id: 'soy-products', name: 'Soy Products' },
-    { id: 'rice', name: 'Rice' },
-    { id: 'flour', name: 'Flour' },
-    { id: 'semolina', name: 'Semolina' },
-    { id: 'chips', name: 'Chips' },
-    { id: 'millets', name: 'Millets' },
-    { id: 'sweeteners', name: 'Sweeteners' },
-    { id: 'noodles', name: 'Noodles' },
-    { id: 'lentils', name: 'Lentils' },
-    { id: 'spices', name: 'Spices' },
-    { id: 'juice', name: 'Juice' },
-    { id: 'pickel-paste', name: 'Pickel & Paste' },
-    { id: 'beans', name: 'Beans' },
-    { id: 'spice', name: 'Spice' },
-    { id: 'aashirvaad', name: 'Aashirvaad' },
-    { id: 'annam', name: 'Annam' },
-    { id: 'haldiram', name: 'Haldiram' },
-    { id: 'mdh', name: 'MDH' },
-    { id: 'patak-pickles', name: 'Patak Pickles' },
-    { id: 'periyar-delights', name: 'Periyar Delights' },
-    { id: 'shaan', name: 'Shaan' },
-    { id: 'trs', name: 'TRS' }
-  ];
+      { id: 'trs', name: 'TRS' },
+      { id: 'amutha', name: 'Amutha' },
+      { id: 'annam', name: 'Annam' },
+      { id: 'aashirvaad', name: 'Aashirvaad' },
+      { id: 'haldiram', name: 'Haldiram' },
+      { id: 'mdh', name: 'MDH' },
+      { id: 'patak pickles', name: 'Patak Pickles' },
+      { id: 'periyar delights', name: 'Periyar Delights' },
+      { id: 'shaan', name: 'Shaan' },
+      { id: 'vegetables', name: 'Vegetables'},
+      { id: 'seasonal', name:'Seasonal'}
+    ];
   
   const categories = [
     {
@@ -164,22 +145,21 @@ const Products = () => {
                   </button>
               ))}
             </div> */}
-             <div className="flex gap-2 w-full max-w-full flex-nowrap overflow-x-auto no-scrollbar sm:flex-wrap sm:overflow-visible snap-x">
-  {categories.map(category => (
-    <button
-      key={category.id}
-      onClick={() => setSelectedCategory(category.id)}
-      className={`px-6 py-2 rounded-full font-medium transition-all shrink-0 snap-start ${
-        selectedCategory === category.id
-          ? 'bg-green-700 dark:bg-green-800 text-white'
-          : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-green-50 dark:hover:bg-gray-600'
-      }`}
-    >
-      {category.name}{' '}
-      <span className="ml-2 text-sm opacity-75">({category.count})</span>
-    </button>
-  ))}
-</div>
+        <div className="flex gap-2 w-full max-w-full overflow-x-auto pb-1 no-scrollbar">
+          {categories.map(category => (
+            <button
+              key={category.id}
+              onClick={() => setSelectedCategory(category.id)}
+              className={`px-3 py-1 rounded-full text-sm font-medium transition-all shrink-0 ${
+                selectedCategory === category.id
+                  ? 'bg-green-700 dark:bg-green-800 text-white'
+                  : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-green-50 dark:hover:bg-gray-600'
+              }`}
+            >
+              {category.name} <span className="ml-1 text-xs opacity-75">({category.count})</span>
+            </button>
+          ))}
+        </div>
 
 
           </div>

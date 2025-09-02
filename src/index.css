@@ -80,3 +80,11 @@
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(to bottom, #059669, #0d9488);
 }
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
