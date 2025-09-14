@@ -196,7 +196,7 @@ const Products = () => {
                           <img
                               src={product.image}
                               alt={product.name}
-                              className="w-full h-52 group-hover:scale-110 transition-transform duration-300 ease-in-out"
+                              className="w-full h-52 group-hover:scale-110 transition-transform duration-300 ease-in-out sm:p-4 md:p-6 lg:p-8"
                               loading="lazy"
                           />
 
