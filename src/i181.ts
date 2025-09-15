@@ -39,7 +39,7 @@ i18n.use(initReactI18next).init({
                   },
                   features:{
                     truck:{
-                      title: 'Fast Delivery',
+                      title: 'Fast Delivery ( Coming Soon ! )',
                       description: 'Get your favorite groceries delivered quickly across Essen'
                     },
                     shield:{
@@ -66,7 +66,7 @@ i18n.use(initReactI18next).init({
                     home:'Home',
                     about:'About',
                     products:'Products',
-                    services:'Services',
+                    services:'Offers',
                     contact:'Contact'
                   },
                   contact:{
@@ -239,7 +239,7 @@ i18n.use(initReactI18next).init({
           
             features: {
               truck: {
-                title: 'Schnelle Lieferung',
+                title: 'Schnelle Lieferung (Demnächst verfügbar!)',
                 description: 'Lassen Sie sich Ihre Lieblingsprodukte schnell in ganz Essen liefern'
               },
               shield: {
@@ -268,7 +268,7 @@ i18n.use(initReactI18next).init({
               home: 'Startseite',
               about: 'Über uns',
               products: 'Produkte',
-              services: 'Dienstleistungen',
+              services: 'Angebote',
               contact: 'Kontakt'
             },
             contact: {

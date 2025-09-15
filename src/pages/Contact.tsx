@@ -78,7 +78,7 @@ const Contact = () => {
       icon: Phone,
       title: 'Phone',
       details: '0201-8009-5818',
-      subtitle: 'Mon-Fri 8AM-8PM EST'
+      subtitle: 'Mon-Fri 09:00 AM - 08:00 PM CET'
     },
     {
       icon: Mail,
@@ -95,7 +95,7 @@ const Contact = () => {
     {
       icon: Clock,
       title: 'Business Hours',
-      details: 'Mon-Sat: 8AM-8PM CET',
+      details: 'Mon-Sat: 09:00AM - 08:00PM CET',
       subtitle: ''
     }
   ];

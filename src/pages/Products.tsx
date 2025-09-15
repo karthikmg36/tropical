@@ -116,7 +116,7 @@ const Products = () => {
 
         {/* Search & Filter */}
         <section className="py-8 bg-white dark:bg-gray-800 shadow-sm sticky top-16 z-40">
-          <div className="max-w-7xl mx-auto px-4 flex flex-col lg:flex-row gap-4 items-center justify-between">
+          <div className="mx-auto px-4 flex flex-col lg:flex-row gap-4 items-center justify-between">
             {/* Search */}
             <div className="relative w-full lg:w-96">
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-gray-400" />
@@ -167,7 +167,7 @@ const Products = () => {
 
         {/* Product Grid */}
         <section className="py-12">
-          <div className="max-w-7xl mx-auto px-4">
+          <div className="max-w-[90%] mx-auto px-4">
             {filteredProducts.length === 0 ? (
                 <div className="text-center py-20 fade-in">
                   <Search className="mx-auto h-10 w-10 text-gray-400 mb-4" />
@@ -185,7 +185,7 @@ const Products = () => {
                 </div>
             ) : (
                 // <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-                <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-8">
                   {filteredProducts.map((product, index) => (
                       <div
                           key={product.id}
@@ -196,7 +196,7 @@ const Products = () => {
                           <img
                               src={product.image}
                               alt={product.name}
-                              className="w-full h-52 group-hover:scale-110 transition-transform duration-300 ease-in-out sm:p-4 md:p-6 lg:p-8"
+                              className="w-full h-[140px] group-hover:scale-110 transition-transform duration-300 ease-in-out p-4 object-contain"
                               loading="lazy"
                           />
 
@@ -260,12 +260,12 @@ const Products = () => {
                         {/* // </div>  */}
 
                       {/* <div className="p-6 flex flex-col gap-[5px] min-h-238 justify-between"> */}
-                      <div className="p-6 flex flex-col gap-[5px] lg:min-h-[238px] justify-between max-h-[50%] ">
-                      <h4 className="text-sm sm:text-base lg:text-lg font-semibold mb-2 dark:text-white line-clamp-2">
+                      <div className="p-5 flex flex-col gap-[2px] h-[185px] justify-between max-h-[50%] ">
+                      <h6 className="text-sm lg:text-base font-semibold mb-2 dark:text-white line-clamp-2 text-center">
                         {product.name}
-                      </h4>
+                      </h6>
 
-                      <p className="text-xs sm:text-sm lg:text-base text-gray-600 dark:text-gray-400 mb-5 line-clamp-2 sm:line-clamp-3">
+                      <p className="text-xs sm:text-sm lg:text-base text-gray-600 dark:text-gray-400 mb-5 line-clamp-2 sm:line-clamp-3 text-center">
                         {product.description}
                       </p>
 

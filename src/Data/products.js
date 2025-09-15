@@ -5478,7 +5478,7 @@ const products = [
     {
       "id": 499,
       "name": "Organic Medjool Dates",
-      "category": "vegetables",
+      "category": "seasonal",
       "price": 0.0,
       "image": "/Tropical Foods/Seasonal/Organic Medjool Dates.jpg",
       "rating": 0,

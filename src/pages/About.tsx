@@ -57,24 +57,24 @@ const About = () => {
   ];
 
   const team = [
-    {
-      name: t('about.teamobj.founder.name'),
-      role: t('about.teamobj.founder.role'),
-      bio: t('about.teamobj.founder.bio'),
-      image: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=400'
-    },
-    {
-      name: t('about.teamobj.operations.name'),
-      role: t('about.teamobj.operations.role'),
-      bio: t('about.teamobj.operations.bio'),
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400'
-    },
-    {
-      name: t('about.teamobj.quality.name'),
-      role: t('about.teamobj.quality.role'),
-      bio: t('about.teamobj.quality.bio'),
-      image: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=400'
-    }
+    // {
+    //   name: t('about.teamobj.founder.name'),
+    //   role: t('about.teamobj.founder.role'),
+    //   bio: t('about.teamobj.founder.bio'),
+    //   image: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=400'
+    // },
+    // {
+    //   name: t('about.teamobj.operations.name'),
+    //   role: t('about.teamobj.operations.role'),
+    //   bio: t('about.teamobj.operations.bio'),
+    //   image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400'
+    // },
+    // {
+    //   name: t('about.teamobj.quality.name'),
+    //   role: t('about.teamobj.quality.role'),
+    //   bio: t('about.teamobj.quality.bio'),
+    //   image: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=400'
+    // }
   ];
 
   const milestones = [
@@ -175,7 +175,7 @@ const About = () => {
         </section>
 
         {/* Team Section */}
-        <section className="py-20 bg-white dark:bg-gray-800">
+        {/* <section className="py-20 bg-white dark:bg-gray-800">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16 fade-in">
               <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">{t('about.team')}</h2>
@@ -212,7 +212,7 @@ const About = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* Timeline */}
         <section className="py-20 bg-gradient-to-br from-gray-50 to-white dark:from-gray-900 dark:to-gray-800">
