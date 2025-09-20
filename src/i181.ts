@@ -96,7 +96,7 @@ i18n.use(initReactI18next).init({
                     subscribe:'Subscribe'
                   },
                   services:{
-                    comingsoon:'Comming Soon'
+                    comingsoon:'Coming Soon'
                   },
                   about:{
                     values:{
