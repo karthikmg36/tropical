@@ -51,9 +51,10 @@ const Footer = () => {
                 {[Facebook, Twitter, Instagram].map((Icon, index) => (
                     <a
                         key={index}
-                        href="#"
+                        href={Icon.displayName == 'Instagram' ? 'https://www.instagram.com/tropicalfoods.essen?igsh=MTgyYXRwMHkwdXd5aQ==':'#'}
                         className="w-10 h-10 bg-green-800 rounded-full flex items-center justify-center hover:bg-gradient-to-r hover:from-green-700 hover:to-green-800 transition-all duration-300 hover:scale-110"
                         aria-label={`Follow us on ${Icon.name}`}
+                        target='_blank'
                     >
                       <Icon className={`h-5 w-5 ${iconColorClass}`} />
                     </a>

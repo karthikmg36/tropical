@@ -89,13 +89,13 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Address',
-      details: '266, Altendorfer str,',
-      subtitle: 'Essen 45143, Germany'
+      details: 'Altendorfer str 266',
+      subtitle: '45143 Essen, Germany'
     },
     {
       icon: Clock,
       title: 'Business Hours',
-      details: 'Mon-Sat: 09:00AM - 08:00PM CET',
+      details: 'Mon-Sat 09:00 AM - 08:00 PM CET',
       subtitle: ''
     }
   ];
@@ -103,7 +103,7 @@ const Contact = () => {
   const officeLocations = [
     {
       city: 'Essen',
-      address: '266, Altendorfer str, Essen 45143, Germany',
+      address: 'Altendorfer str 266, 45143 Essen, Germany',
       phone: '0201-8009-5818',
       isHeadquarters: true
     }
@@ -231,7 +231,7 @@ const Contact = () => {
                                 value={formData.phone}
                                 onChange={handleChange}
                                 className="w-full pl-12 pr-4 py-3 border border-gray-300 dark:border-gray-600 rounded-full focus:ring-2 focus:ring-green-600 dark:focus:ring-green-500 focus:border-green-600 dark:focus:border-green-500 transition-colors duration-300 dark:bg-gray-700 dark:text-white"
-                                placeholder="(555) 123-4567"
+                                placeholder="(49) 000-0000"
                             />
                           </div>
                         </div>

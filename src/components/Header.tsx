@@ -1,17 +1,23 @@
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Leaf } from 'lucide-react';
+import { Menu, X, Leaf, MoveLeft, MoveRight } from 'lucide-react';
 import { useTranslation } from "react-i18next";
+import { Globe } from 'lucide-react';
+
+
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
-  const [language,setLanguage] = useState(false);
+  const [language,setLanguage] = useState(true);
   const { i18n, t } = useTranslation();
   const location = useLocation();
 
   // Determine if header should be considered scrolled
   const isScrolledOrNotHome = isScrolled || location.pathname !== '/';
+
+  const selected = 'text-[shadow:0px_0px_13px_rgba(54,247,216,0.77)]';
+
 
   useEffect(() => {
     const handleScroll = () => {
@@ -32,6 +38,12 @@ const Header = () => {
   //   setLanguage(isGerman);
   //   i18n.changeLanguage(isGerman ? 'de' : 'en');
   // }
+
+  // const onChangeLanguage = (e: React.ChangeEvent<HTMLInputElement>) => {
+  //   const isEnglish = e.target.value;
+  //   setLanguage(isEnglish);
+  //   i18n.changeLanguage(isEnglish);
+  // };
 
   const onChangeLanguage = (e: React.ChangeEvent<HTMLInputElement>) => {
     const isEnglish = e.target.checked;
@@ -119,11 +131,22 @@ const Header = () => {
                 }  
 
                 )}
-                <label className="inline-flex items-center cursor-pointer">
+                 <label className="inline-flex items-center cursor-pointer">
+                
+                 <span className={`mx-3 font-medium text-gray-900 dark:text-gray-300 ${!language ? 'text-glow':''}`}>DE</span>
                   <input type="checkbox" value="" className="sr-only peer" checked={language} onChange={onChangeLanguage}/> 
-                  <div className="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div>
-                  <span className="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">English</span>
+                  <div className="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-800">
+                    {/* {language ? <MoveLeft /> :  <MoveRight />} */}
+                  </div>
+                  <span className={`ms-3 font-medium text-gray-900 dark:text-gray-300 ${language ? 'text-glow':''}`}>EN</span>
                 </label>
+                  {/* <div className='flex'> */}
+                  {/* <Globe /> */}
+                  {/* <select name="language" id="language" onChange={onChangeLanguage} className='p-2 text-sm font-medium text-gray-900 dark:text-gray-300'>
+                    <option value="en" selected>English</option>
+                    <option value="de">German</option>
+                  </select>
+                  </div> */}
               </nav>
 
               {/* Mobile Menu Button */}
@@ -166,11 +189,25 @@ const Header = () => {
                           </Link>
                       );
                     })}
-                     <label className="inline-flex items-center cursor-pointer">
-                      <input type="checkbox" value="" className="sr-only peer" checked={language} onChange={onChangeLanguage}/>
+                    
+                      {/* <input type="checkbox" value="" className="sr-only peer" checked={language} onChange={onChangeLanguage}/>
                       <div className="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div>
-                      <span className="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">English</span>
-                    </label>
+                      <span className="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">English</span> */}
+                      {/* <Globe /> */}
+                      {/* <select name="language" id="language" onChange={onChangeLanguage} className='p-1 text-sm font-medium text-gray-900 dark:text-gray-300'>
+                    <option value="en" selected>English</option>
+                    <option value="de">German</option>
+                  </select> */}
+                    
+                    <label className="inline-flex items-center cursor-pointer text-sm font-medium text-gray-900 dark:text-gray-300 m-2">
+                
+                 <span className={`mr-3 font-medium text-gray-900 dark:text-gray-300 ${!language ? 'text-glow':''}`}>DE</span>
+                  <input type="checkbox" value="" className="sr-only peer" checked={language} onChange={onChangeLanguage}/> 
+                  <div className="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-800">
+                    {/* {language ? <MoveLeft /> :  <MoveRight />} */}
+                  </div>
+                  <span className={`ml-3 font-medium text-gray-900 dark:text-gray-300 ${language ? 'text-glow':''}`}>EN</span>
+                </label>
                   </nav>
                 </div>
             )}

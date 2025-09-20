@@ -5456,7 +5456,7 @@ const products = [
     {
       "id": 497,
       "name": "Turai",
-      "category": "seasonal",
+      "category": "vegetables",
       "price": 0.0,
       "image": "/Tropical Foods/Vegetables/Turai.png",
       "rating": 0,
