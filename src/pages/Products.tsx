@@ -39,19 +39,37 @@ const Products = () => {
   const [product,setProduct]=useState(products);
 
   const allCategories = [
-      { id: 'trs', name: 'TRS' },
-      { id: 'amutha', name: 'Amutha' },
-      { id: 'annam', name: 'Annam' },
-      { id: 'aashirvaad', name: 'Aashirvaad' },
-      { id: 'haldiram', name: 'Haldiram' },
-      { id: 'mdh', name: 'MDH' },
-      { id: 'patak pickles', name: 'Patak Pickles' },
-      { id: 'periyar delights', name: 'Periyar Delights' },
-      { id: 'shaan', name: 'Shaan' },
-      { id: 'vegetables', name: 'Vegetables'},
-      { id: 'seasonal', name:'Seasonal'}
+    { "id": "trs", "name": "TRS" },
+    { "id": "amutha", "name": "Amutha" },
+    { "id": "annam", "name": "Annam" },
+    { "id": "aashirvaad", "name": "Aashirvaad" },
+    { "id": "haldiram", "name": "Haldiram" },
+    { "id": "mdh", "name": "MDH" },
+    { "id": "patak pickles", "name": "Patak Pickles" },
+    { "id": "periyar delights", "name": "Periyar Delights" },
+    { "id": "shaan", "name": "Shaan" },
+    { "id": "vegetables", "name": "Vegetables" },
+    { "id": "AROY-D", "name": "Aroy D" },
+    { "id": "FOCO", "name": "Foco" },
+    { "id": "FARMER", "name": "Farmer" },
+    { "id": "COCK", "name": "Cock" },
+    { "id": "HAPPY BOY", "name": "Happy Boy" },
+    { "id": "MISAKO", "name": "Misako" },
+    { "id": "TILDA", "name": "Tilda" },
+    { "id": "KHANUM", "name": "Khanum" },
+    { "id": "VIENTIANE", "name": "Vientiane" },
+    { "id": "MAGGI", "name": "Maggi" },
+    { "id": "HALES", "name": "Hales" },
+    { "id": "RUBICON", "name": "Rubicon" },
+    { "id": "india gate", "name": "India Gate" },
+    { "id": "laila", "name": "Laila" },
+    { "id": "maliban", "name": "Maliban" },
+    { "id": "nestle", "name": "Nestle" },
+    { "id": "nido", "name": "Nido" },
+    { "id": "royal thai rice", "name": "Royal Thai Rice" },
+    { "id": "tilda", "name": "Tilda" }
     ];
-  
+   
   const categories = [
     {
       id: 'all',

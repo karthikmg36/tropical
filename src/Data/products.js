@@ -7,7 +7,7 @@ const products = [
     "image": "/product/mild-madras-curry-powder.jpg",
     "rating": 4.5,
     "reviews": 120,
-    "description": "Mild Madras curry powder for authentic South Indian flavors",
+    "description": "TRS Madras Curry Powder (Mild) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -18,7 +18,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/garam-masala-powder1.jpg",
     "rating": 4.7,
     "reviews": 210,
-    "description": "Traditional Indian garam masala spice blend",
+    "description": "TRS Garam Masala Powder from Trs brand, perfect for everyday cooking.",
     "badge": "⚡ HIGHLIGHT",
     "inStock": true
   },
@@ -30,7 +30,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_chilli_powder.jpg",
     "rating": 4.3,
     "reviews": 95,
-    "description": "Hot and spicy chili powder for authentic heat",
+    "description": "TRS Chilli Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -41,7 +41,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_kewra_water.jpg",
     "rating": 4.2,
     "reviews": 78,
-    "description": "Fragrant kewra water for flavoring sweets and biryanis",
+    "description": "TRS Kewra Water - 190ml from Trs brand, perfect for everyday cooking.",
     "size": "190ML",
     "inStock": true
   },
@@ -53,7 +53,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/002/trs_cloves2.jpg",
     "rating": 4.6,
     "reviews": 145,
-    "description": "Whole cloves for aromatic flavor in dishes",
+    "description": "TRS Cloves from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -64,7 +64,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/brown-mustard-seeds3.png",
     "rating": 4.1,
     "reviews": 67,
-    "description": "Brown mustard seeds for tempering and pickling",
+    "description": "TRS Brown Mustard Seeds from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -75,7 +75,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_chick_peas.jpg",
     "rating": 4.4,
     "reviews": 112,
-    "description": "High quality chick peas for curries and snacks",
+    "description": "TRS Chick Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -86,7 +86,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/002/trs_black_cardamom2.png",
     "rating": 4.5,
     "reviews": 134,
-    "description": "Large black cardamom pods for rich flavor",
+    "description": "TRS Black Cardamom Large from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -97,7 +97,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_anardana_whole2.png",
     "rating": 4.3,
     "reviews": 89,
-    "description": "Dried pomegranate seeds for tangy flavor",
+    "description": "TRS Anardana Whole (Pomegranate Seeds) 100g from Trs brand, perfect for everyday cooking.",
     "size": "100G",
     "inStock": true
   },
@@ -109,7 +109,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_chana_dal1.jpg",
     "rating": 4.6,
     "reviews": 156,
-    "description": "Yellow split chickpeas for delicious dals",
+    "description": "TRS Chana Dal Yellow from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -120,7 +120,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/hot-madras-curry-powder.jpg",
     "rating": 4.7,
     "reviews": 189,
-    "description": "Hot Madras curry powder for spicy dishes",
+    "description": "TRS Madras Curry Powder (Hot) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -131,7 +131,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_javentry_mace.jpg",
     "rating": 4.4,
     "reviews": 76,
-    "description": "Premium mace for aromatic dishes",
+    "description": "TRS Javentry Mace - 50g from Trs brand, perfect for everyday cooking.",
     "size": "50G",
     "inStock": true
   },
@@ -143,7 +143,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_fennel_seed2.png",
     "rating": 4.3,
     "reviews": 98,
-    "description": "Sweet fennel seeds for digestion and flavor",
+    "description": "TRS Fennel Seeds from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -154,7 +154,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_kala_chana.jpg",
     "rating": 4.5,
     "reviews": 123,
-    "description": "Nutritious brown chickpeas for curries",
+    "description": "TRS Brown Chick Peas - Kala Chana from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -165,7 +165,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_toor_dal2.jpg",
     "rating": 4.6,
     "reviews": 178,
-    "description": "Split pigeon peas for traditional Indian dals",
+    "description": "TRS Toor Dal - Split Pigeon Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -176,7 +176,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/paprika-powder.jpg",
     "rating": 4.2,
     "reviews": 87,
-    "description": "Mild red paprika powder for color and flavor",
+    "description": "TRS Paprika Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -187,7 +187,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/001/trs_star_aniseed_2.jpg",
     "rating": 4.5,
     "reviews": 112,
-    "description": "Star anise for aromatic Chinese and Indian dishes",
+    "description": "TRS Star Anise (Badian Sternanis) 50g from Trs brand, perfect for everyday cooking.",
     "size": "50G",
     "inStock": true
   },
@@ -199,7 +199,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_urid_beans.jpg",
     "rating": 4.4,
     "reviews": 103,
-    "description": "Whole black beans for traditional Indian cooking",
+    "description": "TRS Urid Beans - Whole Black Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -210,30 +210,30 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_mung_beans1.jpg",
     "rating": 4.6,
     "reviews": 145,
-    "description": "Whole mung beans for sprouts and curries",
+    "description": "TRS Mung Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
     "id": 20,
-    "name": "TRS Amchur, Dried Mango Powder (100g)",
+    "name": "TRS Amchur Dried Mango Powder (100g)",
     "category": "trs",
     "price": 2.19,
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_amchur_powder.jpg",
     "rating": 4.3,
     "reviews": 89,
-    "description": "Tangy dried mango powder for flavoring dishes",
+    "description": "TRS Amchur Dried Mango Powder (100g) from Trs brand, perfect for everyday cooking.",
     "size": "100G",
     "inStock": true
   },
   {
     "id": 21,
-    "name": "TRS Ajwain, Ajowan (Lovage Seed)",
+    "name": "TRS Ajwain Ajowan (Lovage Seed)",
     "category": "trs",
     "price": 1.89,
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/ajwain1.png",
     "rating": 4.2,
     "reviews": 87,
-    "description": "Ajwain seeds for digestive and aromatic purposes",
+    "description": "TRS Ajwain Ajowan (Lovage Seed) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -244,7 +244,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/jeera-powder.jpg",
     "rating": 4.4,
     "reviews": 156,
-    "description": "Ground cumin powder for authentic Indian flavors",
+    "description": "TRS Cumin Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -255,7 +255,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_masoor_dal.jpg",
     "rating": 4.5,
     "reviews": 134,
-    "description": "Red split lentils for quick cooking dals",
+    "description": "TRS Red Split Lentils from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -266,7 +266,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_urid_dal.jpg",
     "rating": 4.3,
     "reviews": 98,
-    "description": "White split black gram for South Indian dishes",
+    "description": "TRS Urid Dal White from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -277,7 +277,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/crushed-red-chillies.jpg",
     "rating": 4.6,
     "reviews": 167,
-    "description": "Extra hot crushed red chillies for heat lovers",
+    "description": "TRS Crushed Chillies (Extra Hot) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -288,7 +288,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_cumin_seeds3.png",
     "rating": 4.4,
     "reviews": 143,
-    "description": "Whole cumin seeds for tempering and grinding",
+    "description": "TRS Cumin Jeera Seeds (Cumin Whole) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -299,7 +299,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/002/trs_mung_dal_chilka_500g.jpg",
     "rating": 4.3,
     "reviews": 89,
-    "description": "Split green lentils with skin for nutritious meals",
+    "description": "TRS Mung Dal Chilka (Split Unpeeled Green Lentil) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -310,7 +310,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/trs-cinnamon-powder.jpg",
     "rating": 4.2,
     "reviews": 76,
-    "description": "Fine cinnamon powder for sweet and savory dishes",
+    "description": "TRS Dalchini Powder (Cinnamon Powder) 100g from Trs brand, perfect for everyday cooking.",
     "size": "100G",
     "inStock": true
   },
@@ -322,7 +322,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/002/trs_black_eye_beans_500g.jpg",
     "rating": 4.1,
     "reviews": 67,
-    "description": "Black eye beans for nutritious curries and salads",
+    "description": "TRS Black Eye Beans - Lobia from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -333,7 +333,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_black_pepper_whole2.png",
     "rating": 4.5,
     "reviews": 198,
-    "description": "Whole black peppercorns for fresh grinding",
+    "description": "TRS Black Pepper Whole from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -344,7 +344,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/002/trs_methi_seeds3.png",
     "rating": 4.0,
     "reviews": 54,
-    "description": "Fenugreek seeds for health benefits and flavor",
+    "description": "TRS Methi Fenugreek Seeds from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -355,7 +355,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/dhania-powder.jpg",
     "rating": 4.3,
     "reviews": 167,
-    "description": "Ground coriander powder for everyday cooking",
+    "description": "TRS Coriander Powder (Dhania Powder) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -366,7 +366,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/black-pepper-powder.jpg",
     "rating": 4.4,
     "reviews": 89,
-    "description": "Freshly ground black pepper powder",
+    "description": "TRS Black Pepper Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -377,7 +377,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/old_images/13884_0.jpg",
     "rating": 4.2,
     "reviews": 78,
-    "description": "Black salt powder for digestive benefits",
+    "description": "TRS Black Salt Powder (100g) from Trs brand, perfect for everyday cooking.",
     "size": "100G",
     "inStock": true
   },
@@ -389,7 +389,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/trs_red_kidney_beans.jpg",
     "rating": 4.5,
     "reviews": 123,
-    "description": "Premium red kidney beans for rajma curry",
+    "description": "TRS Red Kidney Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -400,7 +400,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/haldi-powder.jpg",
     "rating": 4.6,
     "reviews": 234,
-    "description": "Pure turmeric powder for health and color",
+    "description": "TRS Haldi Powder (Turmeric) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -411,7 +411,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/001/trs_mamra_puffed_rice.jpg",
     "rating": 4.1,
     "reviews": 56,
-    "description": "Puffed rice for bhel puri and snacks",
+    "description": "TRS Mamra Puffed Rice from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -422,7 +422,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/tandoori-masala-powder.jpg",
     "rating": 4.4,
     "reviews": 134,
-    "description": "Tandoori masala blend for authentic flavors",
+    "description": "TRS Tandoori Masala Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -433,7 +433,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/003/green_cardamon1.png",
     "rating": 4.7,
     "reviews": 189,
-    "description": "Premium green cardamom pods for desserts",
+    "description": "TRS Green Cardamom from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -444,7 +444,7 @@ const products = [
     "image": "https://www.india-store.de/images/thumbnail/produkte/small/food01/002/trs-gram-flour.jpg",
     "rating": 4.3,
     "reviews": 167,
-    "description": "Chickpea flour for pakoras and sweets",
+    "description": "TRS Gram Flour (Besan) from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -455,7 +455,7 @@ const products = [
     "image": "/product/1.Soya_20Nuggets_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "High protein soya nuggets for healthy cooking",
+    "description": "Soya Nuggets from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -466,7 +466,7 @@ const products = [
     "image": "/product/2.Matta_20Rice_2010kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality matta rice 10kg for authentic cooking",
+    "description": "Matta Rice 10kg from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -477,7 +477,7 @@ const products = [
     "image": "/product/3.Ponni_20Rice_2010kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality ponni rice 10kg for authentic cooking",
+    "description": "Ponni Rice 10kg from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -488,7 +488,7 @@ const products = [
     "image": "/product/4.Ragi_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh ragi flour for traditional recipes",
+    "description": "Ragi Flour from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -499,7 +499,7 @@ const products = [
     "image": "/product/5.Idli_20Rice_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality idli rice for authentic cooking",
+    "description": "Idli Rice from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -510,7 +510,7 @@ const products = [
     "image": "/product/6.Red_20Rice_20Flakes_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality red rice flakes for authentic cooking",
+    "description": "Red Rice Flakes from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -521,7 +521,7 @@ const products = [
     "image": "/product/7.Bajra_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh bajra flour for traditional recipes",
+    "description": "Bajra Flour from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -532,7 +532,7 @@ const products = [
     "image": "/product/8.Roasted_20Urid_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh roasted urid flour for traditional recipes",
+    "description": "Roasted Urid Flour from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -543,7 +543,7 @@ const products = [
     "image": "/product/9.Roasted_20Moong_20Dal_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh roasted moong dal flour for traditional recipes",
+    "description": "Roasted Moong Dal Flour from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -554,7 +554,7 @@ const products = [
     "image": "/product/10.White_20Rice_20Flakes_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality white rice flakes for authentic cooking",
+    "description": "White Rice Flakes from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -565,7 +565,7 @@ const products = [
     "image": "/product/11.Rosted_20Rava_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality rosted rava from Amutha Brand",
+    "description": "Rosted Rava from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -576,7 +576,7 @@ const products = [
     "image": "/product/12.Madras_20Plain_20Pappadoms_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality madras plain pappadoms from Amutha Brand",
+    "description": "Madras Plain Pappadoms from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -587,7 +587,7 @@ const products = [
     "image": "product/13.Green_20Cardamom_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality green cardamom from Amutha Brand",
+    "description": "Green Cardamom from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -598,7 +598,7 @@ const products = [
     "image": "/product/14.Whole_20Chilli_20Without_20Stem_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality whole chilli without stem from Amutha Brand",
+    "description": "Whole Chilli Without Stem from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -609,7 +609,7 @@ const products = [
     "image": "/product/15.Whole_20Chilli_20With_20Stem_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality whole chilli with stem from Amutha Brand",
+    "description": "Whole Chilli With Stem from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -620,7 +620,7 @@ const products = [
     "image": "/product/16.Soya_20Nuggets_20Ball_20250Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "High protein soya nuggets ball 250gm for healthy cooking",
+    "description": "Soya Nuggets Ball 250gm from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -631,7 +631,7 @@ const products = [
     "image": "/product/17.Chilli_20Flakes_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality chilli flakes from Amutha Brand",
+    "description": "Chilli Flakes from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -642,7 +642,7 @@ const products = [
     "image": "/product/18.Ponni_20Rice_201Kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality ponni rice 1kg for authentic cooking",
+    "description": "Ponni Rice 1kg from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -653,7 +653,7 @@ const products = [
     "image": "/product/19.Seeraga_20Samba_20Rice_201kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality seeraga samba rice 1kg for authentic cooking",
+    "description": "Seeraga Samba Rice 1kg from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -664,7 +664,7 @@ const products = [
     "image": "/product/20.White_20Jaggery_20Cube_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality white jaggery cube from Amutha Brand",
+    "description": "White Jaggery Cube from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -675,7 +675,7 @@ const products = [
     "image": "/product/21.White_20Jaggery_20Powder_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality white jaggery powder from Amutha Brand",
+    "description": "White Jaggery Powder from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -686,7 +686,7 @@ const products = [
     "image": "/product/22.White_20Jaggery_20Ball_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality white jaggery ball from Amutha Brand",
+    "description": "White Jaggery Ball from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -697,7 +697,7 @@ const products = [
     "image": "/product/23.Roasted_20Brown_20Gram_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality roasted brown gram from Amutha Brand",
+    "description": "Roasted Brown Gram from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -708,7 +708,7 @@ const products = [
     "image": "/product/24.Semiya_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality semiya from Amutha Brand",
+    "description": "Semiya from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -719,7 +719,7 @@ const products = [
     "image": "/product//25.Soya_20Nuggets_20Ball_20500Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "High protein soya nuggets ball 500gm for healthy cooking",
+    "description": "Soya Nuggets Ball 500gm from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -730,7 +730,7 @@ const products = [
     "image": "/product/26.Roasted_20Gram_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality roasted gram from Amutha Brand",
+    "description": "Roasted Gram from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -741,7 +741,7 @@ const products = [
     "image": "/product/27.Roasted_20Moong_20Beans_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality roasted moong beans from Amutha Brand",
+    "description": "Roasted Moong Beans from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -752,7 +752,7 @@ const products = [
     "image": "/product/28.Chemba_20Puttu_20Podi_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality chemba puttu podi from Amutha Brand",
+    "description": "Chemba Puttu Podi from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -763,7 +763,7 @@ const products = [
     "image": "/product/29.Roasted_20Yellow_20Peas_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality roasted yellow peas from Amutha Brand",
+    "description": "Roasted Yellow Peas from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -774,7 +774,7 @@ const products = [
     "image": "/product/30.Samba_20Wheat_20Puttu_20Podi_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality samba wheat puttu podi from Amutha Brand",
+    "description": "Samba Wheat Puttu Podi from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -785,7 +785,7 @@ const products = [
     "image": "/product/31.Red_20Raw_20Rice_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality red raw rice for authentic cooking",
+    "description": "Red Raw Rice from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -796,7 +796,7 @@ const products = [
     "image": "/product/40.Garlic_20Murukku_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality garlic murukku from Amutha Brand",
+    "description": "Garlic Murukku from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -807,7 +807,7 @@ const products = [
     "image": "/product/41.Mini_20Butter_20Murukku_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality mini butter murukku from Amutha Brand",
+    "description": "Mini Butter Murukku from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -818,7 +818,7 @@ const products = [
     "image": "/product/42.Mixture_20Mild_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality mixture mild from Amutha Brand",
+    "description": "Mixture Mild from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -829,7 +829,7 @@ const products = [
     "image": "/product/43.Kerala_20Spical_20Mixture_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality kerala spical mixture from Amutha Brand",
+    "description": "Kerala Spical Mixture from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -840,7 +840,7 @@ const products = [
     "image": "/product/44.Banana_20Chips_20Sweet_20150Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious banana chips sweet 150gm",
+    "description": "Banana Chips Sweet 150gm from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -851,7 +851,7 @@ const products = [
     "image": "/product/45.Banana_20Chips_20Spicy_20150Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious banana chips spicy 150gm",
+    "description": "Banana Chips Spicy 150gm from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -862,7 +862,7 @@ const products = [
     "image": "/product/46.Casava_20Chips_20Spicy_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious casava chips spicy",
+    "description": "Casava Chips Spicy from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -873,7 +873,7 @@ const products = [
     "image": "/product/47.Banana_20Chips_20Salt_20150Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious banana chips salt 150gm",
+    "description": "Banana Chips Salt 150gm from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -884,7 +884,7 @@ const products = [
     "image": "/product/48.Banana_20Chips_20Spicy_2080Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious banana chips spicy 80gm",
+    "description": "Banana Chips Spicy 80gm from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -895,7 +895,7 @@ const products = [
     "image": "/product/49.Jackfruit_20Chips_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious jackfruit chips",
+    "description": "Jackfruit Chips from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -906,7 +906,7 @@ const products = [
     "image": "/product/50.Banana_20Chips_20Salt_2080Gm_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Crispy and delicious banana chips salt 80gm",
+    "description": "Banana Chips Salt 80gm from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -917,7 +917,7 @@ const products = [
     "image": "/product/51.Little_20Millet_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Nutritious little millet for healthy diet",
+    "description": "Little Millet from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -928,7 +928,7 @@ const products = [
     "image": "/product/52.Foxtail_20Millet_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Nutritious foxtail millet for healthy diet",
+    "description": "Foxtail Millet from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -939,7 +939,7 @@ const products = [
     "image": "/product/53.Barley_20Rice_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality barley rice for authentic cooking",
+    "description": "Barley Rice from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -950,7 +950,7 @@ const products = [
     "image": "/product/54.Bajra_20Millet_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Nutritious bajra millet for healthy diet",
+    "description": "Bajra Millet from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -961,7 +961,7 @@ const products = [
     "image": "/product/56.Kodo_20Millet_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Nutritious kodo millet for healthy diet",
+    "description": "Kodo Millet from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -972,7 +972,7 @@ const products = [
     "image": "/product/57.Barnyard_20Millet_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Nutritious barnyard millet for healthy diet",
+    "description": "Barnyard Millet from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -983,7 +983,7 @@ const products = [
     "image": "/product/58.Finger_20Millet_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Nutritious finger millet for healthy diet",
+    "description": "Finger Millet from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -994,7 +994,7 @@ const products = [
     "image": "/product/59.Chukku_20Coffee_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality chukku coffee from Amutha Brand",
+    "description": "Chukku Coffee from Amutha brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1005,18 +1005,18 @@ const products = [
     "image": "/product/60.Asafoetida_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality asafoetida from Amutha Brand",
+    "description": "Asafoetida from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
     "id": 92,
-    "name": "Ponni Rice 5kg/h3>",
+    "name": "Ponni Rice 5kgh3",
     "category": "annam",
     "price": 0.0,
     "image": "/product/61.Ponni_20Rice_205Kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality ponni rice 5kg/h3> for authentic cooking",
+    "description": "Ponni Rice 5kgh3 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1027,7 +1027,7 @@ const products = [
     "image": "/product/62.Sonamasoori_20Rice_205Kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality sonamasoori rice 5kg for authentic cooking",
+    "description": "Sonamasoori Rice 5kg from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1038,7 +1038,7 @@ const products = [
     "image": "/product/63.Palappam_20Mix_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh palappam mix flour for traditional recipes",
+    "description": "Palappam Mix Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1049,7 +1049,7 @@ const products = [
     "image": "/product/64.White_20Idiyappam_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh white idiyappam flour for traditional recipes",
+    "description": "White Idiyappam Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1060,7 +1060,7 @@ const products = [
     "image": "/product/65.Roasted_20Gram_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Quality roasted gram from Amutha Brand",
+    "description": "Roasted Gram from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1071,7 +1071,7 @@ const products = [
     "image": "/product/66.Chemba_20Idiyappam_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh chemba idiyappam flour for traditional recipes",
+    "description": "Chemba Idiyappam Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1082,7 +1082,7 @@ const products = [
     "image": "/product/67.Dosa_20Mix_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh dosa mix flour for traditional recipes",
+    "description": "Dosa Mix Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1093,7 +1093,7 @@ const products = [
     "image": "/product/68.Idly_20Mix_20Flour_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Fresh idly mix flour for traditional recipes",
+    "description": "Idly Mix Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1104,7 +1104,7 @@ const products = [
     "image": "/product/69.Seeraga_20Samba_20Rice_205Kg_prev_ui.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality seeraga samba rice 5kg for authentic cooking",
+    "description": "Seeraga Samba Rice 5kg from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1114,7 +1114,7 @@ const products = [
     "price": 0.0,
     "image": "/product/13565855645c3f34ea793c9pro.jpg",
     "weight": "500ml",
-    "description": "Including Weight this product - 500ml",
+    "description": "Aloe Vera Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1124,7 +1124,7 @@ const products = [
     "price": 0.0,
     "image": "/product/11792610505c487930169cepro.jpg",
     "weight": "850g",
-    "description": "Including Weight this product - 850g",
+    "description": "Alphonso Mango Pulp from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1134,7 +1134,7 @@ const products = [
     "price": 0.0,
     "image": "/product/21294930955c3f33bf2ce9bpro.jpg",
     "weight": "500ml",
-    "description": "Including Weight this product - 500ml",
+    "description": "Amla Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1144,7 +1144,7 @@ const products = [
     "price": 0.0,
     "image": "/product/2873809535c47596d18a34pro.JPG",
     "weight": "300g",
-    "description": "Including Weight this product - 300g",
+    "description": "Amla Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1154,7 +1154,7 @@ const products = [
     "price": 0.0,
     "image": "/product/1485658635c3dfce7106c7pro.jpg",
     "weight": "300g",
-    "description": "Including Weight this product - 300g",
+    "description": "Annam Coriander Leaves Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1164,7 +1164,7 @@ const products = [
     "price": 0.0,
     "image": "/product/4089037845c3dfdbe0c9afpro.jpg",
     "weight": "300g",
-    "description": "Including Weight this product - 300g",
+    "description": "Annam Curry Leaves Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1174,7 +1174,7 @@ const products = [
     "price": 0.0,
     "image": "/product/8357082345c3dfe0055185pro.jpg",
     "weight": "300g",
-    "description": "Including Weight this product - 300g",
+    "description": "Annam Garlic Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1184,7 +1184,7 @@ const products = [
     "price": 0.0,
     "image": "/product/2481299455c3e07f201230pro.jpg",
     "weight": "250g , 450g , 900g , 3kg",
-    "description": "Including Weight this product - 250g , 450g , 900g , 3kg",
+    "description": "Annam Jaffna Curry Powder Extra Hot from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1194,7 +1194,7 @@ const products = [
     "price": 0.0,
     "image": "/product/70204275c3f0c6971477pro.jpg",
     "weight": "500ml",
-    "description": "Including Weight this product - 500ml",
+    "description": "Annam Karela Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1204,7 +1204,7 @@ const products = [
     "price": 0.0,
     "image": "/product/8361884135c3df6de75ed2pro.jpg",
     "weight": "500g , 1kg , 2kg",
-    "description": "Including Weight this product - 500g , 1kg , 2kg",
+    "description": "Annam Moong Whole from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1215,7 +1215,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/aashirvaad aloo paratha.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality aashirvaad aloo paratha from Aashirvaad brand",
+    "description": "Aashirvaad Aloo Paratha from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1226,7 +1226,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/aashirvaad chakki.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality aashirvaad chakki from Aashirvaad brand",
+    "description": "Aashirvaad Chakki from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1237,7 +1237,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/aashirvaad corriander naan.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality aashirvaad corriander naan from Aashirvaad brand",
+    "description": "Corriander Naan from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1248,7 +1248,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/aashirvaad malabar paratha.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality aashirvaad malabar paratha from Aashirvaad brand",
+    "description": "Malabar Paratha from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1259,7 +1259,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/aashirvaad paneer paratha.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality aashirvaad paneer paratha from Aashirvaad brand",
+    "description": "Paneer Paratha from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1270,7 +1270,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/aashirvaad tandoori naan.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality aashirvaad tandoori naan from Aashirvaad brand",
+    "description": "Tandoori Naan from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1281,7 +1281,7 @@ const products = [
     "image": "/Tropical Foods/Aashirvaad/dq.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Multigrains Atta from Aashirvaad brand",
+    "description": "Multigrains Atta from Aashirvaad brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1292,7 +1292,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ajwain.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ajwain from Annam brand",
+    "description": "Ajwain from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1303,7 +1303,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Aloe_Vera_Saft.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Aloe Vera Saft from Annam brand",
+    "description": "Aloe Vera Saft from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1314,7 +1314,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Alphonso_Mango_Pulp.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Alphonso Mango Pulp from Annam brand",
+    "description": "Alphonso Mango Pulp from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1325,7 +1325,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Amla_Juice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Amla Juice from Annam brand",
+    "description": "Amla Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1336,7 +1336,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Amla_Pickle.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Amla Pickle from Annam brand",
+    "description": "Amla Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1347,7 +1347,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Annam_Basmati.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Annam Basmati from Annam brand",
+    "description": "Annam Basmati from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1358,7 +1358,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Bajra_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bajra Rava from Annam brand",
+    "description": "Bajra Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1369,7 +1369,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Barley_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Barley Rice from Annam brand",
+    "description": "Barley Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1380,7 +1380,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Barnyyard_Millet.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Barnyyard Millet from Annam brand",
+    "description": "Barnyyard Millet from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1391,7 +1391,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Basmati_Rice.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Basmati Rice from Annam brand",
+    "description": "Basmati Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1402,7 +1402,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Bay_Leaves.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bay Leaves from Annam brand",
+    "description": "Bay Leaves from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1413,7 +1413,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Besan_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Besan Flour from Annam brand",
+    "description": "Besan Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1424,7 +1424,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Black_Eye_Beans.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Black Eye Beans from Annam brand",
+    "description": "Black Eye Beans from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1435,7 +1435,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Boiled_Chick_Peas.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Boiled Chick Peas from Annam brand",
+    "description": "Boiled Chick Peas from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1446,7 +1446,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Bombay_Mixture.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bombay Mixture from Annam brand",
+    "description": "Bombay Mixture from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1457,7 +1457,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Brown_Sona_Masuri_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Brown Sona Masuri Rice from Annam brand",
+    "description": "Brown Sona Masuri Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1468,7 +1468,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Butter_Chillies.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Butter Chillies from Annam brand",
+    "description": "Butter Chillies from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1479,7 +1479,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cardamon.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cardamon from Annam brand",
+    "description": "Cardamon from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1490,7 +1490,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cardomom_Powder.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cardomom Powder from Annam brand",
+    "description": "Cardomom Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1501,7 +1501,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cassava_Chunks.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cassava Chunks from Annam brand",
+    "description": "Cassava Chunks from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1512,7 +1512,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Chana_Dal.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chana Dal from Annam brand",
+    "description": "Chana Dal from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1523,7 +1523,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Chick_Peas.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chick Peas from Annam brand",
+    "description": "Chick Peas from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1534,7 +1534,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Chillies_With_Stem.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chillies With Stem from Annam brand",
+    "description": "Chillies With Stem from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1545,7 +1545,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Chillie_Paste.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chillie Paste from Annam brand",
+    "description": "Chillie Paste from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1556,7 +1556,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Chilli_Powder_Extra_Hot.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chilli Powder Extra Hot from Annam brand",
+    "description": "Chilli Powder Extra Hot from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1567,7 +1567,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cinna_Mon.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cinna Mon from Annam brand",
+    "description": "Cinna Mon from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1578,7 +1578,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cloves.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cloves from Annam brand",
+    "description": "Cloves from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1589,7 +1589,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Coconut_Milk_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Coconut Milk Powder from Annam brand",
+    "description": "Coconut Milk Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1600,7 +1600,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Colour_Vadam_Round.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Colour Vadam Round from Annam brand",
+    "description": "Colour Vadam Round from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1611,7 +1611,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Corainder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Corainder from Annam brand",
+    "description": "Corainder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1622,7 +1622,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Corainder_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Corainder Powder from Annam brand",
+    "description": "Corainder Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1633,7 +1633,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Coriander_LEaves.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Coriander LEaves from Annam brand",
+    "description": "Coriander Leaves from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1644,7 +1644,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cotton_Wicks.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cotton Wicks from Annam brand",
+    "description": "Cotton Wicks from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1655,7 +1655,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Crushed_Chiilies.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Crushed Chiilies from Annam brand",
+    "description": "Crushed Chiilies from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1666,7 +1666,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cumin.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cumin from Annam brand",
+    "description": "Cumin from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1677,7 +1677,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cumin_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cumin Powder from Annam brand",
+    "description": "Cumin Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1688,7 +1688,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Curry_Leaves.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Curry Leaves from Annam brand",
+    "description": "Curry Leaves from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1699,7 +1699,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Curry_Mix.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Curry Mix from Annam brand",
+    "description": "Curry Mix from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1710,7 +1710,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Curshed_Pepper.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Curshed Pepper from Annam brand",
+    "description": "Curshed Pepper from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1721,7 +1721,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cut_Mango.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cut Mango from Annam brand",
+    "description": "Cut Mango from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1732,7 +1732,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cut_Roti.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cut Roti from Annam brand",
+    "description": "Cut Roti from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1743,7 +1743,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Cut_Roti_1.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Cut Roti 1 from Annam brand",
+    "description": "Cut Roti 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1754,7 +1754,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Desiccated_Coconut.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Desiccated Coconut from Annam brand",
+    "description": "Desiccated Coconut from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1765,7 +1765,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Diamond_Sugar_Candy.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Diamond Sugar Candy from Annam brand",
+    "description": "Diamond Sugar Candy from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1776,7 +1776,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Dried_Curry_Leaves.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Dried Curry Leaves from Annam brand",
+    "description": "Dried Curry Leaves from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1787,7 +1787,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Dried_Ginger.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Dried Ginger from Annam brand",
+    "description": "Dried Ginger from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1798,7 +1798,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Dried_Ginger_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Dried Ginger Powder from Annam brand",
+    "description": "Dried Ginger Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1809,7 +1809,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Enriched_Paspanguva.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Enriched Paspanguva from Annam brand",
+    "description": "Enriched Paspanguva from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1820,7 +1820,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Fengreek_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fengreek Powder from Annam brand",
+    "description": "Fengreek Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1831,7 +1831,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Fenugreek.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fenugreek from Annam brand",
+    "description": "Fenugreek from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1842,7 +1842,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Fenugreek_Leaves.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fenugreek Leaves from Annam brand",
+    "description": "Fenugreek Leaves from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1853,7 +1853,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Dosa.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Dosa from Annam brand",
+    "description": "Frozen Dosa from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1864,7 +1864,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Idli_with_Sambar.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Idli with Sambar from Annam brand",
+    "description": "Frozen Idli With Sambar from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1875,7 +1875,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Malabar_Parotta.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Malabar Parotta from Annam brand",
+    "description": "Frozen Malabar Parotta from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1886,7 +1886,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Malabar_Parotta_1.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Malabar Parotta 1 from Annam brand",
+    "description": "Frozen Malabar Parotta 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1897,7 +1897,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Masal_Vada.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Masal Vada from Annam brand",
+    "description": "Frozen Masal Vada from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1908,7 +1908,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Medhu_Vada.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Medhu Vada from Annam brand",
+    "description": "Frozen Medhu Vada from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1919,7 +1919,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Parota.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Parota from Annam brand",
+    "description": "Frozen Parota from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1930,7 +1930,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Parotta.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Parotta from Annam brand",
+    "description": "Frozen Parotta from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1941,7 +1941,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Frozen_Stuffed_Veg_Roti.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Frozen Stuffed Veg Roti from Annam brand",
+    "description": "Frozen Stuffed Veg Roti from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1952,7 +1952,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Garcinia_Cambogia_Paste.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Garcinia Cambogia Paste from Annam brand",
+    "description": "Garcinia Cambogia Paste from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1963,7 +1963,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Garlic_Paste.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Garlic Paste from Annam brand",
+    "description": "Garlic Paste from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1974,7 +1974,7 @@ const products = [
     "image": "/Tropical Foods/Annam/garlic_Pickle.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality garlic Pickle from Annam brand",
+    "description": "Garlic Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1985,7 +1985,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Gingelly_Oil.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Gingelly Oil from Annam brand",
+    "description": "Gingelly Oil from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -1996,7 +1996,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Gingelly_OIl_1.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Gingelly OIl 1 from Annam brand",
+    "description": "Gingelly Oil 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2007,7 +2007,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ginger_and_Garlic_Paste.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ginger and Garlic Paste from Annam brand",
+    "description": "Ginger And Garlic Paste from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2018,7 +2018,7 @@ const products = [
     "image": "/Tropical Foods/Annam/GInger_Paste.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality GInger Paste from Annam brand",
+    "description": "Ginger Paste from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2029,7 +2029,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ginger_Pickle.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ginger Pickle from Annam brand",
+    "description": "Ginger Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2040,7 +2040,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Goraka.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Goraka from Annam brand",
+    "description": "Goraka from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2051,7 +2051,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Grated_Coconut.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Grated Coconut from Annam brand",
+    "description": "Grated Coconut from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2062,7 +2062,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Green_Mung_Whole.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Green Mung Whole from Annam brand",
+    "description": "Green Mung Whole from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2073,7 +2073,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Haldi_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Haldi Powder from Annam brand",
+    "description": "Haldi Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2084,7 +2084,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Himalayan_Crystal_Salt.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Himalayan Crystal Salt from Annam brand",
+    "description": "Himalayan Crystal Salt from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2095,7 +2095,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Himalayan_Crystal_Salt_1.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Himalayan Crystal Salt 1 from Annam brand",
+    "description": "Himalayan Crystal Salt 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2106,7 +2106,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Horse_Gram.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Horse Gram from Annam brand",
+    "description": "Horse Gram from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2117,7 +2117,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Hot_Pakoda.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Hot Pakoda from Annam brand",
+    "description": "Hot Pakoda from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2128,7 +2128,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Idli_Mix.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Idli Mix from Annam brand",
+    "description": "Idli Mix from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2139,7 +2139,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Idli_Mix_1.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Idli Mix 1 from Annam brand",
+    "description": "Idli Mix 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2150,7 +2150,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Idly_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Idly Rava from Annam brand",
+    "description": "Idly Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2161,7 +2161,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Idly_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Idly Rice from Annam brand",
+    "description": "Idly Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2172,7 +2172,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Idly_RIce_1.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Idly RIce 1 from Annam brand",
+    "description": "Idly Rice 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2183,7 +2183,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jack_Fruit.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jack Fruit from Annam brand",
+    "description": "Jack Fruit from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2194,7 +2194,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jack_Fruit_Seed.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jack Fruit Seed from Annam brand",
+    "description": "Jack Fruit Seed from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2205,7 +2205,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jack_Mackere.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jack Mackere from Annam brand",
+    "description": "Jack Mackere from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2216,7 +2216,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jack_Mackerel.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jack Mackerel from Annam brand",
+    "description": "Jack Mackerel from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2227,7 +2227,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jaffna_Curry_Powder.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaffna Curry Powder from Annam brand",
+    "description": "Jaffna Curry Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2238,7 +2238,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jaffna_Curry_Powder_1.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaffna Curry Powder 1 from Annam brand",
+    "description": "Jaffna Curry Powder 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2249,7 +2249,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jaggery_Cubes_Brown.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaggery Cubes Brown from Annam brand",
+    "description": "Jaggery Cubes Brown from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2260,7 +2260,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jaggery_Cubes_White.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaggery Cubes White from Annam brand",
+    "description": "Jaggery Cubes White from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2271,7 +2271,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jaggery_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaggery Powder from Annam brand",
+    "description": "Jaggery Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2282,7 +2282,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jaggery_Powder.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaggery Powder from Annam brand",
+    "description": "Jaggery Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2293,7 +2293,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jamun_Juice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jamun Juice from Annam brand",
+    "description": "Jamun Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2304,7 +2304,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jeera_Samba_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jeera Samba Rice from Annam brand",
+    "description": "Jeera Samba Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2315,7 +2315,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Jorden_Sennepfre.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jorden Sennepfre from Annam brand",
+    "description": "Jorden Sennepfre from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2326,7 +2326,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Karela_Juice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Karela Juice from Annam brand",
+    "description": "Karela Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2337,7 +2337,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Katta_Sambol.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Katta Sambol from Annam brand",
+    "description": "Katta Sambol from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2348,7 +2348,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Kerala_Mixture.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kerala Mixture from Annam brand",
+    "description": "Kerala Mixture from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2359,7 +2359,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Kesar_Mango_Pulp.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kesar Mango Pulp from Annam brand",
+    "description": "Kesar Mango Pulp from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2370,7 +2370,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Khakra_Haldi_Methi.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Khakra Haldi Methi from Annam brand",
+    "description": "Khakra Haldi Methi from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2381,7 +2381,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Khakra_Hariyali.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Khakra Hariyali from Annam brand",
+    "description": "Khakra Hariyali from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2392,7 +2392,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Khakra_Jeera.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Khakra Jeera from Annam brand",
+    "description": "Khakra Jeera from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2403,7 +2403,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Khakra_Mirchi_Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Khakra Mirchi Masala from Annam brand",
+    "description": "Khakra Mirchi Masala from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2414,7 +2414,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Kokosolie.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kokosolie from Annam brand",
+    "description": "Kokosolie from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2425,7 +2425,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ksturi_Manjal_Whole.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ksturi Manjal Whole from Annam brand",
+    "description": "Ksturi Manjal Whole from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2436,7 +2436,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Kudo_Millet.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kudo Millet from Annam brand",
+    "description": "Kudo Millet from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2447,7 +2447,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Lapsi_Coarse.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Lapsi Coarse from Annam brand",
+    "description": "Lapsi Coarse from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2458,7 +2458,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Lime_Pickle.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Lime Pickle from Annam brand",
+    "description": "Lime Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2469,7 +2469,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Little_Millet.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Little Millet from Annam brand",
+    "description": "Little Millet from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2480,7 +2480,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mace.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mace from Annam brand",
+    "description": "Mace from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2491,7 +2491,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Madras_Mixture.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Madras Mixture from Annam brand",
+    "description": "Madras Mixture from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2502,7 +2502,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Madras_Papad.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Madras Papad from Annam brand",
+    "description": "Madras Papad from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2513,7 +2513,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Maida_Flour.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Maida Flour from Annam brand",
+    "description": "Maida Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2524,7 +2524,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Maize_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Maize Rava from Annam brand",
+    "description": "Maize Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2535,7 +2535,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mango_Thokku.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mango Thokku from Annam brand",
+    "description": "Mango Thokku from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2546,7 +2546,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mild_Mixture_Jaffna.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mild Mixture Jaffna from Annam brand",
+    "description": "Mild Mixture Jaffna from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2557,7 +2557,7 @@ const products = [
     "image": "/Tropical Foods/Annam/MIld_Mixture_Jaffna.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality MIld Mixture Jaffna from Annam brand",
+    "description": "Mild Mixture Jaffna from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2568,7 +2568,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mixed_Vegetable_Pickle.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mixed Vegetable Pickle from Annam brand",
+    "description": "Mixed Vegetable Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2579,7 +2579,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Moraiyo_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Moraiyo Flour from Annam brand",
+    "description": "Moraiyo Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2590,7 +2590,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mumra.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mumra from Annam brand",
+    "description": "Mumra from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2601,7 +2601,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mung_Dal.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mung Dal from Annam brand",
+    "description": "Mung Dal from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2612,7 +2612,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Mustard.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mustard from Annam brand",
+    "description": "Mustard from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2623,7 +2623,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Musturd_Oil.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Musturd Oil from Annam brand",
+    "description": "Musturd Oil from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2634,7 +2634,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Neem_Juice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Neem Juice from Annam brand",
+    "description": "Neem Juice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2645,7 +2645,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Odiyal_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Odiyal Flour from Annam brand",
+    "description": "Odiyal Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2656,7 +2656,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Palm_Tucker.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Palm Tucker from Annam brand",
+    "description": "Palm Tucker from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2667,7 +2667,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pani_Puri_Vathal.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pani Puri Vathal from Annam brand",
+    "description": "Pani Puri Vathal from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2678,7 +2678,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Parutural_Vadai.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Parutural Vadai from Annam brand",
+    "description": "Parutural Vadai from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2689,7 +2689,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pattani_Gram.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pattani Gram from Annam brand",
+    "description": "Pattani Gram from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2700,7 +2700,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pavakkai_Vathal.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pavakkai Vathal from Annam brand",
+    "description": "Pavakkai Vathal from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2711,7 +2711,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Peanut_Bar.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Peanut Bar from Annam brand",
+    "description": "Peanut Bar from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2722,7 +2722,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pepper.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pepper from Annam brand",
+    "description": "Pepper from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2733,7 +2733,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pepper_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pepper Powder from Annam brand",
+    "description": "Pepper Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2744,7 +2744,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Phool_Mkhana.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Phool Mkhana from Annam brand",
+    "description": "Phool Mkhana from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2755,7 +2755,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Plain_Madras_Pappadums.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Plain Madras Pappadums from Annam brand",
+    "description": "Plain Madras Pappadums from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2766,7 +2766,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pluttu_Flour_Res.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pluttu Flour Res from Annam brand",
+    "description": "Pluttu Flour Res from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2777,7 +2777,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pluttu_White_Flour.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pluttu White Flour from Annam brand",
+    "description": "Pluttu White Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2788,7 +2788,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ponni_Boiled_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ponni Boiled Rice from Annam brand",
+    "description": "Ponni Boiled Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2799,7 +2799,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ponni_Raw_Rice.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ponni Raw Rice from Annam brand",
+    "description": "Ponni Raw Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2810,7 +2810,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pottukadalai.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pottukadalai from Annam brand",
+    "description": "Pottukadalai from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2821,7 +2821,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Premium_Basmati_Rice.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Premium Basmati Rice from Annam brand",
+    "description": "Premium Basmati Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2832,7 +2832,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Proso_Millet.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Proso Millet from Annam brand",
+    "description": "Proso Millet from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2843,7 +2843,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Pudina_Pickle.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pudina Pickle from Annam brand",
+    "description": "Pudina Pickle from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2854,7 +2854,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ragi.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ragi from Annam brand",
+    "description": "Ragi from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2865,7 +2865,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Ragi_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ragi Flour from Annam brand",
+    "description": "Ragi Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2876,7 +2876,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Red_Basmati_RIce.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Basmati RIce from Annam brand",
+    "description": "Red Basmati Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2887,7 +2887,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Red_Boiled_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Boiled Rice from Annam brand",
+    "description": "Red Boiled Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2898,7 +2898,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Red_Boiled_Rice.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Boiled Rice from Annam brand",
+    "description": "Red Boiled Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2909,7 +2909,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Red_Raw_Rice.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Raw Rice from Annam brand",
+    "description": "Red Raw Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2920,7 +2920,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Red_Raw_Rice_Unpolished.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Raw Rice Unpolished from Annam brand",
+    "description": "Red Raw Rice Unpolished from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2931,7 +2931,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Red_Split_Lentils.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Split Lentils from Annam brand",
+    "description": "Red Split Lentils from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2942,7 +2942,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Rice_Flakes_Red.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rice Flakes Red from Annam brand",
+    "description": "Rice Flakes Red from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2953,7 +2953,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Rice_Flour.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rice Flour from Annam brand",
+    "description": "Rice Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2964,7 +2964,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Rice_Flur.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rice Flur from Annam brand",
+    "description": "Rice Flur from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2975,7 +2975,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Rice_Muruku_Hot.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rice Muruku Hot from Annam brand",
+    "description": "Rice Muruku Hot from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2986,7 +2986,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Roasted_Gram_With_Skin.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Roasted Gram With Skin from Annam brand",
+    "description": "Roasted Gram With Skin from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -2997,7 +2997,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Roasted_Moon_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Roasted Moon Flour from Annam brand",
+    "description": "Roasted Moon Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3008,7 +3008,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Roasted_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Roasted Rava from Annam brand",
+    "description": "Roasted Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3019,7 +3019,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Roasted_Semiya_Vermicelli.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Roasted Semiya Vermicelli from Annam brand",
+    "description": "Roasted Semiya Vermicelli from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3030,7 +3030,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Roasted_Urid_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Roasted Urid Flour from Annam brand",
+    "description": "Roasted Urid Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3041,7 +3041,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Roasted_White_Rice_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Roasted White Rice Flour from Annam brand",
+    "description": "Roasted White Rice Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3052,7 +3052,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Rock_Salt.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rock Salt from Annam brand",
+    "description": "Rock Salt from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3063,7 +3063,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Round_CHillies.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Round CHillies from Annam brand",
+    "description": "Round Chillies from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3074,7 +3074,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sago.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sago from Annam brand",
+    "description": "Sago from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3085,7 +3085,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sago_Small.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sago Small from Annam brand",
+    "description": "Sago Small from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3096,7 +3096,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Samba_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Samba Rava from Annam brand",
+    "description": "Samba Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3107,7 +3107,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Semiya_Vermicelli.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Semiya Vermicelli from Annam brand",
+    "description": "Semiya Vermicelli from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3118,7 +3118,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Senni_Sambol.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Senni Sambol from Annam brand",
+    "description": "Senni Sambol from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3129,7 +3129,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sesame_Sweet_Ball.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sesame Sweet Ball from Annam brand",
+    "description": "Sesame Sweet Ball from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3140,7 +3140,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sona_Masuri_Rice.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sona Masuri Rice from Annam brand",
+    "description": "Sona Masuri Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3151,7 +3151,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sona_Masuri_RIce_1.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sona Masuri RIce 1 from Annam brand",
+    "description": "Sona Masuri Rice 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3162,7 +3162,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Soya_Button.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Soya Button from Annam brand",
+    "description": "Soya Button from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3173,7 +3173,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Soya_Button_1.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Soya Button 1 from Annam brand",
+    "description": "Soya Button 1 from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3184,7 +3184,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Spicy_Mixture_Hot_Jaffna.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Spicy Mixture Hot Jaffna from Annam brand",
+    "description": "Spicy Mixture Hot Jaffna from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3195,7 +3195,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Steamed_Wheat_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Steamed Wheat Flour from Annam brand",
+    "description": "Steamed Wheat Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3206,7 +3206,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sugar_Coated_Fennel_Colour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sugar Coated Fennel Colour from Annam brand",
+    "description": "Sugar Coated Fennel Colour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3217,7 +3217,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Supiri_Keeri_RIce.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Supiri Keeri RIce from Annam brand",
+    "description": "Supiri Keeri Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3228,7 +3228,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Supiri_Samba_RIce.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Supiri Samba RIce from Annam brand",
+    "description": "Supiri Samba Rice from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3239,7 +3239,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Sweet_Fennel.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sweet Fennel from Annam brand",
+    "description": "Sweet Fennel from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3250,7 +3250,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Tamarind.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tamarind from Annam brand",
+    "description": "Tamarind from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3261,7 +3261,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Tapioca_Chips_Spicy.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tapioca Chips Spicy from Annam brand",
+    "description": "Tapioca Chips Spicy from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3272,7 +3272,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Tennel.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tennel from Annam brand",
+    "description": "Tennel from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3283,7 +3283,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Tennel_Powder.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tennel Powder from Annam brand",
+    "description": "Tennel Powder from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3294,7 +3294,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Textail_Mrichi.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Textail Mrichi from Annam brand",
+    "description": "Textail Mrichi from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3305,7 +3305,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Tomato_Thokku.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tomato Thokku from Annam brand",
+    "description": "Tomato Thokku from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3316,7 +3316,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Toor_Dal.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Toor Dal from Annam brand",
+    "description": "Toor Dal from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3327,7 +3327,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Tukmaria.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tukmaria from Annam brand",
+    "description": "Tukmaria from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3338,7 +3338,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Turmeric_Finger.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Turmeric Finger from Annam brand",
+    "description": "Turmeric Finger from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3349,7 +3349,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Unroasted_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Unroasted Rava from Annam brand",
+    "description": "Unroasted Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3360,7 +3360,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Unroasted_Urid_Flour.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Unroasted Urid Flour from Annam brand",
+    "description": "Unroasted Urid Flour from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3371,7 +3371,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Upma_Rava.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Upma Rava from Annam brand",
+    "description": "Upma Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3382,7 +3382,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Upma_Rava.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Upma Rava from Annam brand",
+    "description": "Upma Rava from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3393,7 +3393,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Urid_Dal.jpeg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Urid Dal from Annam brand",
+    "description": "Urid Dal from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3404,7 +3404,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Urid_Gota.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Urid Gota from Annam brand",
+    "description": "Urid Gota from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3415,7 +3415,7 @@ const products = [
     "image": "/Tropical Foods/Annam/Veechi_Roti.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Veechi Roti from Annam brand",
+    "description": "Veechi Roti from Annam brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3426,7 +3426,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Aloo lachha.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Aloo lachha from Haldiram brand",
+    "description": "Aloo Lachha from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3437,7 +3437,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/bhel_puri.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality bhel puri from Haldiram brand",
+    "description": "Bhel Puri from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3448,7 +3448,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Bhujia Sev.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bhujia Sev from Haldiram brand",
+    "description": "Bhujia Sev from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3459,7 +3459,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Boondi.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Boondi from Haldiram brand",
+    "description": "Boondi from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3470,7 +3470,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Chana Chur.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chana Chur from Haldiram brand",
+    "description": "Chana Chur from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3481,7 +3481,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/chana_jor_garam-200gm.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality chana jor garam-200gm from Haldiram brand",
+    "description": "Chana Jor Garam-200gm from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3492,7 +3492,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Channa Nuts.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Channa Nuts from Haldiram brand",
+    "description": "Channa Nuts from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3503,7 +3503,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Chatpata Dal.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chatpata Dal from Haldiram brand",
+    "description": "Chatpata Dal from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3514,7 +3514,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/chatpata_dal_2.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality chatpata dal hot and spicy from Haldiram brand",
+    "description": "Chatpata Dal Hot And Spicy from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3525,7 +3525,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Chekaralu and Murukka.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chekaralu and Murukka from Haldiram brand",
+    "description": "Chekaralu And Murukka from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3536,7 +3536,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/chekralu.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality chekralu from Haldiram brand",
+    "description": "Chekralu from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3547,7 +3547,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/farali_chiwda_200gms_1.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality farali chiwda 200gms from Haldiram brand",
+    "description": "Farali Chiwda 200gms from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3558,7 +3558,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/farali_chiwda_200g_1.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality farali chiwda 200g 1 from Haldiram brand",
+    "description": "Farali Chiwda Mix 200g from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3569,7 +3569,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/fine_sev_1.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality fine sev 1 from Haldiram brand",
+    "description": "Fine Sev from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3580,7 +3580,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/gathiya-10rs.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality gathiya-10rs from Haldiram brand",
+    "description": "Gathiya-10rs from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3591,7 +3591,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Golden Mixture.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Golden Mixture from Haldiram brand",
+    "description": "Golden Mixture from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3602,7 +3602,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Khatta Meetha Mix.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Khatta Meetha Mix from Haldiram brand",
+    "description": "Khatta Meetha Mix from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3613,7 +3613,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Khatta Metha.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Khatta Metha from Haldiram brand",
+    "description": "Khatta Metha from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3624,7 +3624,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Lemon Bhel.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Lemon Bhel from Haldiram brand",
+    "description": "Lemon Bhel from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3635,7 +3635,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/lite_chiwda.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality lite chiwda from Haldiram brand",
+    "description": "Lite Chiwda from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3646,7 +3646,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/lite_chiwda_8.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality lite chiwda 8 from Haldiram brand",
+    "description": "Lite Chiwda 8 from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3657,7 +3657,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Mini Samosa.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mini Samosa from Haldiram brand",
+    "description": "Mini Samosa from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3668,7 +3668,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Mixture.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mixture from Haldiram brand",
+    "description": "Mixture from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3679,7 +3679,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/moong dal.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality moong dal from Haldiram brand",
+    "description": "Moong Dal from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3690,7 +3690,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/moong_dal_5_1.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality moong dal 5 1 from Haldiram brand",
+    "description": "Moong Dal 5 1 from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3701,7 +3701,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Muruku.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Muruku from Haldiram brand",
+    "description": "Muruku from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3712,7 +3712,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/murukulu.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality murukulu from Haldiram brand",
+    "description": "Murukulu from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3723,7 +3723,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Punjab Tadka.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Punjab Tadka from Haldiram brand",
+    "description": "Punjab Tadka from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3734,7 +3734,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Ratlami Sev.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ratlami Sev from Haldiram brand",
+    "description": "Ratlami Sev from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3745,7 +3745,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/roasted chana.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality roasted chana from Haldiram brand",
+    "description": "Roasted Chana from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3756,7 +3756,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Salted Peanuts.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Salted Peanuts from Haldiram brand",
+    "description": "Salted Peanuts from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3767,7 +3767,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Sev.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sev from Haldiram brand",
+    "description": "Sev from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3778,7 +3778,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/SPicy Peanuts.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality SPicy Peanuts from Haldiram brand",
+    "description": "Spicy Peanuts from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3789,7 +3789,7 @@ const products = [
     "image": "/Tropical Foods/Haldiram/Tasty Nuts.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tasty Nuts from Haldiram brand",
+    "description": "Tasty Nuts from Haldiram brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3800,7 +3800,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Anardana powder.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Anardana powder from MDH brand",
+    "description": "Anardana Powder from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3811,7 +3811,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Channa Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Channa Masala from MDH brand",
+    "description": "Channa Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3822,7 +3822,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Chicken Curry Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Curry Masala from MDH brand",
+    "description": "Chicken Curry Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3833,7 +3833,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Chunky Chat Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chunky Chat Masala from MDH brand",
+    "description": "Chunky Chat Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3844,7 +3844,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Dal Makhani.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Dal Makhani from MDH brand",
+    "description": "Dal Makhani from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3855,7 +3855,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Garam Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Garam Masala from MDH brand",
+    "description": "Garam Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3866,7 +3866,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Hydrabadi Biryani Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Hydrabadi Biryani Masala from MDH brand",
+    "description": "Hydrabadi Biryani Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3877,7 +3877,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Jal Jeera.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jal Jeera from MDH brand",
+    "description": "Jal Jeera from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3888,7 +3888,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Karahi Gosht.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Karahi Gosht from MDH brand",
+    "description": "Karahi Gosht from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3899,7 +3899,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Kasoori Methi.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kasoori Methi from MDH brand",
+    "description": "Kasoori Methi from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3910,7 +3910,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Madras Curry Powder.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Madras Curry Powder from MDH brand",
+    "description": "Madras Curry Powder from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3921,7 +3921,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Meat Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Meat Masala from MDH brand",
+    "description": "Meat Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3932,7 +3932,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Pakoda Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pakoda Masala from MDH brand",
+    "description": "Pakoda Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3943,7 +3943,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Pani Puri.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pani Puri from MDH brand",
+    "description": "Pani Puri from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3954,7 +3954,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Pulao Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pulao Masala from MDH brand",
+    "description": "Pulao Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3965,7 +3965,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Rajmah Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rajmah Masala from MDH brand",
+    "description": "Rajmah Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3976,7 +3976,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Shahi Paneer Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Shahi Paneer Masala from MDH brand",
+    "description": "Shahi Paneer Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3987,7 +3987,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Sindhi Biryani Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sindhi Biryani Masala from MDH brand",
+    "description": "Sindhi Biryani Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -3998,7 +3998,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Stuffed Parantha Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Stuffed Parantha Masala from MDH brand",
+    "description": "Stuffed Parantha Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4009,7 +4009,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Tandoori Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tandoori Masala from MDH brand",
+    "description": "Tandoori Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4020,7 +4020,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Tava Fry.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tava Fry from MDH brand",
+    "description": "Tava Fry from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4031,7 +4031,7 @@ const products = [
     "image": "/Tropical Foods/MDH/Tea Plus Masala.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tea Plus Masala from MDH brand",
+    "description": "Tea Plus Masala from Mdh brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4042,7 +4042,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Aubergine Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Aubergine Pickle from Patak pickles brand",
+    "description": "Aubergine Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4053,7 +4053,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Chilli Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chilli Pickle from Patak pickles brand",
+    "description": "Chilli Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4064,7 +4064,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Garlic Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Garlic Pickle from Patak pickles brand",
+    "description": "Garlic Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4075,7 +4075,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Hot Lime Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Hot Lime Pickle from Patak pickles brand",
+    "description": "Hot Lime Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4086,7 +4086,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Hot Mango Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Hot Mango Pickle from Patak pickles brand",
+    "description": "Hot Mango Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4097,7 +4097,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Lime Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Lime Pickle from Patak pickles brand",
+    "description": "Lime Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4108,7 +4108,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Mango Chutney.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mango Chutney from Patak pickles brand",
+    "description": "Mango Chutney from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4119,7 +4119,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Mango Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mango Pickle from Patak pickles brand",
+    "description": "Mango Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4130,7 +4130,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Mixed Pickle.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mixed Pickle from Patak pickles brand",
+    "description": "Mixed Pickle from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4141,7 +4141,7 @@ const products = [
     "image": "/Tropical Foods/Patak pickles/Raita Cool and Mint.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Raita Cool and Mint from Patak pickles brand",
+    "description": "Raita Cool And Mint from Patak pickles brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4152,7 +4152,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/Jaggery blackcube periyar.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Jaggery blackcube periyar from Periyar delights brand",
+    "description": "Jaggery Blackcube Periyar from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4163,7 +4163,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/Periyar Chemba Puttupodi.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Periyar Chemba Puttupodi from Periyar delights brand",
+    "description": "Periyar Chemba Puttupodi from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4174,7 +4174,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/Periyar Idiappam Brown.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Periyar Idiappam Brown from Periyar delights brand",
+    "description": "Periyar Idiappam Brown from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4185,7 +4185,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/Periyar Idiappam Podi White.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Periyar Idiappam Podi White from Periyar delights brand",
+    "description": "Periyar Idiappam Podi White from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4196,7 +4196,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/Periyar Instant Semiya Payasam Mix 200gm.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Periyar Instant Semiya Payasam Mix 200gm from Periyar delights brand",
+    "description": "Periyar Instant Semiya Payasam Mix 200gm from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4207,7 +4207,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/PERIYAR INSTANT UPPUMA.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality PERIYAR INSTANT UPPUMA from Periyar delights brand",
+    "description": "Periyar Instant Uppuma from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4218,7 +4218,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/periyar-dosa-mix.webp",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality periyar-dosa-mix from Periyar delights brand",
+    "description": "Periyar-dosa-mix from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4229,7 +4229,7 @@ const products = [
     "image": "/Tropical Foods/Periyar delights/PeriyarIdli Rawa1kg.jpg",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality PeriyarIdli Rawa1kg from Periyar delights brand",
+    "description": "Periyaridli Rawa1kg from Periyar delights brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4240,7 +4240,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Achar Gosht.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Achar Gosht from Shaan brand",
+    "description": "Achar Gosht from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4251,7 +4251,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Beryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Beryani from Shaan brand",
+    "description": "Beryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4262,7 +4262,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Bihari Kabab.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bihari Kabab from Shaan brand",
+    "description": "Bihari Kabab from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4273,7 +4273,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Biryani from Shaan brand",
+    "description": "Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4284,7 +4284,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Bombay Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bombay Biryani from Shaan brand",
+    "description": "Bombay Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4295,7 +4295,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Bukhari Rice.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bukhari Rice from Shaan brand",
+    "description": "Bukhari Rice from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4306,7 +4306,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Butter Chicken.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Butter Chicken from Shaan brand",
+    "description": "Butter Chicken from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4317,7 +4317,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chapli Kabab.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chapli Kabab from Shaan brand",
+    "description": "Chapli Kabab from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4328,7 +4328,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken Broast.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Broast from Shaan brand",
+    "description": "Chicken Broast from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4339,7 +4339,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken Ginger.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Ginger from Shaan brand",
+    "description": "Chicken Ginger from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4350,7 +4350,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken Handi.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Handi from Shaan brand",
+    "description": "Chicken Handi from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4361,7 +4361,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken Jalfrezi.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Jalfrezi from Shaan brand",
+    "description": "Chicken Jalfrezi from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4372,7 +4372,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Masala from Shaan brand",
+    "description": "Chicken Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4383,7 +4383,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken Tikka.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken Tikka from Shaan brand",
+    "description": "Chicken Tikka from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4394,7 +4394,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken White Karahi.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken White Karahi from Shaan brand",
+    "description": "Chicken White Karahi from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4405,7 +4405,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chicken White Korma.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chicken White Korma from Shaan brand",
+    "description": "Chicken White Korma from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4416,7 +4416,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chinese Beef.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chinese Beef from Shaan brand",
+    "description": "Chinese Beef from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4427,7 +4427,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chinese Chowmein.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chinese Chowmein from Shaan brand",
+    "description": "Chinese Chowmein from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4438,7 +4438,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chinese Eggfried Rice.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chinese Eggfried Rice from Shaan brand",
+    "description": "Chinese Eggfried Rice from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4449,7 +4449,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Chinese Manchurian Thumb.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Chinese Manchurian Thumb from Shaan brand",
+    "description": "Chinese Manchurian Thumb from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4460,7 +4460,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Daal Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Daal Masala from Shaan brand",
+    "description": "Daal Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4471,7 +4471,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Dahi Bara Mix.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Dahi Bara Mix from Shaan brand",
+    "description": "Dahi Bara Mix from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4482,7 +4482,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Easy Cook Haleem Mix.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Easy Cook Haleem Mix from Shaan brand",
+    "description": "Easy Cook Haleem Mix from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4493,7 +4493,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Fish Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fish Biryani from Shaan brand",
+    "description": "Fish Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4504,7 +4504,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Fish Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fish Masala from Shaan brand",
+    "description": "Fish Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4515,7 +4515,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Fried Chop.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fried Chop from Shaan brand",
+    "description": "Fried Chop from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4526,7 +4526,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Fried Fish.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fried Fish from Shaan brand",
+    "description": "Fried Fish from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4537,7 +4537,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Haleem.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Haleem from Shaan brand",
+    "description": "Haleem from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4548,7 +4548,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Kabsa Rice.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kabsa Rice from Shaan brand",
+    "description": "Kabsa Rice from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4559,7 +4559,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Kabuli.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kabuli from Shaan brand",
+    "description": "Kabuli from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4570,7 +4570,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Karachi Beef Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Karachi Beef Biryani from Shaan brand",
+    "description": "Karachi Beef Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4581,7 +4581,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Karahi.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Karahi from Shaan brand",
+    "description": "Karahi from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4592,7 +4592,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Kofta.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kofta from Shaan brand",
+    "description": "Kofta from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4603,7 +4603,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Korma.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Korma from Shaan brand",
+    "description": "Korma from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4614,7 +4614,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Kunna.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kunna from Shaan brand",
+    "description": "Kunna from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4625,7 +4625,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Lahori Chargha.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Lahori Chargha from Shaan brand",
+    "description": "Lahori Chargha from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4636,7 +4636,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Lahori Fish.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Lahori Fish from Shaan brand",
+    "description": "Lahori Fish from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4647,7 +4647,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Mandhi Pk.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mandhi Pk from Shaan brand",
+    "description": "Mandhi Pk from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4658,7 +4658,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Meat Masala Medium.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Meat Masala Medium from Shaan brand",
+    "description": "Meat Masala Medium from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4669,7 +4669,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Meat Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Meat Masala from Shaan brand",
+    "description": "Meat Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4680,7 +4680,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Memoni Mutton Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Memoni Mutton Biryani from Shaan brand",
+    "description": "Memoni Mutton Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4691,7 +4691,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Murgh Cholay.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Murgh Cholay from Shaan brand",
+    "description": "Murgh Cholay from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4702,7 +4702,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Nihari.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Nihari from Shaan brand",
+    "description": "Nihari from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4713,7 +4713,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Pakora Bhaji Mix.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pakora Bhaji Mix from Shaan brand",
+    "description": "Pakora Bhaji Mix from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4724,7 +4724,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Pav Bhaji.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pav Bhaji from Shaan brand",
+    "description": "Pav Bhaji from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4735,7 +4735,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Paya Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Paya Masala from Shaan brand",
+    "description": "Paya Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4746,7 +4746,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Pilau Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Pilau Biryani from Shaan brand",
+    "description": "Pilau Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4757,7 +4757,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Rasam Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rasam Masala from Shaan brand",
+    "description": "Rasam Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4768,7 +4768,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Sambar Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sambar Masala from Shaan brand",
+    "description": "Sambar Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4779,7 +4779,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Seekh Kabab.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Seekh Kabab from Shaan brand",
+    "description": "Seekh Kabab from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4790,7 +4790,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Shahi Haleem Mix.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Shahi Haleem Mix from Shaan brand",
+    "description": "Shahi Haleem Mix from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4801,7 +4801,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Shami Kabab.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Shami Kabab from Shaan brand",
+    "description": "Shami Kabab from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4812,7 +4812,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Shish Touk.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Shish Touk from Shaan brand",
+    "description": "Shish Touk from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4823,7 +4823,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Sindhi Biryani.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sindhi Biryani from Shaan brand",
+    "description": "Sindhi Biryani from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4834,7 +4834,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Spicy Vegetable Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Spicy Vegetable Masala from Shaan brand",
+    "description": "Spicy Vegetable Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4845,7 +4845,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Sweet Sour.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sweet Sour from Shaan brand",
+    "description": "Sweet Sour from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4856,7 +4856,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Tandoori Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tandoori Masala from Shaan brand",
+    "description": "Tandoori Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4867,7 +4867,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Tikka Seekh Kabab.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tikka Seekh Kabab from Shaan brand",
+    "description": "Tikka Seekh Kabab from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4878,7 +4878,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Tikka.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tikka from Shaan brand",
+    "description": "Tikka from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4889,7 +4889,7 @@ const products = [
     "image": "/Tropical Foods/Shaan/Vegetable Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Vegetable Masala from Shaan brand",
+    "description": "Vegetable Masala from Shaan brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4900,7 +4900,7 @@ const products = [
     "image": "/Tropical Foods/TRS/All_Purpose_Seasoning.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality All Purpose Seasoning from TRS brand",
+    "description": "All Purpose Seasoning from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4911,7 +4911,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Alubia_Beans.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Alubia Beans from TRS brand",
+    "description": "Alubia Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4922,7 +4922,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Bay_Leaves.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Bay Leaves from TRS brand",
+    "description": "Bay Leaves from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4933,7 +4933,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Black_Pepper.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Black Pepper from TRS brand",
+    "description": "Black Pepper from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4944,7 +4944,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Black_Pepper_Coarse.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Black Pepper Coarse from TRS brand",
+    "description": "Black Pepper Coarse from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4955,7 +4955,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Boiled_Chickpeas.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Boiled Chickpeas from TRS brand",
+    "description": "Boiled Chickpeas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4966,7 +4966,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Brown_Chick_Peas.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Brown Chick Peas from TRS brand",
+    "description": "Brown Chick Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4977,7 +4977,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Brown_Lentils.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Brown Lentils from TRS brand",
+    "description": "Brown Lentils from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4988,7 +4988,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Butter_Beans.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Butter Beans from TRS brand",
+    "description": "Butter Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -4999,7 +4999,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Coarse_Cornmeal.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Coarse Cornmeal from TRS brand",
+    "description": "Coarse Cornmeal from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5010,7 +5010,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Coarse_Semolina.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Coarse Semolina from TRS brand",
+    "description": "Coarse Semolina from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5021,7 +5021,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Dalchini_cinnamon_Sticks.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Dalchini cinnamon Sticks from TRS brand",
+    "description": "Dalchini Cinnamon Sticks from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5032,7 +5032,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Desiccated_Coconut.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Desiccated Coconut from TRS brand",
+    "description": "Desiccated Coconut from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5043,7 +5043,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Fine_Semolina.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Fine Semolina from TRS brand",
+    "description": "Fine Semolina from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5054,7 +5054,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Garam_Masala.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Garam Masala from TRS brand",
+    "description": "Garam Masala from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5065,7 +5065,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Garlic_Powder.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Garlic Powder from TRS brand",
+    "description": "Garlic Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5076,7 +5076,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Ginger_Powder.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ginger Powder from TRS brand",
+    "description": "Ginger Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5087,7 +5087,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Green_Cardamom.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Green Cardamom from TRS brand",
+    "description": "Green Cardamom from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5098,7 +5098,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Green_Lentils.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Green Lentils from TRS brand",
+    "description": "Green Lentils from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5109,7 +5109,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Ground_Cumin.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Ground Cumin from TRS brand",
+    "description": "Ground Cumin from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5120,7 +5120,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Kasuri_Methi.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Kasuri Methi from TRS brand",
+    "description": "Kasuri Methi from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5131,7 +5131,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Minced_GInger_Garlic_Paste.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Minced GInger Garlic Paste from TRS brand",
+    "description": "Minced Ginger Garlic Paste from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5142,7 +5142,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Minced_Ginger_Paste.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Minced Ginger Paste from TRS brand",
+    "description": "Minced Ginger Paste from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5153,7 +5153,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Moth_Beans.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Moth Beans from TRS brand",
+    "description": "Moth Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5164,7 +5164,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Mung_Beans.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mung Beans from TRS brand",
+    "description": "Mung Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5175,7 +5175,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Mung_Dal.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Mung Dal from TRS brand",
+    "description": "Mung Dal from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5186,7 +5186,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Red_Cow_Peas.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Red Cow Peas from TRS brand",
+    "description": "Red Cow Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5197,7 +5197,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Rosecoco_Beans.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Rosecoco Beans from TRS brand",
+    "description": "Rosecoco Beans from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5208,7 +5208,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Sarson_Ka_Saag.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Sarson Ka Saag from TRS brand",
+    "description": "Sarson Ka Saag from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5219,7 +5219,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Star_Aniseeds.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Star Aniseeds from TRS brand",
+    "description": "Star Aniseeds from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5230,7 +5230,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Tapioca_Sabudana.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Tapioca Sabudana from TRS brand",
+    "description": "Tapioca Sabudana from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5241,7 +5241,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Turmeric_Powder.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Turmeric Powder from TRS brand",
+    "description": "Turmeric Powder from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5252,7 +5252,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Urid_Dal_Chilka.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Urid Dal Chilka from TRS brand",
+    "description": "Urid Dal Chilka from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5263,7 +5263,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Urid_Whole_Gota.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Urid Whole Gota from TRS brand",
+    "description": "Urid Whole Gota from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5274,7 +5274,7 @@ const products = [
     "image": "/Tropical Foods/TRS/White_Maize_Meal.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality White Maize Meal from TRS brand",
+    "description": "White Maize Meal from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5285,7 +5285,7 @@ const products = [
     "image": "/Tropical Foods/TRS/Whole_Dhania.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Whole Dhania from TRS brand",
+    "description": "Whole Dhania from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5296,7 +5296,7 @@ const products = [
     "image": "/Tropical Foods/TRS/WHole_Green_Peas.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality WHole Green Peas from TRS brand",
+    "description": "Whole Green Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5307,7 +5307,7 @@ const products = [
     "image": "/Tropical Foods/TRS/WHole_Yellow_Peas.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality WHole Yellow Peas from TRS brand",
+    "description": "Whole Yellow Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
@@ -5318,176 +5318,5344 @@ const products = [
     "image": "/Tropical Foods/TRS/Yellow_Split_Peas.png",
     "rating": 0,
     "reviews": 0,
-    "description": "Premium quality Yellow Split Peas from TRS brand",
+    "description": "Yellow Split Peas from Trs brand, perfect for everyday cooking.",
     "inStock": true
   },
   {
-      "id": 485,
-      "name": "Beans",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Beans.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh and nutritious Beans, perfect for various culinary dishes",
-      "inStock": true
-    },
-    {
-      "id": 486,
-      "name": "Bhindi",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Bhindi.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Tender Bhindi (Okra) ideal for curries and stir-fry dishes",
-      "inStock": true
-    },
-    {
-      "id": 487,
-      "name": "Brinjal",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Brinjal.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh Briplai with excellent flavor for traditional recipes",
-      "inStock": true
-    },
-    {
-      "id": 488,
-      "name": "Broad Beans",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Broad Beans.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Plump and delicious Broad Beans, great for salads and side dishes",
-      "inStock": true
-    },
-    {
-      "id": 489,
-      "name": "Chillis",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Chillis.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Spicy and flavorful Chillies to add heat to your meals",
-      "inStock": true
-    },
-    {
-      "id": 490,
-      "name": "Coriander",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Coriander.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Aromatic Costander (Coriander) for garnishing and flavoring dishes",
-      "inStock": true
-    },
-    {
-      "id": 491,
-      "name": "Fenu Forestry",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Fenu Forestry.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh Fenugreek leaves with distinct aroma for culinary use",
-      "inStock": true
-    },
-    {
-      "id": 492,
-      "name": "Karela",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Karela.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Bitter Gourd (Karela) known for its health benefits and unique taste",
-      "inStock": true
-    },
-    {
-      "id": 493,
-      "name": "Lemon",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Lemon.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh and juicy Lemons for cooking, dressing, and beverages",
-      "inStock": true
-    },
-    {
-      "id": 494,
-      "name": "Pan",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Pan.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh Betel Leaves (Pan) for traditional culinary and cultural uses",
-      "inStock": true
-    },
-    {
-      "id": 495,
-      "name": "Pudina",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Pudina.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Refreshing Mint Leaves (Pudina) for chutneys, drinks, and garnishing",
-      "inStock": true
-    },
-    {
-      "id": 496,
-      "name": "Spinach",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Spanch.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Nutrient-rich Spinach for salads, curries, and healthy meals",
-      "inStock": true
-    },
-    {
-      "id": 497,
-      "name": "Turai",
-      "category": "vegetables",
-      "price": 0.0,
-      "image": "/Tropical Foods/Vegetables/Turai.png",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh Tural vegetable for traditional and modern recipes",
-      "inStock": true
-    },
-    {
-      "id": 498,
-      "name": "Mangoes",
-      "category": "seasonal",
-      "price": 0.0,
-      "image": "/Tropical Foods/Seasonal/Mangoes.jpg",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh Tural vegetable for traditional and modern recipes",
-      "inStock": true
-    },
-    {
-      "id": 499,
-      "name": "Organic Medjool Dates",
-      "category": "seasonal",
-      "price": 0.0,
-      "image": "/Tropical Foods/Seasonal/Organic Medjool Dates.jpg",
-      "rating": 0,
-      "reviews": 0,
-      "description": "Fresh Tural vegetable for traditional and modern recipes",
-      "inStock": true
-    }
+    "id": 485,
+    "name": "Beans",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Beans.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Beans from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 486,
+    "name": "Bhindi",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Bhindi.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Bhindi from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 487,
+    "name": "Brinjal",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Brinjal.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Brinjal from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 488,
+    "name": "Broad Beans",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Broad Beans.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Broad Beans from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 489,
+    "name": "Chillis",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Chillis.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Chillis from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 490,
+    "name": "Coriander",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Coriander.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Coriander from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 491,
+    "name": "Fenu Forestry",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Fenu Forestry.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Fenu Forestry from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 492,
+    "name": "Karela",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Karela.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Karela from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 493,
+    "name": "Lemon",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Lemon.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Lemon from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 494,
+    "name": "Pan",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Pan.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Pan from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 495,
+    "name": "Pudina",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Pudina.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Pudina from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 496,
+    "name": "Spinach",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Spanch.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Spinach from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 497,
+    "name": "Turai",
+    "category": "vegetables",
+    "price": 0.0,
+    "image": "/Tropical Foods/Vegetables/Turai.png",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Turai from Vegetables brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 498,
+    "name": "Mangoes",
+    "category": "seasonal",
+    "price": 0.0,
+    "image": "/Tropical Foods/Seasonal/Mangoes.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Mangoes from Seasonal brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 499,
+    "name": "Organic Medjool Dates",
+    "category": "seasonal",
+    "price": 0.0,
+    "image": "/Tropical Foods/Seasonal/Organic Medjool Dates.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Organic Medjool Dates from Seasonal brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 500,
+    "name": "AROY-D ORGANIC Coconut Milk 19 Fat 24x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_organic_coconut_milk_19_fat_24x400ml_13810.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D ORGANIC Coconut Milk 19 Fat 24x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 501,
+    "name": "AROY-D ORGANIC Coconut Milk UHT 19 Fat 12x1000ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_organic_coconut_milk_uht_19_fat_12x1000ml_13806.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D ORGANIC Coconut Milk UHT 19 Fat 12x1000ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 502,
+    "name": "AROY-D ORGANIC Coconut Milk UHT 19 Fat 6x(6x250ml)",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_organic_coconut_milk_uht_19_fat_6x_6x250ml_13814.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D ORGANIC Coconut Milk UHT 19 Fat 6x(6x250ml) from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 503,
+    "name": "AROY-D Attap Palm Seed in Syrup 12x625g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_attap_palm_seed_in_syrup_12x625g_13820.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Attap Palm Seed in Syrup 12x625g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 504,
+    "name": "AROY-D Attap Palm Seed in Syrup 24x625g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_attap_palm_seed_in_syrup_24x625g_13819.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Attap Palm Seed in Syrup 24x625g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 505,
+    "name": "AROY-D Baby Corn (15 up) 12x425g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_baby_corn_15_up_12x425g_13826.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Baby Corn (15 up) 12x425g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 506,
+    "name": "AROY-D Bamboo Half 12x540g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bamboo_half_12x540g_13836.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bamboo Half 12x540g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 507,
+    "name": "AROY-D Bamboo Slice 12x540g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bamboo_slice_12x540g_13842.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bamboo Slice 12x540g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 508,
+    "name": "AROY-D Bamboo Slice 6x2950g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bamboo_slice_6x2950g_13840.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bamboo Slice 6x2950g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 509,
+    "name": "AROY-D Bamboo Strip 12x540g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bamboo_strip_12x540g_13848.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bamboo Strip 12x540g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 510,
+    "name": "AROY-D Bamboo Strip 6x2950g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bamboo_strip_6x2950g_13846.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bamboo Strip 6x2950g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 511,
+    "name": "AROY-D Bamboo Tip 12x540g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bamboo_tip_12x540g_13854.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bamboo Tip 12x540g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 512,
+    "name": "AROY-D Banana Leaves -18C 30x454g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_banana_leaves_18_c_30x454g_13878.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Banana Leaves -18C 30x454g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 513,
+    "name": "AROY-D Banana in Coconutmilk -18C 12x180g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_banana_in_coconutmilk_18_c_12x180g_13872.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Banana in Coconutmilk -18C 12x180g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 514,
+    "name": "AROY-D Bean Sprout 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bean_sprout_12x400g_13890.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bean Sprout 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 515,
+    "name": "AROY-D Bitter Melon 12x540g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_bitter_melon_12x540g_13896.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Bitter Melon 12x540g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 516,
+    "name": "AROY-D Black Glutinous Rice 12x1kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_black_glutinous_rice_12x1kg_13902.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Black Glutinous Rice 12x1kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 517,
+    "name": "AROY-D Chilli Paste with Soy Bean Oil 24x520g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_chilli_paste_with_soy_bean_oil_24x520g_13920.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Chilli Paste with Soy Bean Oil 24x520g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 518,
+    "name": "AROY-D Chilli Paste with Soy Bean Oil 48x260g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_chilli_paste_with_soy_bean_oil_48x260g_13924.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Chilli Paste with Soy Bean Oil 48x260g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 519,
+    "name": "AROY-D Coconut CREAM UHT 21 Fat 12x1Ltr",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_cream_uht_21_fat_12x1ltr_13944.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut CREAM UHT 21 Fat 12x1Ltr from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 520,
+    "name": "AROY-D Coconut CREAM UHT 21 Fat 6x(6x250ml)",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_cream_uht_21_fat_6x_6x250ml_13948.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut CREAM UHT 21 Fat 6x(6x250ml) from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 521,
+    "name": "AROY-D Coconut Cream 21 Fat 24x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_cream_21_fat_24x400ml_13934.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Cream 21 Fat 24x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 522,
+    "name": "AROY-D Coconut Cream 21 Fat 24x560ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_cream_21_fat_24x560ml_13930.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Cream 21 Fat 24x560ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 523,
+    "name": "AROY-D Coconut Juice Cup -18C 24x300 ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_juice_cup_18_c_24x300_ml_13956.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Juice Cup -18C 24x300 ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 524,
+    "name": "AROY-D Coconut Milk A 19 Fat 24x165ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_a_19_fat_24x165ml_13970.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk A 19 Fat 24x165ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 525,
+    "name": "AROY-D Coconut Milk Cooking 19 Fat 24x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_cooking_19_fat_24x400ml_13984.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk Cooking 19 Fat 24x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 526,
+    "name": "AROY-D Coconut Milk Cooking 19 Fat 24x560ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_cooking_19_fat_24x560ml_13980.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk Cooking 19 Fat 24x560ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 527,
+    "name": "AROY-D Coconut Milk Dessert 19 Fat 24x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_dessert_19_fat_24x400ml_13992.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk Dessert 19 Fat 24x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 528,
+    "name": "AROY-D Coconut Milk Lite 59 Fat 12x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_lite_5_9_fat_12x400ml_13998.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk Lite 59 Fat 12x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 529,
+    "name": "AROY-D Coconut Milk UHT 19 Fat DE 12x1Ltr",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_de_12x1ltr_14011.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat DE 12x1Ltr from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 530,
+    "name": "AROY-D Coconut Milk UHT 19 Fat DE 12x500ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_de_12x500ml_14019.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat DE 12x500ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 531,
+    "name": "AROY-D Coconut Milk UHT 19 Fat DE 6x(6x250ml)",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_de_6x_6x250ml_14023.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat DE 6x(6x250ml) from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 532,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 12x(6x150ml)",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_12x_6x150ml_14030.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 12x(6x150ml) from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 533,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 12x1Ltr",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_12x1ltr_14010.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 12x1Ltr from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 534,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 12x250ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_12x250ml_14026.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 12x250ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 535,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 12x500ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_12x500ml_14018.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 12x500ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 536,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 20Ltr (BIB)",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_20ltr_bib_14004.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 20Ltr (BIB) from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 537,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 6x(6x250ml)",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_6x_6x250ml_14022.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 6x(6x250ml) from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 538,
+    "name": "AROY-D Coconut Milk UHT 19 Fat 6x1Ltr",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_uht_19_fat_6x1ltr_14014.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk UHT 19 Fat 6x1Ltr from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 539,
+    "name": "AROY-D Coconut Milk A 19 Fat 24x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_a_19_fat_24x400ml_13966.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk A 19 Fat 24x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 540,
+    "name": "AROY-D Coconut Milk A 19 Fat 6x2900ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_coconut_milk_a_19_fat_6x2900ml_13962.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Coconut Milk A 19 Fat 6x2900ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 541,
+    "name": "AROY-D Durian Seedless -18C 24x454g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_durian_seedless_18_c_24x454g_14110.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Durian Seedless -18C 24x454g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 542,
+    "name": "AROY-D Durian Whole -18C 1x12kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_durian_whole_18_c_1x12kg_14116.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Durian Whole -18C 1x12kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 543,
+    "name": "AROY-D Glutinous Rice 12x1kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_glutinous_rice_12x1kg_14136.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Glutinous Rice 12x1kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 544,
+    "name": "AROY-D Glutinous Rice 20kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_glutinous_rice_20kg_14128.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Glutinous Rice 20kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 545,
+    "name": "AROY-D Glutinous Rice 4x45kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_glutinous_rice_4x4_5kg_14132.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Glutinous Rice 4x45kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 546,
+    "name": "AROY-D Green Curry Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_green_curry_paste_12x400g_14036.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Green Curry Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 547,
+    "name": "AROY-D Green Curry Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_green_curry_paste_12x50g_14040.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Green Curry Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 548,
+    "name": "AROY-D Green Curry Soup 12x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_green_curry_soup_12x400ml_14092.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Green Curry Soup 12x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 549,
+    "name": "AROY-D Jackfruit in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_jackfruit_in_syrup_12x565g_14148.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Jackfruit in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 550,
+    "name": "AROY-D Lemon Grass Whole -18C 30x200g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_lemon_grass_whole_18_c_30x200g_14154.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Lemon Grass Whole -18C 30x200g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 551,
+    "name": "AROY-D Longan in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_longan_in_syrup_12x565g_14160.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Longan in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 552,
+    "name": "AROY-D Lychee in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_lychee_in_syrup_12x565g_14166.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Lychee in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 553,
+    "name": "AROY-D Mango Slice in Syrup 12x425g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_mango_slice_in_syrup_12x425g_14172.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Mango Slice in Syrup 12x425g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 554,
+    "name": "AROY-D Massaman Curry Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_massaman_curry_paste_12x400g_14046.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Massaman Curry Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 555,
+    "name": "AROY-D Massaman Curry Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_massaman_curry_paste_12x50g_14050.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Massaman Curry Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 556,
+    "name": "AROY-D Massaman Curry Soup 12x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_massaman_curry_soup_12x400ml_14098.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Massaman Curry Soup 12x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 557,
+    "name": "AROY-D Mixed Thai Fruit in Coconut Milk -18C 12x180g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_mixed_thai_fruit_in_coconut_milk_18_c_12x180g_14184.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Mixed Thai Fruit in Coconut Milk -18C 12x180g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 558,
+    "name": "AROY-D Panang Curry Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_panang_curry_paste_12x400g_14056.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Panang Curry Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 559,
+    "name": "AROY-D Panang Curry Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_panang_curry_paste_12x50g_14060.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Panang Curry Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 560,
+    "name": "AROY-D Papaya in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_papaya_in_syrup_12x565g_14194.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Papaya in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 561,
+    "name": "AROY-D Rambutan & Pineapple in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_rambutan_pineapple_in_syrup_12x565g_14212.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Rambutan & Pineapple in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 562,
+    "name": "AROY-D Rambutan in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_rambutan_in_syrup_12x565g_14218.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Rambutan in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 563,
+    "name": "AROY-D Red Cargo Rice 12x1kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_red_cargo_rice_12x1kg_13914.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Red Cargo Rice 12x1kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 564,
+    "name": "AROY-D Red Curry Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_red_curry_paste_12x400g_14066.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Red Curry Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 565,
+    "name": "AROY-D Red Curry Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_red_curry_paste_12x50g_14070.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Red Curry Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 566,
+    "name": "AROY-D Red Curry Soup 12x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_red_curry_soup_12x400ml_14104.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Red Curry Soup 12x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 567,
+    "name": "AROY-D Rice Berry Black Cargo Rice 12x1kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_rice_berry_black_cargo_rice_12x1kg_13908.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Rice Berry Black Cargo Rice 12x1kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 568,
+    "name": "AROY-D Rice Vermicelli 40x220g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_rice_vermicelli_40x220g_14224.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Rice Vermicelli 40x220g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 569,
+    "name": "AROY-D Sago and Black Bean in Coconutmilk -18C 12x180g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_sago_and_black_bean_in_coconutmilk_18_c_12x180g_14230.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Sago and Black Bean in Coconutmilk -18C 12x180g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 570,
+    "name": "AROY-D Sugar Cane Pieces in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_sugar_cane_pieces_in_syrup_12x565g_14242.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Sugar Cane Pieces in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 571,
+    "name": "AROY-D Sugar Cane in Syrup 12x12kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_sugar_cane_in_syrup_12x1_2kg_14236.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Sugar Cane in Syrup 12x12kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 572,
+    "name": "AROY-D Sweet Chilli Sauce Chicken 12x550g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_sweet_chilli_sauce_chicken_12x550g_14252.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Sweet Chilli Sauce Chicken 12x550g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 573,
+    "name": "AROY-D Sweet Chilli Sauce Chicken 12x920g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_sweet_chilli_sauce_chicken_12x920g_14248.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Sweet Chilli Sauce Chicken 12x920g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 574,
+    "name": "AROY-D Sweet Chilli Sauce for Springroll 24x240g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_sweet_chilli_sauce_for_springroll_24x240g_14254.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Sweet Chilli Sauce for Springroll 24x240g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 575,
+    "name": "AROY-D Taro Ball in Coconutmilk -18C 12x180g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_taro_ball_in_coconutmilk_18_c_12x180g_14258.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Taro Ball in Coconutmilk -18C 12x180g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 576,
+    "name": "AROY-D Thai Hom Mali BROKEN Rice 20kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_broken_rice_20kg_14278.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali BROKEN Rice 20kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 577,
+    "name": "AROY-D Thai Hom Mali BROKEN Rice 4x45kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_broken_rice_4x4_5kg_14282.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali BROKEN Rice 4x45kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 578,
+    "name": "AROY-D Thai Hom Mali Rice Crop 2024 18kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_crop_2024_18kg_14293.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice Crop 2024 18kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 579,
+    "name": "AROY-D Thai Hom Mali Rice Crop 2025 18kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_crop_2025_18kg_14292.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice Crop 2025 18kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 580,
+    "name": "AROY-D Thai Hom Mali Rice Crop 2025 20kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_crop_2025_20kg_14288.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice Crop 2025 20kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 581,
+    "name": "AROY-D Thai Hom Mali Rice 10kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_10kg_14296.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice 10kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 582,
+    "name": "AROY-D Thai Hom Mali Rice 12x1kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_12x1kg_14308.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice 12x1kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 583,
+    "name": "AROY-D Thai Hom Mali Rice 4x45kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_4x4_5kg_14300.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice 4x45kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 584,
+    "name": "AROY-D Thai Hom Mali Rice 6x2kg",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_thai_hom_mali_rice_6x2kg_14304.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Thai Hom Mali Rice 6x2kg from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 585,
+    "name": "AROY-D Toddy Palm & Jackfruit 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_toddy_palm_jackfruit_12x565g_14314.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Toddy Palm & Jackfruit 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 586,
+    "name": "AROY-D Toddy Palm Sliced in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_toddy_palm_sliced_in_syrup_12x565g_14320.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Toddy Palm Sliced in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 587,
+    "name": "AROY-D Toddy Palm Whole in Syrup 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_toddy_palm_whole_in_syrup_12x565g_14326.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Toddy Palm Whole in Syrup 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 588,
+    "name": "AROY-D Tom Kha Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_tom_kha_paste_12x400g_14332.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Tom Kha Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 589,
+    "name": "AROY-D Tom Kha Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_tom_kha_paste_12x50g_14336.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Tom Kha Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 590,
+    "name": "AROY-D Tom Yum Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_tom_yum_paste_12x400g_14342.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Tom Yum Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 591,
+    "name": "AROY-D Tom Yum Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_tom_yum_paste_12x50g_14346.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Tom Yum Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 592,
+    "name": "AROY-D Tom Yum Soup 12x400ml",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_tom_yum_soup_12x400ml_14352.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Tom Yum Soup 12x400ml from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 593,
+    "name": "AROY-D Yellow Curry Paste 12x400g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_yellow_curry_paste_12x400g_14082.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Yellow Curry Paste 12x400g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 594,
+    "name": "AROY-D Yellow Curry Paste 12x50g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_yellow_curry_paste_12x50g_14086.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Yellow Curry Paste 12x50g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 595,
+    "name": "AROY-D Young Coconut Meat in Syrup 12x425g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_young_coconut_meat_in_syrup_12x425g_14370.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Young Coconut Meat in Syrup 12x425g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 596,
+    "name": "AROY-D Young Green Jackfruit in Brine 12x565g",
+    "category": "AROY-D",
+    "price": 0.99,
+    "image": "/Tropical Foods/AROY/aroy-d_young_green_jackfruit_in_brine_12x565g_14376.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "AROY-D Young Green Jackfruit in Brine 12x565g from Aroy-d brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 597,
+    "name": "COCK Bamboo Slice Vaccum 36x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_bamboo_slice_vaccum_36x454g_19416.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Bamboo Slice Vaccum 36x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 598,
+    "name": "COCK Bamboo Strip in Brine 36x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_bamboo_strip_in_brine_36x454g_19422.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Bamboo Strip in Brine 36x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 599,
+    "name": "COCK Bamboo Tip Vaccum 36x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_bamboo_tip_vaccum_36x454g_19428.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Bamboo Tip Vaccum 36x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 600,
+    "name": "COCK Banana Cake -18C 30x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_banana_cake_18_c_30x454g_19434.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Banana Cake -18C 30x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 601,
+    "name": "COCK Black Bean 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_black_bean_24x400g_19440.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Black Bean 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 602,
+    "name": "COCK Black Bean 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_black_bean_50x400g_19437.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Black Bean 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 603,
+    "name": "COCK Chilli Paste Sweet Basil Leaves Horapa 24x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_chilli_paste_sweet_basil_leaves_horapa_24x200g_19456.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Chilli Paste Sweet Basil Leaves Horapa 24x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 604,
+    "name": "COCK Chilli Paste with Soy Bean Oil 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_chilli_paste_with_soy_bean_oil_24x454g_19462.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Chilli Paste with Soy Bean Oil 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 605,
+    "name": "COCK Chilli Sauce for Seafood 12x800g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_chilli_sauce_for_seafood_12x800g_19474.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Chilli Sauce for Seafood 12x800g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 606,
+    "name": "COCK Chilli Sauce for Spring Roll 12x290g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_chilli_sauce_for_spring_roll_12x290g_19472.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Chilli Sauce for Spring Roll 12x290g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 607,
+    "name": "COCK Chilli Sauce for Spring Roll 12x870g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_chilli_sauce_for_spring_roll_12x870g_19468.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Chilli Sauce for Spring Roll 12x870g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 608,
+    "name": "COCK Coconut Juice 24x400ml",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_coconut_juice_24x400ml_20070.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Coconut Juice 24x400ml from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 609,
+    "name": "COCK Concentrate Cooking Tamarind 12x850g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_concentrate_cooking_tamarind_12x850g_19477.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Concentrate Cooking Tamarind 12x850g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 610,
+    "name": "COCK Concentrate Cooking Tamarind 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_concentrate_cooking_tamarind_24x454g_19480.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Concentrate Cooking Tamarind 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 611,
+    "name": "COCK Curry Powder 24x100g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_curry_powder_24x100g_19576.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Curry Powder 24x100g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 612,
+    "name": "COCK Cuttle Fish Ball -18C 24x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_cuttle_fish_ball_18_c_24x200g_19582.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Cuttle Fish Ball -18C 24x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 613,
+    "name": "COCK Dried Chilli Stemless 30x57g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_dried_chilli_stemless_30x57g_19588.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Dried Chilli Stemless 30x57g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 614,
+    "name": "COCK Dried Chilli Stemless 50x57g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_dried_chilli_stemless_50x57g_19590.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Dried Chilli Stemless 50x57g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 615,
+    "name": "COCK Dried Chilli 100x100g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_dried_chilli_100x100g_19584.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Dried Chilli 100x100g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 616,
+    "name": "COCK Dried Lime Leaves 24x10g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_dried_lime_leaves_24x10g_19594.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Dried Lime Leaves 24x10g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 617,
+    "name": "COCK Dried Mango 24x150g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_dried_mango_24x150g_19600.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Dried Mango 24x150g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 618,
+    "name": "COCK Fish Ball -18C 24x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_fish_ball_18_c_24x200g_19606.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Fish Ball -18C 24x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 619,
+    "name": "COCK Fish Sauce 12x200ml",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_fish_sauce_12x200ml_19613.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Fish Sauce 12x200ml from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 620,
+    "name": "COCK Fried Onion 24x100g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_fried_onion_24x100g_19628.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Fried Onion 24x100g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 621,
+    "name": "COCK Galanga  Laos Sliced -18C 30x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_galanga_laos_sliced_18_c_30x200g_19640.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Galanga  Laos Sliced -18C 30x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 622,
+    "name": "COCK Galangal Powder 24x100g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_galangal_powder_24x100g_19646.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Galangal Powder 24x100g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 623,
+    "name": "COCK Garlic in Brine 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_garlic_in_brine_24x454g_19652.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Garlic in Brine 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 624,
+    "name": "COCK Glutinous Rice Flour 20x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_glutinous_rice_flour_20x400g_19664.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Glutinous Rice Flour 20x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 625,
+    "name": "COCK Glutinous Rice Flour 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_glutinous_rice_flour_50x400g_19663.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Glutinous Rice Flour 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 626,
+    "name": "COCK Green Curry Paste 12x1kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_green_curry_paste_12x1kg_19486.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Green Curry Paste 12x1kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 627,
+    "name": "COCK Green Curry Paste 12x50g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_green_curry_paste_12x50g_19494.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Green Curry Paste 12x50g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 628,
+    "name": "COCK Green Curry Paste 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_green_curry_paste_24x400g_19490.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Green Curry Paste 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 629,
+    "name": "COCK Green Curry Paste 3x5kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_green_curry_paste_3x5kg_19484.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Green Curry Paste 3x5kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 630,
+    "name": "COCK Green Mung Bean 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_green_mung_bean_24x400g_19670.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Green Mung Bean 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 631,
+    "name": "COCK Green Mung Bean 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_green_mung_bean_50x400g_19669.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Green Mung Bean 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 632,
+    "name": "COCK Ground Chilli with Fried Garlic 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_ground_chilli_with_fried_garlic_24x227g_19676.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Ground Chilli with Fried Garlic 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 633,
+    "name": "COCK Instant Paste For Beef Soup Ph 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_instant_paste_for_beef_soup_ph_24x227g_19682.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Instant Paste For Beef Soup Ph 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 634,
+    "name": "COCK Instant Paste for Duck Soup 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_instant_paste_for_duck_soup_24x227g_19688.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Instant Paste for Duck Soup 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 635,
+    "name": "COCK Jackfruit in Syrup 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_jackfruit_in_syrup_24x565g_20078.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Jackfruit in Syrup 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 636,
+    "name": "COCK Khi Lek Leaves 12x425g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_khi_lek_leaves_12x425g_19700.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Khi Lek Leaves 12x425g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 637,
+    "name": "COCK Lemon Grass Sliced (Sa Bao) -18C 30x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_lemon_grass_sliced_sa_bao_18_c_30x200g_19712.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Lemon Grass Sliced (Sa Bao) -18C 30x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 638,
+    "name": "COCK Lemon Grass Sliced (Sa Bao) -18C 30x250g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_lemon_grass_sliced_sa_bao_18_c_30x250g_19713.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Lemon Grass Sliced (Sa Bao) -18C 30x250g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 639,
+    "name": "COCK Lemon in Brine 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_lemon_in_brine_24x454g_20081.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Lemon in Brine 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 640,
+    "name": "COCK Lime Leaves -18C 30x114g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_lime_leaves_18_c_30x114g_19718.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Lime Leaves -18C 30x114g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 641,
+    "name": "COCK Longan in Syrup 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_longan_in_syrup_24x565g_20084.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Longan in Syrup 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 642,
+    "name": "COCK Lotus Rootlet in Brine 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_lotus_rootlet_in_brine_24x454g_20087.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Lotus Rootlet in Brine 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 643,
+    "name": "COCK Massaman Curry Paste 12x1kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_massaman_curry_paste_12x1kg_19500.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Massaman Curry Paste 12x1kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 644,
+    "name": "COCK Massaman Curry Paste 12x50g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_massaman_curry_paste_12x50g_19508.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Massaman Curry Paste 12x50g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 645,
+    "name": "COCK Massaman Curry Paste 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_massaman_curry_paste_24x400g_19504.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Massaman Curry Paste 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 646,
+    "name": "COCK Mayom in Brine 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_mayom_in_brine_24x454g_19724.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Mayom in Brine 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 647,
+    "name": "COCK Mixed Seafood Fish Ball -18C 24x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_mixed_seafood_fish_ball_18_c_24x200g_19730.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Mixed Seafood Fish Ball -18C 24x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 648,
+    "name": "COCK NamYa Curry Paste 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_namya_curry_paste_24x400g_19514.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK NamYa Curry Paste 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 649,
+    "name": "COCK Pad Thai Paste 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pad_thai_paste_24x227g_19736.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pad Thai Paste 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 650,
+    "name": "COCK Pad Thai Sauce 12x1Kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pad_thai_sauce_12x1kg_19738.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pad Thai Sauce 12x1Kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 651,
+    "name": "COCK Pad Thai Sauce 24x270g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pad_thai_sauce_24x270g_19740.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pad Thai Sauce 24x270g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 652,
+    "name": "COCK Palm Cake -18C 30x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_cake_18_c_30x200g_19742.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Cake -18C 30x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 653,
+    "name": "COCK Palm Sugar (SS) in Jar 24x300g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_sugar_ss_in_jar_24x300g_19752.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Sugar (SS) in Jar 24x300g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 654,
+    "name": "COCK Palm Sugar Paste 12x1Kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_sugar_paste_12x1kg_19764.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Sugar Paste 12x1Kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 655,
+    "name": "COCK Palm Sugar Paste 24x500g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_sugar_paste_24x500g_19766.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Sugar Paste 24x500g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 656,
+    "name": "COCK Palm Sugar Slice 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_sugar_slice_24x454g_19758.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Sugar Slice 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 657,
+    "name": "COCK Palm Sugar Slice 50x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_sugar_slice_50x200g_19762.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Sugar Slice 50x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 658,
+    "name": "COCK Palm Sugar 30x500g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_palm_sugar_30x500g_19761.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Palm Sugar 30x500g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 659,
+    "name": "COCK Panang Curry Paste 12x1kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_panang_curry_paste_12x1kg_19526.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Panang Curry Paste 12x1kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 660,
+    "name": "COCK Panang Curry Paste 12x50g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_panang_curry_paste_12x50g_19534.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Panang Curry Paste 12x50g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 661,
+    "name": "COCK Panang Curry Paste 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_panang_curry_paste_24x400g_19530.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Panang Curry Paste 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 662,
+    "name": "COCK Papaya in Syrup 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_papaya_in_syrup_24x565g_20097.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Papaya in Syrup 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 663,
+    "name": "COCK Peeled Split Mung Bean 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_peeled_split_mung_bean_24x400g_19768.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Peeled Split Mung Bean 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 664,
+    "name": "COCK Peeled Split Mung Bean 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_peeled_split_mung_bean_50x400g_19767.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Peeled Split Mung Bean 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 665,
+    "name": "COCK PetehSator Beans -18C 30x100g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_peteh_sator_beans_18_c_30x100g_19774.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK PetehSator Beans -18C 30x100g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 666,
+    "name": "COCK Pickled Baby Ginger Sliced 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_baby_ginger_sliced_24x454g_19780.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Baby Ginger Sliced 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 667,
+    "name": "COCK Pickled Green Chilli 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_green_chilli_24x227g_19786.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Green Chilli 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 668,
+    "name": "COCK Pickled Green Chilli 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_green_chilli_24x454g_19785.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Green Chilli 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 669,
+    "name": "COCK Pickled Green Mango Sliced 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_green_mango_sliced_24x454g_19792.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Green Mango Sliced 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 670,
+    "name": "COCK Pickled Red Chilli 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_red_chilli_24x227g_19798.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Red Chilli 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 671,
+    "name": "COCK Pickled Red Chilli 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_red_chilli_24x454g_19797.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Red Chilli 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 672,
+    "name": "COCK Pickled Splinter Caparid 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_pickled_splinter_caparid_24x454g_19804.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Pickled Splinter Caparid 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 673,
+    "name": "COCK Preserved Cabbage Thongchai 12x300g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_cabbage_thongchai_12x300g_19810.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Cabbage Thongchai 12x300g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 674,
+    "name": "COCK Preserved Radish Whole 50x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_radish_whole_50x454g_19817.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Radish Whole 50x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 675,
+    "name": "COCK Preserved Salted Radish STRIP 20x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_salted_radish_strip_20x454g_19814.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Salted Radish STRIP 20x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 676,
+    "name": "COCK Preserved Salted Radish WHOLE 20x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_salted_radish_whole_20x454g_19818.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Salted Radish WHOLE 20x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 677,
+    "name": "COCK Preserved Sweet Radish STRIP 20x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_sweet_radish_strip_20x454g_19822.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Sweet Radish STRIP 20x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 678,
+    "name": "COCK Preserved Sweet Radish STRIP 50x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_sweet_radish_strip_50x454g_19813.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Sweet Radish STRIP 50x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 679,
+    "name": "COCK Preserved Sweet Radish WHOLE 20x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_preserved_sweet_radish_whole_20x454g_19826.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Preserved Sweet Radish WHOLE 20x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 680,
+    "name": "COCK Rambutan in Syrup 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rambutan_in_syrup_24x565g_20103.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rambutan in Syrup 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 681,
+    "name": "COCK Rambutan with Pineapple 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rambutan_with_pineapple_24x565g_20106.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rambutan with Pineapple 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 682,
+    "name": "COCK Red Bean 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_red_bean_24x400g_19832.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Red Bean 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 683,
+    "name": "COCK Red Bean 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_red_bean_50x400g_19831.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Red Bean 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 684,
+    "name": "COCK Red Curry Paste 12x1kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_red_curry_paste_12x1kg_19544.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Red Curry Paste 12x1kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 685,
+    "name": "COCK Red Curry Paste 12x50g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_red_curry_paste_12x50g_19552.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Red Curry Paste 12x50g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 686,
+    "name": "COCK Red Curry Paste 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_red_curry_paste_24x400g_19548.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Red Curry Paste 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 687,
+    "name": "COCK Red Curry Paste 3x5kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_red_curry_paste_3x5kg_19542.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Red Curry Paste 3x5kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 688,
+    "name": "COCK Rice Flakes 30x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_flakes_30x227g_19838.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Flakes 30x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 689,
+    "name": "COCK Rice Flour 20x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_flour_20x400g_19844.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Flour 20x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 690,
+    "name": "COCK Rice Flour 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_flour_50x400g_19843.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Flour 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 691,
+    "name": "COCK Rice Stick 10mm 30x375g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_stick_10mm_30x375g_19862.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Stick 10mm 30x375g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 692,
+    "name": "COCK Rice Stick 1mm 30x375g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_stick_1mm_30x375g_19850.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Stick 1mm 30x375g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 693,
+    "name": "COCK Rice Stick 3mm 30x375g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_stick_3mm_30x375g_19854.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Stick 3mm 30x375g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 694,
+    "name": "COCK Rice Stick 5mm 30x375g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_rice_stick_5mm_30x375g_19858.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Rice Stick 5mm 30x375g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 695,
+    "name": "COCK Sambal Oelek 24x370g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sambal_oelek_24x370g_20100.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sambal Oelek 24x370g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 696,
+    "name": "COCK Satay Sauce 24x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_satay_sauce_24x200g_19874.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Satay Sauce 24x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 697,
+    "name": "COCK Seedless Longan 50x85g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_seedless_longan_50x85g_20109.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Seedless Longan 50x85g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 698,
+    "name": "COCK Sesame Seeds Black 30x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sesame_seeds_black_30x227g_19450.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sesame Seeds Black 30x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 699,
+    "name": "COCK Sesame Seeds Black 30x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sesame_seeds_black_30x454g_19446.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sesame Seeds Black 30x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 700,
+    "name": "COCK Sesame Seeds Black 50x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sesame_seeds_black_50x454g_19443.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sesame Seeds Black 50x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 701,
+    "name": "COCK Sesame Seeds White 30x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sesame_seeds_white_30x227g_20056.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sesame Seeds White 30x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 702,
+    "name": "COCK Sesame Seeds White 30x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sesame_seeds_white_30x454g_20052.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sesame Seeds White 30x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 703,
+    "name": "COCK Shrimp Flavour Fish Ball -18C 24x200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_shrimp_flavour_fish_ball_18_c_24x200g_19880.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Shrimp Flavour Fish Ball -18C 24x200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 704,
+    "name": "COCK Sour Bamboo Shoots Slice 12x850g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sour_bamboo_shoots_slice_12x850g_19885.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sour Bamboo Shoots Slice 12x850g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 705,
+    "name": "COCK Sour Bamboo Sliced 30x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sour_bamboo_sliced_30x400g_19886.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sour Bamboo Sliced 30x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 706,
+    "name": "COCK Sour Mustard CHOPPED 36x300g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sour_mustard_chopped_36x300g_19898.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sour Mustard CHOPPED 36x300g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 707,
+    "name": "COCK Sour Mustard 36x300g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sour_mustard_36x300g_19892.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sour Mustard 36x300g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 708,
+    "name": "COCK Sriracha Chilli Sauce (Medium) 12x800g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sriracha_chilli_sauce_medium_12x800g_20130.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sriracha Chilli Sauce (Medium) 12x800g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 709,
+    "name": "COCK Sriracha Chilli Sauce (Strong) 12x440ml",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sriracha_chilli_sauce_strong_12x440ml_20123.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sriracha Chilli Sauce (Strong) 12x440ml from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 710,
+    "name": "COCK Sriracha Chilli Sauce (Strong) 12x700ml",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sriracha_chilli_sauce_strong_12x700ml_20120.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sriracha Chilli Sauce (Strong) 12x700ml from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 711,
+    "name": "COCK Sticky Rice Dessert -18C 60x220g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sticky_rice_dessert_18_c_60x220g_19904.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sticky Rice Dessert -18C 60x220g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 712,
+    "name": "COCK Sugar Cane in Syrup 12x1200g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sugar_cane_in_syrup_12x1200g_20140.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sugar Cane in Syrup 12x1200g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 713,
+    "name": "COCK Sweet Chilli Sauce Chicken 12x800g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sweet_chilli_sauce_chicken_12x800g_19914.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sweet Chilli Sauce Chicken 12x800g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 714,
+    "name": "COCK Sweet Chilli Sauce Chicken 24x230g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sweet_chilli_sauce_chicken_24x230g_19922.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sweet Chilli Sauce Chicken 24x230g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 715,
+    "name": "COCK Sweet Chilli Sauce Chicken 24x350g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sweet_chilli_sauce_chicken_24x350g_19918.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sweet Chilli Sauce Chicken 24x350g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 716,
+    "name": "COCK Sweet Chilli Sauce Chicken 3x45ltr",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sweet_chilli_sauce_chicken_3x4_5ltr_19910.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sweet Chilli Sauce Chicken 3x45ltr from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 717,
+    "name": "COCK Sweet Chilli Sauce Sachets 8x(45x14g)",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_sweet_chilli_sauce_sachets_8x_45x14g_19928.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Sweet Chilli Sauce Sachets 8x(45x14g) from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 718,
+    "name": "COCK Szechuan Pepper 24x57g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_szechuan_pepper_24x57g_19934.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Szechuan Pepper 24x57g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 719,
+    "name": "COCK Tamarind Candy Sweet 25x100g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_candy_sweet_25x100g_19940.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind Candy Sweet 25x100g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 720,
+    "name": "COCK Tamarind Leaves 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_leaves_24x454g_19946.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind Leaves 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 721,
+    "name": "COCK Tamarind with Seed 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_with_seed_24x454g_19958.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind with Seed 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 722,
+    "name": "COCK Tamarind with Seed 60x150g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_with_seed_60x150g_19962.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind with Seed 60x150g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 723,
+    "name": "COCK Tamarind without Seed 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_without_seed_24x454g_19968.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind without Seed 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 724,
+    "name": "COCK Tamarind without Seed 50x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_without_seed_50x454g_19967.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind without Seed 50x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 725,
+    "name": "COCK Tamarind without Seed 60x150g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tamarind_without_seed_60x150g_19972.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tamarind without Seed 60x150g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 726,
+    "name": "COCK Tapioca Pearl (L) 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_pearl_l_24x400g_19978.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Pearl (L) 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 727,
+    "name": "COCK Tapioca Pearl (S) 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_pearl_s_24x400g_19982.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Pearl (S) 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 728,
+    "name": "COCK Tapioca Pearl (S) 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_pearl_s_50x400g_19981.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Pearl (S) 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 729,
+    "name": "COCK Tapioca Pearl Pandanus Bai Toey (S) 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_pearl_pandanus_bai_toey_s_24x400g_19988.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Pearl Pandanus Bai Toey (S) 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 730,
+    "name": "COCK Tapioca Pearls (L) 50x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_pearls_l_50x454g_19977.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Pearls (L) 50x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 731,
+    "name": "COCK Tapioca Starch Rough (Arrow Root) 30x375g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_starch_rough_arrow_root_30x375g_19998.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Starch Rough (Arrow Root) 30x375g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 732,
+    "name": "COCK Tapioca Starch 20x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_starch_20x400g_19994.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Starch 20x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 733,
+    "name": "COCK Tapioca Starch 50x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tapioca_starch_50x400g_19993.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tapioca Starch 50x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 734,
+    "name": "COCK Taro Cake -18C 30x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_taro_cake_18_c_30x454g_20000.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Taro Cake -18C 30x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 735,
+    "name": "COCK Tempura Batter Mix 72x150g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tempura_batter_mix_72x150g_20143.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tempura Batter Mix 72x150g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 736,
+    "name": "COCK Thai Dessert (Ka Nom Tom) -18C 30x360g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_thai_dessert_ka_nom_tom_18_c_30x360g_20007.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Thai Dessert (Ka Nom Tom) -18C 30x360g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 737,
+    "name": "COCK Toddy & Jackfruit in Syrup 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_toddy_jackfruit_in_syrup_24x565g_20146.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Toddy & Jackfruit in Syrup 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 738,
+    "name": "COCK Toddy Palm in Syrup 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_toddy_palm_in_syrup_24x565g_20149.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Toddy Palm in Syrup 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 739,
+    "name": "COCK Tom Kha Kai Paste 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tom_kha_kai_paste_24x227g_20018.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tom Kha Kai Paste 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 740,
+    "name": "COCK Tom Yum Mix -18C 30x114g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tom_yum_mix_18_c_30x114g_20024.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tom Yum Mix -18C 30x114g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 741,
+    "name": "COCK Tom Yum Paste (Hot & Sour) 12x900g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tom_yum_paste_hot_sour_12x900g_20030.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tom Yum Paste (Hot & Sour) 12x900g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 742,
+    "name": "COCK Tom Yum Paste (Hot & Sour) 24x227g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tom_yum_paste_hot_sour_24x227g_20040.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tom Yum Paste (Hot & Sour) 24x227g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 743,
+    "name": "COCK Tom Yum Paste (Hot & Sour) 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_tom_yum_paste_hot_sour_24x454g_20036.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Tom Yum Paste (Hot & Sour) 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 744,
+    "name": "COCK Vegetable Cake -18C 30x620g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_vegetable_cake_18_c_30x620g_20046.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Vegetable Cake -18C 30x620g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 745,
+    "name": "COCK Yellow Curry Paste 12x1kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_yellow_curry_paste_12x1kg_19562.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Yellow Curry Paste 12x1kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 746,
+    "name": "COCK Yellow Curry Paste 12x50g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_yellow_curry_paste_12x50g_19570.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Yellow Curry Paste 12x50g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 747,
+    "name": "COCK Yellow Curry Paste 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_yellow_curry_paste_24x400g_19566.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Yellow Curry Paste 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 748,
+    "name": "COCK Yellow Curry Paste 3x5kg",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_yellow_curry_paste_3x5kg_19560.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Yellow Curry Paste 3x5kg from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 749,
+    "name": "COCK Yellow Noodle 24x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_yellow_noodle_24x454g_20062.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Yellow Noodle 24x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 750,
+    "name": "COCK Yellow Noodle 50x454g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_yellow_noodle_50x454g_20061.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Yellow Noodle 50x454g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 751,
+    "name": "COCK Young Green Jackfruit -18C 24x400g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_young_green_jackfruit_18_c_24x400g_20066.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Young Green Jackfruit -18C 24x400g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 752,
+    "name": "COCK Young Green Jackfruit 24x565g",
+    "category": "COCK",
+    "price": 0.99,
+    "image": "/Tropical Foods/COCK/cock_young_green_jackfruit_24x565g_20075.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "COCK Young Green Jackfruit 24x565g from Cock brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 753,
+    "name": "FARMER Glutinous Rice Flour 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_glutinous_rice_flour_34x400g_24810.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Glutinous Rice Flour 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 754,
+    "name": "FARMER Rice Flake Sheet 30x227g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_flake_sheet_30x227g_24820.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Flake Sheet 30x227g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 755,
+    "name": "FARMER Rice Flour 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_flour_34x400g_24830.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Flour 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 756,
+    "name": "FARMER Rice Sticks 10mm (XL) 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_10mm_xl_34x400g_24860.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks 10mm (XL) 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 757,
+    "name": "FARMER Rice Sticks 1mm (S) 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_1mm_s_34x400g_24840.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks 1mm (S) 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 758,
+    "name": "FARMER Rice Sticks 3mm (M) 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_3mm_m_34x400g_24850.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks 3mm (M) 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 759,
+    "name": "FARMER Rice Sticks 5mm (L) 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_5mm_l_34x400g_24855.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks 5mm (L) 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 760,
+    "name": "FARMER Rice Sticks STRAIGHT 10mm (XL) 30x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_straight_10mm_xl_30x400g_24868.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks STRAIGHT 10mm (XL) 30x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 761,
+    "name": "FARMER Rice Sticks STRAIGHT 1mm (S) 30x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_straight_1mm_s_30x400g_24862.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks STRAIGHT 1mm (S) 30x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 762,
+    "name": "FARMER Rice Sticks STRAIGHT 3mm (M) 30x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_straight_3mm_m_30x400g_24864.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks STRAIGHT 3mm (M) 30x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 763,
+    "name": "FARMER Rice Sticks STRAIGHT 5mm (L) 30x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_rice_sticks_straight_5mm_l_30x400g_24866.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Rice Sticks STRAIGHT 5mm (L) 30x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 764,
+    "name": "FARMER Tapioca Starch 34x400g",
+    "category": "FARMER",
+    "price": 0.99,
+    "image": "/Tropical Foods/FARMER/farmer_tapioca_starch_34x400g_24870.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FARMER Tapioca Starch 34x400g from Farmer brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 765,
+    "name": "FOCO ORGANIC Coconut Water 12x1Ltr",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_organic_coconut_water_12x1ltr_26076.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO ORGANIC Coconut Water 12x1Ltr from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 766,
+    "name": "FOCO Aloe Vera Dessert 24x280g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_aloe_vera_dessert_24x280g_26010.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Aloe Vera Dessert 24x280g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 767,
+    "name": "FOCO Chrysanthemum Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_chrysanthemum_drink_24x350ml_26028.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Chrysanthemum Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 768,
+    "name": "FOCO Coconut Juice Roasted 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_juice_roasted_24x350ml_26064.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Juice Roasted 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 769,
+    "name": "FOCO Coconut Juice Roasted 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_juice_roasted_24x520ml_26058.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Juice Roasted 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 770,
+    "name": "FOCO Coconut Juice 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_juice_24x350ml_26052.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Juice 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 771,
+    "name": "FOCO Coconut Juice 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_juice_24x520ml_26046.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Juice 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 772,
+    "name": "FOCO Coconut Water with Lychee 12x500ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_with_lychee_12x500ml_26092.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water with Lychee 12x500ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 773,
+    "name": "FOCO Coconut Water with Mango 12x500ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_with_mango_12x500ml_26098.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water with Mango 12x500ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 774,
+    "name": "FOCO Coconut Water with Pineapple 12x500ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_with_pineapple_12x500ml_26104.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water with Pineapple 12x500ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 775,
+    "name": "FOCO Coconut Water with Pink Guava 12x500ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_with_pink_guava_12x500ml_26110.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water with Pink Guava 12x500ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 776,
+    "name": "FOCO Coconut Water with Pomegranate 12x500ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_with_pomegranate_12x500ml_26116.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water with Pomegranate 12x500ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 777,
+    "name": "FOCO Coconut Water 12x1ltr",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_12x1ltr_26080.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water 12x1ltr from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 778,
+    "name": "FOCO Coconut Water 12x330ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_12x330ml_26088.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water 12x330ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 779,
+    "name": "FOCO Coconut Water 12x500ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_coconut_water_12x500ml_26084.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Coconut Water 12x500ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 780,
+    "name": "FOCO DE Chrysanthemum Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_chrysanthemum_drink_24x350ml_26030.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Chrysanthemum Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 781,
+    "name": "FOCO DE Coconut Juice Roasted 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_coconut_juice_roasted_24x350ml_26066.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Coconut Juice Roasted 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 782,
+    "name": "FOCO DE Coconut Juice Roasted 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_coconut_juice_roasted_24x520ml_26060.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Coconut Juice Roasted 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 783,
+    "name": "FOCO DE Coconut Juice 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_coconut_juice_24x350ml_26054.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Coconut Juice 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 784,
+    "name": "FOCO DE Coconut Juice 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_coconut_juice_24x520ml_26048.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Coconut Juice 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 785,
+    "name": "FOCO DE Guava Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_guava_nectar_24x350ml_26148.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Guava Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 786,
+    "name": "FOCO DE Lychee Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_lychee_nectar_24x350ml_26166.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Lychee Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 787,
+    "name": "FOCO DE Mango Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_mango_nectar_24x350ml_26178.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Mango Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 788,
+    "name": "FOCO DE Mango and Passion Fruit Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_mango_and_passion_fruit_nectar_24x350ml_26172.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Mango and Passion Fruit Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 789,
+    "name": "FOCO DE Mangosteen Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_mangosteen_nectar_24x350ml_26184.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Mangosteen Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 790,
+    "name": "FOCO DE Passion Fruit Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_passion_fruit_drink_24x350ml_26196.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Passion Fruit Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 791,
+    "name": "FOCO DE Pennywort Leaves Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_pennywort_leaves_drink_24x350ml_26202.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Pennywort Leaves Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 792,
+    "name": "FOCO DE Pomegranate Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_pomegranate_nectar_24x350ml_26208.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Pomegranate Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 793,
+    "name": "FOCO DE Soursop Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_soursop_drink_24x350ml_26232.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Soursop Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 794,
+    "name": "FOCO DE Sugar Cane Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_sugar_cane_nectar_24x350ml_26244.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Sugar Cane Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 795,
+    "name": "FOCO DE Tamarind Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_tamarind_nectar_24x350ml_26254.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Tamarind Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 796,
+    "name": "FOCO DE Tamarind Nectar 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_tamarind_nectar_24x520ml_26250.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Tamarind Nectar 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 797,
+    "name": "FOCO DE Thai Tea Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_de_thai_tea_drink_24x350ml_26270.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO DE Thai Tea Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 798,
+    "name": "FOCO Guava Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_guava_nectar_24x350ml_26146.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Guava Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 799,
+    "name": "FOCO Ice Cream Bar Black Sesame -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_black_sesame_18_c_6x_5x80g_26022.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Black Sesame -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 800,
+    "name": "FOCO Ice Cream Bar Coconut -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_coconut_18_c_6x_5x80g_26034.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Coconut -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 801,
+    "name": "FOCO Ice Cream Bar Durian -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_durian_18_c_6x_5x80g_26122.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Durian -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 802,
+    "name": "FOCO Ice Cream Bar Green Tea -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_green_tea_18_c_6x_5x80g_26140.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Green Tea -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 803,
+    "name": "FOCO Ice Cream Bar Jackfruit -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_jackfruit_18_c_6x_5x80g_26152.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Jackfruit -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 804,
+    "name": "FOCO Ice Cream Bar Passion Fruit -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_passion_fruit_18_c_6x_5x80g_26188.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Passion Fruit -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 805,
+    "name": "FOCO Ice Cream Bar Red Bean -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_red_bean_18_c_6x_5x80g_26212.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Red Bean -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 806,
+    "name": "FOCO Ice Cream Bar Taro -18C 6x(5x80g)",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_bar_taro_18_c_6x_5x80g_26258.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Bar Taro -18C 6x(5x80g) from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 807,
+    "name": "FOCO Ice Cream Coconut -18C 24x400g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_coconut_18_c_24x400g_26040.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Coconut -18C 24x400g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 808,
+    "name": "FOCO Ice Cream Cup Coconut 2 Port -18C 30x160g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_cup_coconut_2_port_18_c_30x160g_26191.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Cup Coconut 2 Port -18C 30x160g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 809,
+    "name": "FOCO Ice Cream Cup Durian 2 Port -18C 30x160g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_cup_durian_2_port_18_c_30x160g_26193.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Cup Durian 2 Port -18C 30x160g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 810,
+    "name": "FOCO Ice Cream Durian -18C 24x400g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_durian_18_c_24x400g_26128.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Durian -18C 24x400g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 811,
+    "name": "FOCO Ice Cream Jackfruit -18C 24x400g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_jackfruit_18_c_24x400g_26158.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Jackfruit -18C 24x400g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 812,
+    "name": "FOCO Ice Cream Red Bean -18C 24x400g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_red_bean_18_c_24x400g_26218.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Red Bean -18C 24x400g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 813,
+    "name": "FOCO Ice Cream Taro -18C 24x400g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_ice_cream_taro_18_c_24x400g_26262.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Ice Cream Taro -18C 24x400g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 814,
+    "name": "FOCO Lychee Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_lychee_nectar_24x350ml_26164.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Lychee Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 815,
+    "name": "FOCO Mango Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_mango_nectar_24x350ml_26176.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Mango Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 816,
+    "name": "FOCO Mango and Passion Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_mango_and_passion_nectar_24x350ml_26170.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Mango and Passion Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 817,
+    "name": "FOCO Mangosteen Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_mangosteen_nectar_24x350ml_26182.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Mangosteen Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 818,
+    "name": "FOCO NL Chrysanthemum Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_chrysanthemum_drink_24x350ml_26029.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Chrysanthemum Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 819,
+    "name": "FOCO NL Coconut Juice Roasted 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_coconut_juice_roasted_24x350ml_26065.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Coconut Juice Roasted 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 820,
+    "name": "FOCO NL Coconut Juice Roasted 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_coconut_juice_roasted_24x520ml_26059.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Coconut Juice Roasted 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 821,
+    "name": "FOCO NL Coconut Juice 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_coconut_juice_24x350ml_26053.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Coconut Juice 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 822,
+    "name": "FOCO NL Coconut Juice 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_coconut_juice_24x520ml_26047.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Coconut Juice 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 823,
+    "name": "FOCO NL Guava Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_guava_nectar_24x350ml_26147.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Guava Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 824,
+    "name": "FOCO NL Lychee Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_lychee_nectar_24x350ml_26165.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Lychee Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 825,
+    "name": "FOCO NL Mango Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_mango_nectar_24x350ml_26177.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Mango Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 826,
+    "name": "FOCO NL Mango and Passion Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_mango_and_passion_nectar_24x350ml_26171.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Mango and Passion Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 827,
+    "name": "FOCO NL Mangosteen Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_mangosteen_nectar_24x350ml_26183.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Mangosteen Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 828,
+    "name": "FOCO NL Passion Fruit Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_passion_fruit_nectar_24x350ml_26195.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Passion Fruit Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 829,
+    "name": "FOCO NL Pennywort Leaves Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_pennywort_leaves_drink_24x350ml_26201.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Pennywort Leaves Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 830,
+    "name": "FOCO NL Pomegranate Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_pomegranate_nectar_24x350ml_26207.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Pomegranate Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 831,
+    "name": "FOCO NL Soursop Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_soursop_drink_24x350ml_26231.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Soursop Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 832,
+    "name": "FOCO NL Sugar Cane Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_sugar_cane_nectar_24x350ml_26243.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Sugar Cane Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 833,
+    "name": "FOCO NL Tamarind Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_tamarind_nectar_24x350ml_26253.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Tamarind Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 834,
+    "name": "FOCO NL Tamarind Nectar 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_tamarind_nectar_24x520ml_26249.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Tamarind Nectar 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 835,
+    "name": "FOCO NL Thai Tea Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_nl_thai_tea_drink_24x350ml_26269.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO NL Thai Tea Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 836,
+    "name": "FOCO Passion Fruit Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_passion_fruit_nectar_24x350ml_26194.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Passion Fruit Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 837,
+    "name": "FOCO Pennywort Leaves Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_pennywort_leaves_drink_24x350ml_26200.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Pennywort Leaves Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 838,
+    "name": "FOCO Pomegranate Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_pomegranate_nectar_24x350ml_26206.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Pomegranate Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 839,
+    "name": "FOCO Roasted Coconut Water 12x1ltr",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_roasted_coconut_water_12x1ltr_26075.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Roasted Coconut Water 12x1ltr from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 840,
+    "name": "FOCO Shrimp Wonton Soup -18C 12x145g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_shrimp_wonton_soup_18_c_12x145g_26224.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Shrimp Wonton Soup -18C 12x145g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 841,
+    "name": "FOCO Soursop Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_soursop_drink_24x350ml_26230.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Soursop Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 842,
+    "name": "FOCO Sticky Rice with Mango -18C 12x250g",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_sticky_rice_with_mango_18_c_12x250g_26236.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Sticky Rice with Mango -18C 12x250g from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 843,
+    "name": "FOCO Sugar Cane Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_sugar_cane_nectar_24x350ml_26242.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Sugar Cane Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 844,
+    "name": "FOCO Tamarind Nectar 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_tamarind_nectar_24x350ml_26252.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Tamarind Nectar 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 845,
+    "name": "FOCO Tamarind Nectar 24x520ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_tamarind_nectar_24x520ml_26248.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Tamarind Nectar 24x520ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 846,
+    "name": "FOCO Thai Tea Drink 24x350ml",
+    "category": "FOCO",
+    "price": 0.99,
+    "image": "/Tropical Foods/FOCO/foco_thai_tea_drink_24x350ml_26268.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "FOCO Thai Tea Drink 24x350ml from Foco brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 847,
+    "name": "HALES Cream Soda Green 12x710ml",
+    "category": "HALES",
+    "price": 0.99,
+    "image": "/Tropical Foods/HALES/hales_cream_soda_green_12x710ml_32610.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "HALES Cream Soda Green 12x710ml from Hales brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 848,
+    "name": "HALES Sala Soda Red 12x710ml",
+    "category": "HALES",
+    "price": 0.99,
+    "image": "/Tropical Foods/HALES/hales_sala_soda_red_12x710ml_32660.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "HALES Sala Soda Red 12x710ml from Hales brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 849,
+    "name": "HAPPY BOY Wonton Pastry -18C 60x200g",
+    "category": "HAPPY BOY",
+    "price": 0.99,
+    "image": "/Tropical Foods/HAPPY BOY/happy_boy_wonton_pastry_18_c_60x200g_33460.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "HAPPY BOY Wonton Pastry -18C 60x200g from Happy boy brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 850,
+    "name": "HAPPY BOY Wonton Pastry for Deep Fry -18C 48x250g",
+    "category": "HAPPY BOY",
+    "price": 0.99,
+    "image": "/Tropical Foods/HAPPY BOY/happy_boy_wonton_pastry_for_deep_fry_18_c_48x250g_33465.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "HAPPY BOY Wonton Pastry for Deep Fry -18C 48x250g from Happy boy brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 851,
+    "name": "KHANUM Butter Ghee 12x1kg",
+    "category": "KHANUM",
+    "price": 0.99,
+    "image": "/Tropical Foods/KHANUM/khanum_butter_ghee_12x1kg_39810.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "KHANUM Butter Ghee 12x1kg from Khanum brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 852,
+    "name": "KHANUM Butter Ghee 6x500g",
+    "category": "KHANUM",
+    "price": 0.99,
+    "image": "/Tropical Foods/KHANUM/khanum_butter_ghee_6x500g_39816.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "KHANUM Butter Ghee 6x500g from Khanum brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 853,
+    "name": "MAGGI Seasoning Sauce 6x960g",
+    "category": "MAGGI",
+    "price": 0.99,
+    "image": "/Tropical Foods/MAGGI/maggi_seasoning_sauce_6x960g_51650.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MAGGI Seasoning Sauce 6x960g from Maggi brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 854,
+    "name": "RUBICON DE Sparkling Guava Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_de_sparkling_guava_drink_24x330ml_72650.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON DE Sparkling Guava Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 855,
+    "name": "RUBICON DE Sparkling Lychee Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_de_sparkling_lychee_drink_24x330ml_72656.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON DE Sparkling Lychee Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 856,
+    "name": "RUBICON DE Sparkling Mango Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_de_sparkling_mango_drink_24x330ml_72662.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON DE Sparkling Mango Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 857,
+    "name": "RUBICON DE Sparkling Pomegranate Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_de_sparkling_pomegranate_drink_24x330ml_72665.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON DE Sparkling Pomegranate Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 858,
+    "name": "RUBICON Guava Juice DeLuxe 12x1Ltr",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_guava_juice_deluxe_12x1ltr_72614.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Guava Juice DeLuxe 12x1Ltr from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 859,
+    "name": "RUBICON Lychee Juice DeLuxe 12x1ltr",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_lychee_juice_deluxe_12x1ltr_72620.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Lychee Juice DeLuxe 12x1ltr from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 860,
+    "name": "RUBICON Mango Juice DeLuxe 12x1Ltr",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_mango_juice_deluxe_12x1ltr_72630.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Mango Juice DeLuxe 12x1Ltr from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 861,
+    "name": "RUBICON NL Sparkling Guava Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_nl_sparkling_guava_drink_24x330ml_72649.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON NL Sparkling Guava Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 862,
+    "name": "RUBICON NL Sparkling Lychee Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_nl_sparkling_lychee_drink_24x330ml_72655.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON NL Sparkling Lychee Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 863,
+    "name": "RUBICON NL Sparkling Mango Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_nl_sparkling_mango_drink_24x330ml_72661.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON NL Sparkling Mango Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 864,
+    "name": "RUBICON NL Sparkling Pomegranate Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_nl_sparkling_pomegranate_drink_24x330ml_72664.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON NL Sparkling Pomegranate Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 865,
+    "name": "RUBICON Passion Fruit Juice DeLuxe 12x1Ltr",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_passion_fruit_juice_deluxe_12x1ltr_72636.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Passion Fruit Juice DeLuxe 12x1Ltr from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 866,
+    "name": "RUBICON Pineapple Juice 12x1Ltr",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_pineapple_juice_12x1ltr_72640.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Pineapple Juice 12x1Ltr from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 867,
+    "name": "RUBICON Pomegranate Juice 12x1Ltr",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_pomegranate_juice_12x1ltr_72642.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Pomegranate Juice 12x1Ltr from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 868,
+    "name": "RUBICON Sparkling Guava Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_sparkling_guava_drink_24x330ml_72648.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Sparkling Guava Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 869,
+    "name": "RUBICON Sparkling Lychee Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_sparkling_lychee_drink_24x330ml_72654.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Sparkling Lychee Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 870,
+    "name": "RUBICON Sparkling Mango Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_sparkling_mango_drink_24x330ml_72660.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Sparkling Mango Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 871,
+    "name": "RUBICON Sparkling Pomegranate Drink 24x330ml",
+    "category": "RUBICON",
+    "price": 0.99,
+    "image": "/Tropical Foods/RUBICON/rubicon_sparkling_pomegranate_drink_24x330ml_72663.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "RUBICON Sparkling Pomegranate Drink 24x330ml from Rubicon brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 872,
+    "name": "TILDA Basmati Rice 10kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_basmati_rice_10kg_87014.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Basmati Rice 10kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 873,
+    "name": "TILDA Basmati Rice 20kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_basmati_rice_20kg_87010.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Basmati Rice 20kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 874,
+    "name": "TILDA Basmati Rice 4x2kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_basmati_rice_4x2kg_87022.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Basmati Rice 4x2kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 875,
+    "name": "TILDA Basmati Rice 5kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_basmati_rice_5kg_87018.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Basmati Rice 5kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 876,
+    "name": "TILDA Basmati Rice 8x1kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_basmati_rice_8x1kg_87026.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Basmati Rice 8x1kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 877,
+    "name": "TILDA Basmati Rice 8x500g",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_basmati_rice_8x500g_87030.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Basmati Rice 8x500g from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 878,
+    "name": "TILDA Broken Basmati 10kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_broken_basmati_10kg_87040.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Broken Basmati 10kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 879,
+    "name": "TILDA Broken Basmati 20kg",
+    "category": "TILDA",
+    "price": 0.99,
+    "image": "/Tropical Foods/TILDA/tilda_broken_basmati_20kg_87036.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "TILDA Broken Basmati 20kg from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 880,
+    "name": "VIENTIANE Thai Jasmine Rice 10kg",
+    "category": "VIENTIANE",
+    "price": 0.99,
+    "image": "/Tropical Foods/VIENTIANE/vientiane_thai_jasmine_rice_10kg_91644.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "VIENTIANE Thai Jasmine Rice 10kg from Vientiane brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 881,
+    "name": "VIENTIANE Thai Jasmine Rice 12x1kg",
+    "category": "VIENTIANE",
+    "price": 0.99,
+    "image": "/Tropical Foods/VIENTIANE/vientiane_thai_jasmine_rice_12x1kg_91652.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "VIENTIANE Thai Jasmine Rice 12x1kg from Vientiane brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 882,
+    "name": "VIENTIANE Thai Jasmine Rice 18kg",
+    "category": "VIENTIANE",
+    "price": 0.99,
+    "image": "/Tropical Foods/VIENTIANE/vientiane_thai_jasmine_rice_18kg_91640.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "VIENTIANE Thai Jasmine Rice 18kg from Vientiane brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 883,
+    "name": "VIENTIANE Thai Jasmine Rice 4x45kg",
+    "category": "VIENTIANE",
+    "price": 0.99,
+    "image": "/Tropical Foods/VIENTIANE/vientiane_thai_jasmine_rice_4x4_5kg_91648.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "VIENTIANE Thai Jasmine Rice 4x45kg from Vientiane brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 884,
+    "name": "Basmati Rice Classic",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Classic.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Classic from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 885,
+    "name": "Basmati Rice Everyday",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Everyday.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Everyday from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 886,
+    "name": "Basmati Rice Exotic",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Exotic.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Exotic from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 887,
+    "name": "Basmati Rice Extra Long",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Extra Long Excel.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Extra Long from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 888,
+    "name": "Basmati Rice Golden Sella",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Golden Sella.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Golden Sella from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 889,
+    "name": "Basmati Rice Premium",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Premium Promo Pack.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Premium from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 890,
+    "name": "Basmati Rice Premium",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Premium.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Premium from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 891,
+    "name": "Basmati Rice Sella",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEBasmati Rice Sella.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Sella from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 892,
+    "name": "Gobindo Bhog Rice",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEGobindo Bhog Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Gobindo Bhog Rice from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 893,
+    "name": "Idli Rice",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEIdli Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Idli Rice from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 894,
+    "name": "Jeerakasala Rice",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEJeerakasala Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Jeerakasala Rice from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 895,
+    "name": "Ponni Rice Thanjavur",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEPonni Rice Boiled Thanjavur.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Ponni Rice Thanjavur from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 896,
+    "name": "Seeraga Samba Rice",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATESeeraga Samba Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Seeraga Samba Rice from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 897,
+    "name": "Sona Masoori Rice",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATESona Masoori Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Sona Masoori Rice from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 898,
+    "name": "Wada Kolam Rice",
+    "category": "india gate",
+    "price": 0.0,
+    "image": "/Tropical Foods/India gate/INDIA GATEWada Kolam Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Wada Kolam Rice from India gate brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 899,
+    "name": "Basmati Rice Brown",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILABasmati Rice Brown.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Brown from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 900,
+    "name": "Basmati Rice Extra Long",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILABasmati Rice Extra Long.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Extra Long from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 901,
+    "name": "Basmati Rice Golden Sella",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILABasmati Rice Golden Sella.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Golden Sella from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 902,
+    "name": "Basmati Rice",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILABasmati Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 903,
+    "name": "Idli Rice",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILAIdli Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Idli Rice from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 904,
+    "name": "Ponni Rice Boiled",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILAPonni Rice Boiled.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Ponni Rice Boiled from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 905,
+    "name": "Sona Masoori Rice",
+    "category": "laila",
+    "price": 0.0,
+    "image": "/Tropical Foods/Laila/LAILASona Masoori Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Sona Masoori Rice from Laila brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 906,
+    "name": "Biscuit Assortment Family",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Assortment Family Selection.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Assortment Family from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 907,
+    "name": "Biscuit Chocolate Cream",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Chocolate Cream.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Chocolate Cream from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 908,
+    "name": "Biscuit Chocolate Puff",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Chocolate Puff.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Chocolate Puff from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 909,
+    "name": "Biscuit Custard Cream",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Custard Cream Sandwich.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Custard Cream from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 910,
+    "name": "Biscuit Gem Sweet",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Gem Sweet.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Gem Sweet from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 911,
+    "name": "Biscuit Gold Marie",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Gold Marie.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Gold Marie from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 912,
+    "name": "Biscuit Lemon Puff",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Lemon Puff.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Lemon Puff from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 913,
+    "name": "Biscuit Marie",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuit Marie.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuit Marie from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 914,
+    "name": "Biscuits Nice",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANBiscuits Nice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Biscuits Nice from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 915,
+    "name": "Cheese Bits Crackers",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANCheese Bits Crackers.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Cheese Bits Crackers from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 916,
+    "name": "Cream Crackers Smart",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANCream Crackers Smart.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Cream Crackers Smart from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 917,
+    "name": "Ginger Cookies",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANGinger Cookies.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Ginger Cookies from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 918,
+    "name": "Hawaiian Cookies Crunchy",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANHawaiian Cookies Crunchy Coconut.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Hawaiian Cookies Crunchy from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 919,
+    "name": "Savoury Biscuits Chick Bits",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANSavoury Biscuits Chick Bits.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Savoury Biscuits Chick Bits from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 920,
+    "name": "Snack Crackers Krisco",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANSnack Crackers Krisco.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Snack Crackers Krisco from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 921,
+    "name": "Wafers with Chocolate",
+    "category": "maliban",
+    "price": 0.0,
+    "image": "/Tropical Foods/Maliban/MALIBANWafers with Chocolate Cream.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Wafers with Chocolate from Maliban brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 922,
+    "name": "Condensed Milk",
+    "category": "nestle",
+    "price": 0.0,
+    "image": "/Tropical Foods/Nestle/NESTLÉCondensed Milk.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Condensed Milk from Nestle brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 923,
+    "name": "Milk Cream Dessert",
+    "category": "nestle",
+    "price": 0.0,
+    "image": "/Tropical Foods/Nestle/NESTLÉMilk Cream Original Dessert Kaymak.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Milk Cream Dessert from Nestle brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 924,
+    "name": "Milk Powder",
+    "category": "nido",
+    "price": 0.0,
+    "image": "/Tropical Foods/Nido/NIDOMilk Powder.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Milk Powder from Nido brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 925,
+    "name": "Rice Crackers Hot",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL ORIENTRice Crackers Hot.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Rice Crackers Hot from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 926,
+    "name": "Rice Crackers Wasabi Hot",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL ORIENTRice Crackers Wasabi Hot.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Rice Crackers Wasabi Hot from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 927,
+    "name": "Cargo Rice Black",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICECargo Rice Black.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Cargo Rice Black from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 928,
+    "name": "Cargo Rice Brown",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICECargo Rice Brown.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Cargo Rice Brown from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 929,
+    "name": "Cargo Rice Red",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICECargo Rice Red.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Cargo Rice Red from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 930,
+    "name": "Glutinous Rice Black",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICEGlutinous Rice Black.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Glutinous Rice Black from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 931,
+    "name": "Glutinous Rice",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICEGlutinous Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Glutinous Rice from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 932,
+    "name": "Jasmine Rice Broken",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICEJasmine Rice Broken.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Jasmine Rice Broken from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 933,
+    "name": "Jasmine Rice",
+    "category": "royal thai rice",
+    "price": 0.0,
+    "image": "/Tropical Foods/Royal Thai Rice/ROYAL THAI RICEJasmine Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Jasmine Rice from Royal thai rice brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 934,
+    "name": "Basmati Rice Broken",
+    "category": "tilda",
+    "price": 0.0,
+    "image": "/Tropical Foods/Tilda/TILDABasmati Rice Broken.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Broken from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 935,
+    "name": "Basmati Rice Extra Long",
+    "category": "tilda",
+    "price": 0.0,
+    "image": "/Tropical Foods/Tilda/TILDABasmati Rice Extra Long.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Extra Long from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 936,
+    "name": "Basmati Rice Golden Sella",
+    "category": "tilda",
+    "price": 0.0,
+    "image": "/Tropical Foods/Tilda/TILDABasmati Rice Golden Sella.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice Golden Sella from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 937,
+    "name": "Basmati Rice",
+    "category": "tilda",
+    "price": 0.0,
+    "image": "/Tropical Foods/Tilda/TILDABasmati Rice.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "description": "Basmati Rice from Tilda brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 938,
+    "name": "MISAKO Blanched White Peanuts 12x1kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_blanched_white_peanuts_12x1kg_56010.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Blanched White Peanuts 12x1kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 939,
+    "name": "MISAKO Blanched White Peanuts 20x500g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_blanched_white_peanuts_20x500g_56016.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Blanched White Peanuts 20x500g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 940,
+    "name": "MISAKO Fuji Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_fuji_cracker_mix_6x200g_56022.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Fuji Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 941,
+    "name": "MISAKO Green Plum Wine 105 12x355ml",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_green_plum_wine_105_12x355ml_16148.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Green Plum Wine 105 12x355ml from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 942,
+    "name": "MISAKO Green Plum Wine 105 6x720ml",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_green_plum_wine_105_6x720ml_16145.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Green Plum Wine 105 6x720ml from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 943,
+    "name": "MISAKO Hokkaido Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_hokkaido_cracker_mix_6x200g_56024.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Hokkaido Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 944,
+    "name": "MISAKO Ice Cream Coconut -18C 6x1Ltr",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_ice_cream_coconut_-18c_6x1ltr_56101.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Ice Cream Coconut -18C 6x1Ltr from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 945,
+    "name": "MISAKO Ice Cream Kuro Goma Black Sesame -18C 6x1Ltr",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_ice_cream_kuro_goma_black_sesame_-18c_6x1ltr_56103.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Ice Cream Kuro Goma Black Sesame -18C 6x1Ltr from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 946,
+    "name": "MISAKO Ice Cream Lychee -18C 6x1Ltr",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_ice_cream_lychee_-18c_6x1ltr_56105.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Ice Cream Lychee -18C 6x1Ltr from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 947,
+    "name": "MISAKO Ice Cream Maccha Green Tea -18C 6x1Ltr",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_ice_cream_maccha_green_tea_-18c_6x1ltr_56109.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Ice Cream Maccha Green Tea -18C 6x1Ltr from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 948,
+    "name": "MISAKO Ice Cream Mango -18C 6x1Ltr",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_ice_cream_mango_-18c_6x1ltr_56107.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Ice Cream Mango -18C 6x1Ltr from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 949,
+    "name": "MISAKO Kobe Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_kobe_cracker_mix_6x200g_56026.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Kobe Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 950,
+    "name": "MISAKO Kurama Fire Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_kurama_fire_cracker_mix_6x200g_56030.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Kurama Fire Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 951,
+    "name": "MISAKO Miyajima Rice Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_miyajima_rice_cracker_mix_6x200g_56040.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Miyajima Rice Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 952,
+    "name": "MISAKO Nagasaki Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_nagasaki_cracker_mix_6x200g_56032.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Nagasaki Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 953,
+    "name": "MISAKO Nori Rice & Peanut Cracker 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_nori_rice_peanut_cracker_6x200g_56046.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Nori Rice & Peanut Cracker 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 954,
+    "name": "MISAKO Osaka Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_osaka_cracker_mix_6x200g_56036.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Osaka Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 955,
+    "name": "MISAKO Panko Bread Crumbs 10kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_panko_bread_crumbs_10kg_56052.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Panko Bread Crumbs 10kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 956,
+    "name": "MISAKO Panko Bread Crumbs 10x1kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_panko_bread_crumbs_10x1kg_56058.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Panko Bread Crumbs 10x1kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 957,
+    "name": "MISAKO Panko Bread Crumbs 12x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_panko_bread_crumbs_12x200g_56064.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Panko Bread Crumbs 12x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 958,
+    "name": "MISAKO Pickled Radish Sushi Takuan 20x500g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_pickled_radish_sushi_takuan_20x500g_11245.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Pickled Radish Sushi Takuan 20x500g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 959,
+    "name": "MISAKO Rice Cracker Mix w Cheese 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_rice_cracker_mix_w_cheese_6x200g_56070.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Rice Cracker Mix w Cheese 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 960,
+    "name": "MISAKO Samurai Spicy Rice Cracker 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_samurai_spicy_rice_cracker_6x200g_56028.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Samurai Spicy Rice Cracker 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 961,
+    "name": "MISAKO Sapporo Cracker Mix 6x200g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sapporo_cracker_mix_6x200g_56048.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sapporo Cracker Mix 6x200g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 962,
+    "name": "MISAKO Smoked Almonds 6x500g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_smoked_almonds_6x500g_56019.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Smoked Almonds 6x500g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 963,
+    "name": "MISAKO Sushi Ginger Natural 10x15kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sushi_ginger_natural_10x15kg_11380.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sushi Ginger Natural 10x15kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 964,
+    "name": "MISAKO Sushi Ginger Pink 10x15kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sushi_ginger_pink_10x15kg_11370.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sushi Ginger Pink 10x15kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 965,
+    "name": "MISAKO Sushi Ginger Pink 30x90g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sushi_ginger_pink_30x90g_11373.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sushi Ginger Pink 30x90g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 966,
+    "name": "MISAKO Sushi Rice 10kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sushi_rice_10kg_56076.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sushi Rice 10kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 967,
+    "name": "MISAKO Sushi Rice 12x1kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sushi_rice_12x1kg_56088.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sushi Rice 12x1kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 968,
+    "name": "MISAKO Sushi Rice 4x5kg",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_sushi_rice_4x5kg_56082.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Sushi Rice 4x5kg from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  },
+  {
+    "id": 969,
+    "name": "MISAKO Wasabi Pinatsu 10x500g",
+    "category": "MISAKO",
+    "price": 0.99,
+    "image": "/Tropical Foods/MISAKO/misako_wasabi_pinatsu_10x500g_56094.jpg",
+    "rating": 4.5,
+    "reviews": 120,
+    "description": "MISAKO Wasabi Pinatsu 10x500g from Misako brand, perfect for everyday cooking.",
+    "inStock": true
+  }
 ];
-
-
 
 export default products;
