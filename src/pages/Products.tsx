@@ -67,7 +67,6 @@ const Products = () => {
     { "id": "nestle", "name": "Nestle" },
     { "id": "nido", "name": "Nido" },
     { "id": "royal thai rice", "name": "Royal Thai Rice" },
-    { "id": "tilda", "name": "Tilda" }
     ];
    
   const categories = [
@@ -279,11 +278,11 @@ const Products = () => {
 
                       {/* <div className="p-6 flex flex-col gap-[5px] min-h-238 justify-between"> */}
                       <div className="p-5 flex flex-col gap-[2px] h-[185px] justify-between max-h-[50%] ">
-                      <h6 className="text-sm lg:text-base font-semibold mb-2 dark:text-white line-clamp-2 text-center">
+                      <h6 className="text-sm lg:text-base font-semibold mb-2 dark:text-white text-center">
                         {product.name}
                       </h6>
 
-                      <p className="text-xs sm:text-sm lg:text-base text-gray-600 dark:text-gray-400 mb-5 line-clamp-2 sm:line-clamp-3 text-center">
+                      <p className="text-xs sm:text-sm text-gray-600 dark:text-gray-400 mb-5 line-clamp-3 text-center">
                         {product.description}
                       </p>
 
