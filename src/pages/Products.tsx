@@ -133,9 +133,9 @@ const Products = () => {
 
         {/* Search & Filter */}
         <section className="py-8 bg-white dark:bg-gray-800 shadow-sm sticky top-16 z-40">
-          <div className="mx-auto px-4 flex flex-col lg:flex-row gap-4 items-center justify-between">
+          <div className="mx-auto px-4 flex flex-col  gap-4 items-center justify-between">
             {/* Search */}
-            <div className="relative w-full lg:w-96">
+            <div className="relative w-full lg:w-[50%]">
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-gray-400" />
               <input
                   type="text"
@@ -162,7 +162,8 @@ const Products = () => {
                   </button>
               ))}
             </div> */}
-        <div className="flex gap-2 w-full max-w-full overflow-x-auto pb-1 no-scrollbar">
+        <div className="flex gap-2 w-full max-w-full overflow-x-auto pb-2 no-scrollbar "
+                >
           {categories.map(category => (
             <button
               key={category.id}

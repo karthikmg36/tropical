@@ -66,13 +66,17 @@
 
 /* Custom scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 5px;
+  height: 5px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #ece8e8;
 }
 
+::-webkit-scrollbar-button{
+  width: 10px;
+}
 ::-webkit-scrollbar-thumb {
   background: linear-gradient(to bottom, #10b981, #14b8a6);
   border-radius: 4px;
@@ -81,17 +85,22 @@
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(to bottom, #059669, #0d9488);
 }
-.no-scrollbar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
+@media (max-width: 1024px){
+    .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    scrollbar-gutter: none;
+  }
 }
-
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
-}
+/* @media (min-width:1024px){
+  .no-scrollbar::-webkit-scrollbar {
+    
+  }
+} */
 /* In your global CSS (e.g., styles.css or globals.css) */
 .text-glow {
   color: #1a5632;
   text-shadow: 1px 1px 2px rgba(42, 107, 63, 0.4),
                  0 0 1px rgba(42, 107, 63, 0.3);
 }
+
